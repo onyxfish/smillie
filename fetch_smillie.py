@@ -36,7 +36,7 @@ REF_END = 93
 YEAR_OFFSET = 1816
 
 # Seconds to wait between image downloads (be polite to the server)
-IMAGE_DELAY = 0.25
+IMAGE_DELAY = 0.1
 
 
 # ---------------------------------------------------------------------------
