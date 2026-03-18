@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Diaries of James David Smillie</title>
+  <meta name="description" content="AI-generated transcriptions of the personal diaries of American artist James David Smillie (1833-1909), spanning 1865-1909.">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="icon" href="/favicon.ico">
+</head>
+<body>
+  <header class="header">
+    <a href="/" class="header-title">The Diaries of James David Smillie</a>
+    <nav class="header-nav">
+      <a href="/about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="main">
+    <!-- Navigation controls -->
+    <div class="nav-controls">
+      <div class="nav-buttons">
+        <button type="button" id="prev-btn" class="nav-btn" aria-label="Previous image">
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+            <path d="M12.5 15L7.5 10L12.5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          Prev
+        </button>
+        <span id="nav-label" class="nav-label">Loading...</span>
+        <button type="button" id="next-btn" class="nav-btn" aria-label="Next image">
+          Next
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+            <path d="M7.5 15L12.5 10L7.5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+      </div>
+      
+      <div class="scrubber-container">
+        <input type="range" id="scrubber" class="scrubber" min="0" max="100" value="0" aria-label="Timeline scrubber">
+        <div id="year-labels" class="year-labels"></div>
+      </div>
+      
+      <div class="secondary-controls">
+        <div class="date-control">
+          <label for="date-picker" class="visually-hidden">Jump to date</label>
+          <input type="date" id="date-picker" class="date-picker">
+        </div>
+        <div class="search-control">
+          <label for="search-input" class="visually-hidden">Search diaries</label>
+          <input type="search" id="search-input" class="search-input" placeholder="Search...">
+          <div id="search-results" class="search-results" hidden></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Diary photograph -->
+    <div class="image-container">
+      <img id="diary-image" src="" alt="" class="diary-image" loading="eager">
+      <div id="image-loading" class="image-loading" aria-label="Loading image">
+        <span class="spinner"></span>
+      </div>
+    </div>
+
+    <!-- Transcription area -->
+    <div id="transcription-area" class="transcription-area">
+      <div class="tx-loading" aria-label="Loading transcription" aria-live="polite">
+        <span class="spinner"></span>
+      </div>
+    </div>
+
+    <!-- Bottom navigation -->
+    <div class="bottom-nav">
+      <button type="button" id="prev-btn-bottom" class="nav-btn" aria-label="Previous image">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M12.5 15L7.5 10L12.5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Prev
+      </button>
+      <button type="button" id="next-btn-bottom" class="nav-btn" aria-label="Next image">
+        Next
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M7.5 15L12.5 10L7.5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+    </div>
+  </main>
+
+  <!-- Lightbox for zoomed image -->
+  <div id="lightbox" class="lightbox" role="dialog" aria-label="Zoomed diary image" aria-modal="true">
+    <img id="lightbox-image" src="" alt="" class="lightbox-image">
+    <button type="button" id="lightbox-close" class="lightbox-close" aria-label="Close">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+        <path d="M18 6L6 18M6 6L18 18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </button>
+  </div>
+
+  <script type="module" src="/js/main.js"></script>
+</body>
+</html>

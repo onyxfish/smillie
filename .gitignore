@@ -23,3 +23,10 @@ data/
 .idea/
 .vscode/
 *.swp
+
+# Node
+node_modules/
+
+# Build artifacts (web)
+pagefind-source/
+site/public/data/
