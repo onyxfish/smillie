@@ -158,7 +158,7 @@ def init_progress_csv(data_dir: Path, csv_path: Path, out_dir: Path) -> None:
 
     reset = 0
     for row in rows:
-        if row["status"] in ("done", "submitted"):
+        if row["status"] == "done":
             md_path = out_dir / row["year"] / (Path(row["image"]).stem + ".md")
             if not md_path.exists():
                 row["status"] = "pending"
@@ -480,7 +480,7 @@ def cmd_submit(args: argparse.Namespace, client: anthropic.Anthropic) -> None:
         file_id = file_id_map[(row["year"], row["image"])]
         requests.append(
             Request(
-                custom_id=f"{row['year']}/{row['image']}",
+                custom_id=f"{row['year']}_{Path(row['image']).stem}",
                 params=MessageCreateParamsNonStreaming(
                     model=args.model,
                     max_tokens=MAX_TOKENS,
@@ -588,14 +588,15 @@ def cmd_collect(args: argparse.Namespace, client: anthropic.Anthropic) -> None:
 
     try:
         for result in client.messages.batches.results(batch_id):
-            # custom_id is "YYYY/filename.jpg"
-            parts = result.custom_id.split("/", 1)
+            # custom_id is "YYYY_stem" (e.g. "1865_AAA-AAA_smilsmil_2303576")
+            parts = result.custom_id.split("_", 1)
             if len(parts) != 2:
                 tqdm.write(
                     f"  WARNING: unexpected custom_id format: {result.custom_id}"
                 )
                 continue
-            year, image = parts
+            year, stem = parts
+            image = stem + ".jpg"
 
             if result.result.type == "succeeded":
                 content = result.result.message.content

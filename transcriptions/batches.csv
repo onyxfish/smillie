@@ -1,1 +1,7 @@
 batch_id,submitted_at,status,total,succeeded,errored,expired
+msgbatch_01KFrfyinGNqAnx6RuUmZL4Y,2026-03-18T03:07:17Z,ended,5,5,0,0
+msgbatch_01YQHcBc4NxnpEUPFC4KwGJq,2026-03-18T03:08:05Z,ended,5,5,0,0
+msgbatch_01U1DwAKtySgCnUBSuSWTaXu,2026-03-18T03:13:15Z,ended,15,15,0,0
+msgbatch_01R2GVccjRWASXjvFaQH5Gq1,2026-03-18T03:14:50Z,ended,15,15,0,0
+msgbatch_01Lf6jqPDNuo5Y2b4gDymXcq,2026-03-18T03:17:46Z,ended,15,15,0,0
+msgbatch_01Hbv5UBu3vJp8gXRswKtWQN,2026-03-18T03:22:38Z,in_progress,58,0,0,0
