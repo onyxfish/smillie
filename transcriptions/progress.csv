@@ -10,8 +10,8 @@ year,image,status,model,transcribed_at,error
 1865,AAA-AAA_smilsmil_2303584.jpg,error,claude-sonnet-4-6,2026-03-17T21:48:07Z,"API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZ9PUVgobfVvd5MhJjWeG'}"
 1865,AAA-AAA_smilsmil_2303585.jpg,error,claude-sonnet-4-6,2026-03-17T21:55:48Z,"API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZ9Q4UAiyBbg34wofMDDo'}"
 1865,AAA-AAA_smilsmil_2303586.jpg,error,claude-sonnet-4-6,2026-03-17T22:01:17Z,"API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZ9QUgrdWoFspXYHCmtEZ'}"
-1865,AAA-AAA_smilsmil_2303587.jpg,done,claude-sonnet-4-6,2026-03-17T22:02:33Z,
-1865,AAA-AAA_smilsmil_2303588.jpg,done,claude-sonnet-4-6,2026-03-17T22:05:01Z,
+1865,AAA-AAA_smilsmil_2303587.jpg,pending,,,
+1865,AAA-AAA_smilsmil_2303588.jpg,pending,,,
 1865,AAA-AAA_smilsmil_2303589.jpg,pending,,,
 1865,AAA-AAA_smilsmil_2303590.jpg,pending,,,
 1865,AAA-AAA_smilsmil_2303591.jpg,pending,,,
