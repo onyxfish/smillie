@@ -5,23 +5,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>The Diaries of James David Smillie</title>
   <meta name="description" content="AI-generated transcriptions of the personal diaries of American artist James David Smillie (1833-1909), spanning 1865-1909.">
-  
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
-  
+
   <link rel="stylesheet" href="/css/main.css">
   <link rel="icon" href="/favicon.ico">
 </head>
 <body>
   <header class="header">
     <a href="/" class="header-title">The Diaries of James David Smillie</a>
+    <form id="search-form" class="search-form" role="search">
+      <label for="search-input" class="visually-hidden">Search diaries</label>
+      <input type="search" id="search-input" class="search-input" placeholder="Search..." autocomplete="off">
+      <button type="submit" class="search-btn">Search</button>
+    </form>
     <nav class="header-nav">
       <a href="/about.html">About</a>
     </nav>
   </header>
 
-  <main class="main">
+  <!-- Diary viewer -->
+  <main class="main" id="viewer-page">
     <!-- Navigation controls -->
     <div class="nav-controls">
       <div class="nav-buttons">
@@ -31,7 +37,8 @@
           </svg>
           Prev
         </button>
-        <span id="nav-label" class="nav-label">Loading...</span>
+        <label for="date-picker" class="visually-hidden">Jump to date</label>
+        <input type="date" id="date-picker" class="date-picker nav-date-picker" aria-label="Jump to date">
         <button type="button" id="next-btn" class="nav-btn" aria-label="Next image">
           Next
           <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
@@ -39,22 +46,10 @@
           </svg>
         </button>
       </div>
-      
+
       <div class="scrubber-container">
         <input type="range" id="scrubber" class="scrubber" min="0" max="100" value="0" aria-label="Timeline scrubber">
         <div id="year-labels" class="year-labels"></div>
-      </div>
-      
-      <div class="secondary-controls">
-        <div class="date-control">
-          <label for="date-picker" class="visually-hidden">Jump to date</label>
-          <input type="date" id="date-picker" class="date-picker">
-        </div>
-        <div class="search-control">
-          <label for="search-input" class="visually-hidden">Search diaries</label>
-          <input type="search" id="search-input" class="search-input" placeholder="Search...">
-          <div id="search-results" class="search-results" hidden></div>
-        </div>
       </div>
     </div>
 
@@ -88,6 +83,14 @@
         </svg>
       </button>
     </div>
+  </main>
+
+  <!-- Search results page -->
+  <main class="main search-page" id="search-page" hidden>
+    <div class="search-page-header">
+      <h1 class="search-heading">Results for <em id="search-query-display"></em></h1>
+    </div>
+    <div id="search-results" class="search-results-list" aria-live="polite"></div>
   </main>
 
   <!-- Lightbox for zoomed image -->

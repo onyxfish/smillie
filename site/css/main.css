@@ -102,7 +102,7 @@ a:hover {
 .header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  gap: var(--space-lg);
   max-width: var(--max-width);
   margin: 0 auto;
   padding: var(--space-md) var(--space-lg);
@@ -113,11 +113,65 @@ a:hover {
   font-weight: 500;
   color: var(--color-text);
   text-decoration: none;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .header-title:hover {
   text-decoration: none;
   color: var(--color-accent);
+}
+
+/* Search form — grows to fill space between title and nav */
+.search-form {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  max-width: 340px;
+}
+
+.search-input {
+  flex: 1;
+  min-width: 0;
+  padding: var(--space-sm) var(--space-md);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-size: 0.875rem;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--color-accent);
+}
+
+.search-input::placeholder {
+  color: var(--color-text-muted);
+}
+
+.search-btn {
+  padding: var(--space-sm) var(--space-md);
+  background: var(--color-accent);
+  border: 1px solid var(--color-accent);
+  border-radius: var(--radius-sm);
+  color: #fff;
+  font-size: 0.875rem;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: background-color 0.15s, border-color 0.15s;
+  flex-shrink: 0;
+}
+
+.search-btn:hover {
+  background: var(--color-accent-hover);
+  border-color: var(--color-accent-hover);
+}
+
+.header-nav {
+  flex-shrink: 0;
+  margin-left: auto;
 }
 
 .header-nav a {
@@ -137,7 +191,7 @@ a:hover {
 .main {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 0 var(--space-lg) var(--space-xl);
+  padding: var(--space-lg) var(--space-lg) var(--space-xl);
 }
 
 /* ==========================================================================
@@ -186,11 +240,28 @@ a:hover {
   flex-shrink: 0;
 }
 
-.nav-label {
+/* Date picker styled as a nav label */
+.nav-date-picker {
+  border: none;
+  background: transparent;
   font-size: 0.9375rem;
   color: var(--color-text-muted);
-  min-width: 140px;
   text-align: center;
+  cursor: pointer;
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: var(--radius-sm);
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.nav-date-picker:hover {
+  background: var(--color-accent-light);
+  color: var(--color-text);
+}
+
+.nav-date-picker:focus {
+  outline: none;
+  background: var(--color-accent-light);
+  color: var(--color-text);
 }
 
 /* Scrubber */
@@ -251,102 +322,6 @@ a:hover {
   font-size: 0.6875rem;
   color: var(--color-text-muted);
   transform: translateX(-50%);
-}
-
-/* Secondary controls */
-.secondary-controls {
-  display: flex;
-  gap: var(--space-md);
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.date-picker {
-  padding: var(--space-sm) var(--space-md);
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-sm);
-  background: var(--color-surface);
-  color: var(--color-text);
-  font-size: 0.875rem;
-}
-
-.date-picker:focus {
-  outline: none;
-  border-color: var(--color-accent);
-}
-
-.search-control {
-  position: relative;
-}
-
-.search-input {
-  width: 200px;
-  padding: var(--space-sm) var(--space-md);
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-sm);
-  background: var(--color-surface);
-  color: var(--color-text);
-  font-size: 0.875rem;
-}
-
-.search-input:focus {
-  outline: none;
-  border-color: var(--color-accent);
-}
-
-.search-input::placeholder {
-  color: var(--color-text-muted);
-}
-
-.search-results {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  right: 0;
-  margin-top: var(--space-xs);
-  background: var(--color-surface);
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-md);
-  box-shadow: var(--shadow-md);
-  max-height: 400px;
-  overflow-y: auto;
-  z-index: 100;
-}
-
-.search-result {
-  display: block;
-  padding: var(--space-sm) var(--space-md);
-  border-bottom: 1px solid var(--color-border-light);
-  color: var(--color-text);
-  text-decoration: none;
-}
-
-.search-result:last-child {
-  border-bottom: none;
-}
-
-.search-result:hover {
-  background: var(--color-accent-light);
-  text-decoration: none;
-}
-
-.result-meta {
-  display: block;
-  font-size: 0.8125rem;
-  font-weight: 500;
-  margin-bottom: var(--space-xs);
-}
-
-.result-excerpt {
-  display: block;
-  font-size: 0.8125rem;
-  color: var(--color-text-muted);
-  line-height: 1.4;
-}
-
-.result-excerpt mark {
-  background: var(--color-accent-light);
-  color: var(--color-text);
 }
 
 /* ==========================================================================
@@ -566,6 +541,93 @@ a:hover {
 }
 
 /* ==========================================================================
+   Search Page
+   ========================================================================== */
+
+.search-page {
+  max-width: 720px;
+}
+
+.search-page-header {
+  margin-bottom: var(--space-lg);
+  padding-bottom: var(--space-md);
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+.search-heading {
+  font-family: var(--font-sans);
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin: 0;
+  color: var(--color-text);
+}
+
+.search-heading em {
+  font-style: normal;
+  color: var(--color-text-muted);
+}
+
+.search-loading {
+  display: flex;
+  justify-content: center;
+  padding: var(--space-xl);
+}
+
+.search-message {
+  color: var(--color-text-muted);
+  padding: var(--space-lg) 0;
+  margin: 0;
+}
+
+.search-results-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-result-card {
+  display: block;
+  padding: var(--space-md) 0;
+  border-bottom: 1px solid var(--color-border-light);
+  color: var(--color-text);
+  text-decoration: none;
+  transition: color 0.1s;
+}
+
+.search-result-card:last-child {
+  border-bottom: none;
+}
+
+.search-result-card:hover {
+  text-decoration: none;
+}
+
+.search-result-card:hover .search-result-title {
+  color: var(--color-accent);
+}
+
+.search-result-title {
+  display: block;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  margin-bottom: var(--space-xs);
+  transition: color 0.1s;
+}
+
+.search-result-excerpt {
+  margin: 0;
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  line-height: 1.5;
+}
+
+.search-result-excerpt mark {
+  background: var(--color-accent-light);
+  color: var(--color-text);
+  border-radius: 2px;
+  padding: 0 1px;
+}
+
+/* ==========================================================================
    About Page
    ========================================================================== */
 
@@ -577,14 +639,14 @@ a:hover {
   font-family: var(--font-serif);
   font-size: 2rem;
   font-weight: 500;
-  margin: 0 0 var(--space-xl);
+  margin: 0 0 var(--space-md);
 }
 
 .about-content h2 {
   font-family: var(--font-sans);
   font-size: 1.25rem;
   font-weight: 500;
-  margin: var(--space-xl) 0 var(--space-md);
+  margin: var(--space-lg) 0 var(--space-xs);
   color: var(--color-text);
 }
 
@@ -610,7 +672,7 @@ a:hover {
 }
 
 .about-content section {
-  margin-bottom: var(--space-xl);
+  margin-bottom: var(--space-lg);
 }
 
 /* ==========================================================================
@@ -638,33 +700,21 @@ a:hover {
 @media (max-width: 768px) {
   .header {
     padding: var(--space-md);
+    flex-wrap: wrap;
+  }
+
+  .search-form {
+    order: 3;
+    max-width: 100%;
+    flex: 1 1 100%;
   }
 
   .main {
-    padding: 0 var(--space-md) var(--space-xl);
+    padding: var(--space-md) var(--space-md) var(--space-xl);
   }
 
   .transcription-columns {
     grid-template-columns: 1fr;
-  }
-
-  .nav-buttons {
-    flex-wrap: wrap;
-  }
-
-  .nav-label {
-    order: -1;
-    width: 100%;
-    margin-bottom: var(--space-sm);
-  }
-
-  .secondary-controls {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .search-input {
-    width: 100%;
   }
 
   .year-labels {

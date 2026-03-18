@@ -52,7 +52,7 @@ TRANSCRIPTIONS_DIR = Path("transcriptions")
 PROGRESS_CSV = TRANSCRIPTIONS_DIR / "progress.csv"
 FILE_IDS_CSV = TRANSCRIPTIONS_DIR / "file_ids.csv"
 BATCHES_CSV = TRANSCRIPTIONS_DIR / "batches.csv"
-PLAN_MD = Path("TRANSCRIPTION_PLAN.md")
+PLAN_MD = Path("agents/TRANSCRIPTION_PLAN.md")
 
 PROGRESS_FIELDS = ["year", "image", "status", "model", "transcribed_at", "error"]
 FILE_IDS_FIELDS = ["year", "image", "file_id", "uploaded_at"]
