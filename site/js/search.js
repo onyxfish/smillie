@@ -44,8 +44,9 @@ export function initSearch() {
 /**
  * Lazy load Pagefind
  */
-// Construct the URL at module scope so Vite's static import analysis never
-// sees a literal string that looks like a local path it should resolve.
+// Build the URL from parts so Vite's static import analysis never sees a
+// resolvable string literal. The middleware in vite.config.js strips the
+// ?import query param Vite appends and serves the file from dist/pagefind/.
 const PAGEFIND_URL = ['', 'pagefind', 'pagefind.js'].join('/')
 
 async function getPagefind() {

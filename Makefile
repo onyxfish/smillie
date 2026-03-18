@@ -11,10 +11,12 @@ install:
 clean:
 	rm -rf dist pagefind-source site/public/data
 
-# Development: build data for one year and start dev server
+# Development: build data + pagefind index for one year, then start dev server
 # Run `make dev` then open http://localhost:5173
+# Search is served from dist/pagefind/ via a dev-server middleware in vite.config.js
 dev: install
 	python3 build_site.py --year 1865
+	npx pagefind --site pagefind-source --output-path dist/pagefind
 	@echo "Starting image server on port 8001 (background)..."
 	@python3 -m http.server 8001 --directory data > /dev/null 2>&1 &
 	npm run dev
