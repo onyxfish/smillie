@@ -6,7 +6,7 @@
  * Routes (hash-based, works on static S3 hosting):
  *   #YYYY/NNNN        → diary viewer
  *   #search?q=...     → search results page
- *   # or unknown      → diary viewer at first image
+ *   # or unknown      → diary viewer at default image
  */
 
 import { initViewer, renderEntry } from './viewer.js'
@@ -26,6 +26,12 @@ let idToIndex = null
 // Page elements
 let viewerPage = null
 let searchPage = null
+
+const DEFAULT_ENTRY_ID = '1865/0002'
+
+function getDefaultId() {
+  return manifest?.[DEFAULT_ENTRY_ID] ? DEFAULT_ENTRY_ID : ids[0]
+}
 
 /**
  * Load all data files in parallel
@@ -99,7 +105,7 @@ export function navigate(urlOrId, replace = false) {
   // or legacy path (/YYYY/NNNN) for backwards compatibility
   let id = normalized.startsWith('/') ? normalized.slice(1) : normalized
   if (!id || !manifest[id]) {
-    id = ids[0]
+    id = getDefaultId()
   }
 
   const newHash = `#${id}`
@@ -120,7 +126,7 @@ export function navigate(urlOrId, replace = false) {
  * Navigate by ±1 (prev/next buttons, keyboard)
  */
 export function navigateByDelta(delta) {
-  const currentId = hashToId(location.hash) || ids[0]
+  const currentId = hashToId(location.hash) || getDefaultId()
   const currentIndex = idToIndex.get(currentId) ?? 0
   const newIndex = Math.max(0, Math.min(ids.length - 1, currentIndex + delta))
   if (newIndex !== currentIndex) navigate(ids[newIndex])
@@ -215,9 +221,9 @@ function routeFromHash(hash, replace = false) {
     return
   }
 
-  const id = hashToId(hash) || ids[0]
+  const id = hashToId(hash) || getDefaultId()
   if (!hashToId(hash)) {
-    // Redirect to the canonical first-image hash without creating a new history entry
+    // Redirect to the canonical default-image hash without creating a new history entry
     history.replaceState(null, '', `#${id}`)
   }
 
