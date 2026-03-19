@@ -1,4 +1,4 @@
-BUCKET    ?= smilliediaries.org
+BUCKET    ?= smilliediaries.com
 CF_DIST   ?= REPLACE_WITH_DIST_ID
 
 .PHONY: dev build deploy upload-images clean install
@@ -42,9 +42,9 @@ deploy: build
 	# Search index: 30-day cache
 	aws s3 sync dist/pagefind/ s3://$(BUCKET)/pagefind/ \
 	  --cache-control "public,max-age=2592000"
-	# Invalidate CloudFront cache
-	aws cloudfront create-invalidation \
-	  --distribution-id $(CF_DIST) --paths "/*"
+# 	# Invalidate CloudFront cache
+# 	aws cloudfront create-invalidation \
+# 	  --distribution-id $(CF_DIST) --paths "/*"
 
 # Upload diary images to S3 (one-time, ~6.8 GB)
 upload-images:

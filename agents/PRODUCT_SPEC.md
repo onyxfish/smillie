@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Site name** | The Diaries of James David Smillie (1833–1909) |
-| **Domain** | smilliediaries.org |
+| **Domain** | smilliediaries.com |
 
 ---
 
@@ -23,10 +23,10 @@
 
 | Resource | URL Pattern |
 |---|---|
-| Viewer (first image) | `smilliediaries.org/` |
-| Specific photograph | `smilliediaries.org/1865/0001` |
-| About page | `smilliediaries.org/about` |
-| Images | `smilliediaries.org/images/1865/AAA-AAA_smilsmil_XXXXXXX.jpg` |
+| Viewer (first image) | `smilliediaries.com/` |
+| Specific photograph | `smilliediaries.com/1865/0001` |
+| About page | `smilliediaries.com/about` |
+| Images | `smilliediaries.com/images/1865/AAA-AAA_smilsmil_XXXXXXX.jpg` |
 
 URLs update via `pushState` as the user navigates. The browser back/forward buttons work correctly. Copying the URL from the address bar always produces a link that returns to the same photograph.
 
@@ -178,7 +178,7 @@ smillie/
 
 - **Hosting:** AWS S3 (static website) + **CloudFront** (CDN, HTTPS, custom domain)
 - **Single bucket:** both static site assets and images (`/images/YYYY/filename.jpg`)
-- **Domain:** smilliediaries.org — DNS pointed at CloudFront distribution
+- **Domain:** smilliediaries.com — DNS pointed at CloudFront distribution
 - **HTTPS:** via CloudFront + ACM certificate
 - **No server-side logic** of any kind; the site functions entirely from S3-served static files
 - **Redeployment:** running the build pipeline and syncing to S3 is the complete update process — no ongoing maintenance required
@@ -222,7 +222,7 @@ smillie/
 
 ### Phase 6 — Infrastructure
 14. S3 bucket setup: static website hosting, bucket policy, image upload
-15. CloudFront distribution: HTTPS, smilliediaries.org, cache behaviors
+15. CloudFront distribution: HTTPS, smilliediaries.com, cache behaviors
 16. DNS configuration
 17. Deployment script / Makefile target
 

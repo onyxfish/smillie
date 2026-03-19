@@ -118,7 +118,13 @@ Output is in `dist/`.
 
 ## Deployment
 
-The site is deployed as a static site to S3 + CloudFront. Images are stored separately at `s3://smilliediaries.org/images/`.
+The site is deployed as a static site to S3 + CloudFront. Images are stored separately at `s3://smilliediaries.com/images/`.
+
+### Set your working profile
+
+```bash
+export AWS_PROFILE=foo
+```
 
 ### First-time image upload (~6.8 GB, one-time)
 
@@ -132,21 +138,7 @@ make upload-images
 make deploy
 ```
 
-This builds the site, syncs `dist/` to S3 with appropriate cache headers, and invalidates the CloudFront distribution.
-
-Before deploying, set the S3 bucket name and CloudFront distribution ID:
-
-```bash
-make deploy BUCKET=smilliediaries.org CF_DIST=EXXXXXXXXXX
-```
-
-Or export them as environment variables:
-
-```bash
-export BUCKET=smilliediaries.org
-export CF_DIST=EXXXXXXXXXX
-make deploy
-```
+This builds the site, syncs `dist/` to S3 with appropriate cache headers, and invalidates the CloudFront distribution. See the top of the Makefile for configuration variables.
 
 ---
 

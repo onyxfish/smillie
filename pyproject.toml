@@ -6,6 +6,7 @@ dependencies = [
     "requests>=2.31",
     "anthropic>=0.25",
     "tqdm>=4.0",
+    "awscli>=1.44.61",
 ]
 
 [project.scripts]

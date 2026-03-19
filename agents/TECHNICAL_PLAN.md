@@ -797,7 +797,7 @@ export default defineConfig({
 ### `Makefile`
 
 ```makefile
-BUCKET    ?= smilliediaries.org
+BUCKET    ?= smilliediaries.com
 CF_DIST   ?= REPLACE_WITH_DIST_ID
 
 .PHONY: dev build deploy upload-images clean
@@ -877,7 +877,7 @@ Private bucket (no static website hosting). Access via CloudFront OAC only.
   - 403 → `/index.html` (200)
   - 404 → `/index.html` (200)
 - **Compression:** Gzip + Brotli enabled (manifest.json: 329 KB → ~131 KB)
-- **SSL:** ACM certificate for `smilliediaries.org`
+- **SSL:** ACM certificate for `smilliediaries.com`
 - **`www` redirect:** CloudFront function redirecting `www` → apex domain
 
 **Note on `/about` routing:** The About page is served as `about.html` (flat
@@ -979,7 +979,7 @@ site/public/data/
 20. S3 bucket: private, OAC policy
 21. CloudFront distribution: OAC, SPA error responses, compression, ACM SSL
 22. CloudFront Function for `/about` → `/about.html` rewrite (if needed)
-23. DNS: `smilliediaries.org` → CloudFront
+23. DNS: `smilliediaries.com` → CloudFront
 24. Finalize `Makefile` with correct bucket and distribution ID
 25. `make upload-images` (one-time: ~6.8 GB)
 26. `make deploy` — verify live site end-to-end
