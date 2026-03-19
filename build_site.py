@@ -264,7 +264,7 @@ def process_year(
   <title>{html.escape(date_title)}</title>
 </head>
 <body>
-  <article data-pagefind-body data-pagefind-meta="url:/{image_id}">
+  <article data-pagefind-body data-pagefind-meta="url:#{image_id}">
     {html.escape(plain_text)}
   </article>
 </body>

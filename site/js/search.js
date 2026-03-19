@@ -41,7 +41,7 @@ export function initSearchForm() {
     e.preventDefault()
     const q = document.getElementById('search-input').value.trim()
     if (!q) return
-    navigate(`/search?q=${encodeURIComponent(q)}`)
+    navigate(`search?q=${encodeURIComponent(q)}`)
   })
 }
 
@@ -90,8 +90,10 @@ export async function runSearch(query) {
     const url = r.meta?.url || r.url
     const title = r.meta?.title || url
     const excerpt = r.excerpt || ''
+    // url from pagefind meta is "#YYYY/NNNN"; strip leading # or / to get bare id
+    const id = url.replace(/^[#\/]+/, '')
     return `
-      <a class="search-result-card" href="${url}" data-id="${url.replace(/^\//, '')}">
+      <a class="search-result-card" href="#${id}" data-id="${id}">
         <span class="search-result-title">${escapeHtml(title)}</span>
         <p class="search-result-excerpt">${excerpt}</p>
       </a>`
@@ -102,7 +104,7 @@ export async function runSearch(query) {
     card.addEventListener('click', (e) => {
       e.preventDefault()
       const id = card.dataset.id   // e.g. "1865/0003"
-      navigate(`/${id}`)
+      navigate(id)
     })
   })
 }

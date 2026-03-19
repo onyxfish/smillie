@@ -3,10 +3,10 @@
  *
  * Handles data loading, client-side routing, and module coordination.
  *
- * Routes:
- *   /YYYY/NNNN        → diary viewer
- *   /search?q=...     → search results page
- *   / or unknown      → diary viewer at first image
+ * Routes (hash-based, works on static S3 hosting):
+ *   #YYYY/NNNN        → diary viewer
+ *   #search?q=...     → search results page
+ *   # or unknown      → diary viewer at first image
  */
 
 import { initViewer, renderEntry } from './viewer.js'
@@ -63,10 +63,10 @@ function showSearch() {
 }
 
 /**
- * Parse a diary image ID from a URL pathname (/YYYY/NNNN)
+ * Parse a diary image ID from a hash string (#YYYY/NNNN or YYYY/NNNN)
  */
-function urlToId(pathname) {
-  const m = pathname.match(/^\/(\d{4})\/(\d{4})$/)
+function hashToId(hash) {
+  const m = hash.replace(/^#/, '').match(/^(\d{4})\/(\d{4})$/)
   if (m) {
     const id = `${m[1]}/${m[2]}`
     if (manifest[id]) return id
@@ -75,37 +75,38 @@ function urlToId(pathname) {
 }
 
 /**
- * Route a URL — either diary viewer or search page.
+ * Route based on the current location.hash — either diary viewer or search page.
  * `replace` controls whether to use replaceState vs pushState.
  */
 export function navigate(urlOrId, replace = false) {
-  // Detect /search?q=... (passed as a full path string)
-  if (typeof urlOrId === 'string' && urlOrId.startsWith('/search')) {
-    const url = new URL(urlOrId, location.origin)
+  // Detect search route: "search?q=..." or "#search?q=..."
+  const normalized = (typeof urlOrId === 'string' ? urlOrId : '').replace(/^#/, '')
+  if (normalized.startsWith('search')) {
+    const q = new URLSearchParams(normalized.slice(normalized.indexOf('?') + 1)).get('q') || ''
+    const newHash = `#search?q=${encodeURIComponent(q)}`
     if (replace) {
-      history.replaceState({ type: 'search', q: url.searchParams.get('q') }, '', urlOrId)
+      history.replaceState(null, '', newHash)
     } else {
-      history.pushState({ type: 'search', q: url.searchParams.get('q') }, '', urlOrId)
+      history.pushState(null, '', newHash)
     }
     showSearch()
-    runSearch(url.searchParams.get('q') || '')
+    runSearch(q)
     document.title = `Search — The Diaries of James David Smillie`
     return
   }
 
-  // Diary viewer — urlOrId is either a full path (/YYYY/NNNN) or bare id (YYYY/NNNN)
-  let id = urlOrId
-  if (typeof id === 'string' && id.startsWith('/')) {
-    id = urlToId(id) // parse from path, returns null if invalid
-  }
-
+  // Diary viewer — urlOrId is either a hash (#YYYY/NNNN), bare id (YYYY/NNNN),
+  // or legacy path (/YYYY/NNNN) for backwards compatibility
+  let id = normalized.startsWith('/') ? normalized.slice(1) : normalized
   if (!id || !manifest[id]) {
     id = ids[0]
-    history.replaceState({ type: 'diary', id }, '', `/${id}`)
-  } else if (replace) {
-    history.replaceState({ type: 'diary', id }, '', `/${id}`)
+  }
+
+  const newHash = `#${id}`
+  if (replace) {
+    history.replaceState(null, '', newHash)
   } else {
-    history.pushState({ type: 'diary', id }, '', `/${id}`)
+    history.pushState(null, '', newHash)
   }
 
   showViewer()
@@ -119,7 +120,7 @@ export function navigate(urlOrId, replace = false) {
  * Navigate by ±1 (prev/next buttons, keyboard)
  */
 export function navigateByDelta(delta) {
-  const currentId = urlToId(location.pathname) || ids[0]
+  const currentId = hashToId(location.hash) || ids[0]
   const currentIndex = idToIndex.get(currentId) ?? 0
   const newIndex = Math.max(0, Math.min(ids.length - 1, currentIndex + delta))
   if (newIndex !== currentIndex) navigate(ids[newIndex])
@@ -182,34 +183,13 @@ async function init() {
     initSearchForm()
     initLightbox()
 
-    // Browser back / forward
-    window.addEventListener('popstate', (e) => {
-      const state = e.state
-      if (state?.type === 'search') {
-        showSearch()
-        runSearch(state.q || '')
-        document.title = `Search — The Diaries of James David Smillie`
-      } else {
-        const id = state?.id || urlToId(location.pathname) || ids[0]
-        showViewer()
-        const index = idToIndex.get(id) ?? 0
-        renderEntry(id, manifest, yearIndex)
-        syncScrubber(index)
-        updateNavButtons(index, ids.length)
-      }
+    // Browser back / forward (hash changes)
+    window.addEventListener('hashchange', () => {
+      routeFromHash(location.hash)
     })
 
-    // Initial route
-    if (location.pathname === '/search') {
-      const q = new URLSearchParams(location.search).get('q') || ''
-      history.replaceState({ type: 'search', q }, '', location.href)
-      showSearch()
-      runSearch(q)
-      document.title = `Search — The Diaries of James David Smillie`
-    } else {
-      const initialId = urlToId(location.pathname)
-      navigate(initialId || ids[0], true)
-    }
+    // Initial route from hash
+    routeFromHash(location.hash, true)
 
   } catch (err) {
     console.error('Failed to initialize:', err)
@@ -218,6 +198,34 @@ async function init() {
         <p>Failed to load diary data. Please try refreshing the page.</p>
       </div>`
   }
+}
+
+/**
+ * Parse and dispatch a route from a hash string.
+ * Called on initial load and on hashchange events.
+ */
+function routeFromHash(hash, replace = false) {
+  const fragment = hash.replace(/^#/, '')
+
+  if (fragment.startsWith('search')) {
+    const q = new URLSearchParams(fragment.slice(fragment.indexOf('?') + 1)).get('q') || ''
+    showSearch()
+    runSearch(q)
+    document.title = `Search — The Diaries of James David Smillie`
+    return
+  }
+
+  const id = hashToId(hash) || ids[0]
+  if (!hashToId(hash)) {
+    // Redirect to the canonical first-image hash without creating a new history entry
+    history.replaceState(null, '', `#${id}`)
+  }
+
+  showViewer()
+  const index = idToIndex.get(id)
+  renderEntry(id, manifest, yearIndex)
+  syncScrubber(index)
+  updateNavButtons(index, ids.length)
 }
 
 init()
