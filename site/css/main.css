@@ -330,18 +330,19 @@ a:hover {
 
 .image-container {
   position: relative;
-  background: var(--color-surface);
-  border-radius: var(--radius-md);
   overflow: hidden;
   margin-bottom: var(--space-lg);
-  box-shadow: var(--shadow-sm);
 }
 
 .diary-image {
-  width: 100%;
+  max-width: 976px;
+  max-height: 870px;
+  margin-left: auto;
+  margin-right: auto;
   cursor: zoom-in;
   opacity: 1;
   transition: opacity 0.2s;
+  border-radius: var(--radius-md);
 }
 
 .diary-image.loading {
