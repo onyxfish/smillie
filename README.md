@@ -1,16 +1,181 @@
-# James David Smillie's Diary
+# The Diaries of James David Smillie
 
-This repository contains a transcriptions of the diaries of James David Smillie for the years 1865 to 1909, and a web application for browsing through them. The physical diaries are stored in the [_James D. Smillie and Smillie family papers, 1853-1957_](https://www.aaa.si.edu/collections/james-d-smillie-and-smillie-family-papers-13469/series-1) in the Archives of American Art.
+A web application for browsing AI-generated transcriptions of the personal diaries of American artist James David Smillie (1833–1909), spanning 1865–1909. The physical diaries are held in the [James D. Smillie and Smillie family papers](https://www.aaa.si.edu/collections/james-d-smillie-and-smillie-family-papers-13469/series-1) at the Archives of American Art, Smithsonian Institution.
 
-Transcriptions of these diaries were created by feeding photographs from the archives to Anthropic's Claude Sonnet 4.6 model. These transcriptions have not been human verified, but spot checks have found them to be highly accurate.
+Transcriptions were created by feeding archive photographs to Anthropic's Claude Sonnet model. They have not been human-verified, but spot checks have found them to be highly accurate.
 
-All source code in this repository has been created with the assistance of AI.
+All source code in this repository was created with the assistance of AI.
 
-## What's in this repository?
+---
 
-## Transcriptions
+## Repository layout
 
-The raw transcriptions are stored in the `transcriptions` folder in Markdown with YAML frontmatter. For example, here is the frontmatter from `transcriptions/1865/AAA-AAA_smilsmil_2303578.md`.
+```
+smillie/
+├── transcriptions/       # Transcription .md files
+├── data/                 # Source images + json index documents (not in git; ~7.4 GB)
+├── site/                 # Web app source (HTML, CSS, JS)
+│   ├── index.html
+│   ├── about.html
+│   ├── css/main.css
+│   ├── js/
+│   │
+│   └── public/           # Static assets; data/ written here by build_site.py
+├── build_site.py         # Generates JSON data files from transcriptions
+├── transcribe_smillie.py # Transcription pipeline (calls Claude API)
+├── fetch_smillie.py      # Downloads images from the Smithsonian
+├── package.json
+├── vite.config.js
+└── Makefile
+```
+
+---
+
+## Prerequisites
+
+- **Python 3.11+**
+- **Node.js 18+** and **npm**
+- The `data/` directory with images and `mets.json` files (not in git — see *Fetching images* below)
+
+---
+
+## Development
+
+### 1. Install dependencies
+
+```bash
+# Python (creates a venv and installs dependencies)
+uv sync
+
+# Node
+npm install
+```
+
+### 2. Build the data files
+
+This reads `data/*/mets.json` and `transcriptions/*/*.md` and writes JSON data files to `site/public/data/`:
+
+```bash
+# Full corpus (all 45 years, ~8,210 images)
+python3 build_site.py
+
+# Single year (faster, for quick iteration)
+python3 build_site.py --year 1865
+
+# Multiple specific years
+python3 build_site.py --years 1865 1866 1873
+```
+
+### 3. Build the Pagefind search index
+
+The search index is built from HTML stubs written to `pagefind-source/` by `build_site.py`. It must be rebuilt whenever the data changes:
+
+```bash
+npx pagefind --site pagefind-source --output-path dist/pagefind
+```
+
+### 4. Start the dev server
+
+```bash
+# In a separate terminal — serves images from data/ at http://localhost:8001
+python3 -m http.server 8001 --directory data
+
+# Start Vite dev server at http://localhost:5173
+npm run dev
+```
+
+Or use `make dev` to run all of the above in one command:
+
+```bash
+make dev
+```
+
+> **Note:** `make dev` runs the full corpus build.
+
+The dev server:
+- Serves JS/CSS/HTML from `site/`
+- Serves generated data files from `site/public/data/` at `/data/`
+- Proxies `/images/` to the local image server on port 8001
+- Serves the Pagefind index from `dist/pagefind/` at `/pagefind/` via a custom middleware
+
+---
+
+## Production build
+
+```bash
+make build
+```
+
+This runs all three steps in sequence:
+
+1. `python3 build_site.py` — generates data files into `site/public/data/`
+2. `npm run build` (Vite) — bundles JS/CSS, copies `site/public/*` to `dist/`
+3. `npx pagefind ...` — generates the search index into `dist/pagefind/`
+
+Output is in `dist/`.
+
+---
+
+## Deployment
+
+The site is deployed as a static site to S3 + CloudFront. Images are stored separately at `s3://smilliediaries.org/images/`.
+
+### First-time image upload (~6.8 GB, one-time)
+
+```bash
+make upload-images
+```
+
+### Deploy the site
+
+```bash
+make deploy
+```
+
+This builds the site, syncs `dist/` to S3 with appropriate cache headers, and invalidates the CloudFront distribution.
+
+Before deploying, set the S3 bucket name and CloudFront distribution ID:
+
+```bash
+make deploy BUCKET=smilliediaries.org CF_DIST=EXXXXXXXXXX
+```
+
+Or export them as environment variables:
+
+```bash
+export BUCKET=smilliediaries.org
+export CF_DIST=EXXXXXXXXXX
+make deploy
+```
+
+---
+
+## Transcription pipeline
+
+Transcriptions are generated by `transcribe_smillie.py`, which calls the Claude API on each diary photograph. Requires an `ANTHROPIC_API_KEY` environment variable.
+
+```bash
+export ANTHROPIC_API_KEY=sk-ant-...
+python3 transcribe_smillie.py --year 1878
+```
+
+Progress is tracked in `progress.csv`. Already-transcribed images are skipped automatically.
+
+### Fetching images
+
+Images are downloaded from the Smithsonian's IIIF service by `fetch_smillie.py`:
+
+```bash
+python3 fetch_smillie.py --year 1878
+```
+
+This populates `data/1878/` with JPEG images and writes `data/1878/mets.json`.
+
+---
+
+## Transcription format
+
+Raw transcriptions are stored in `transcriptions/YYYY/STEM.md` as Markdown with YAML frontmatter. Example (`transcriptions/1865/AAA-AAA_smilsmil_2303578.md`):
 
 ```yaml
 year: 1865
@@ -28,4 +193,14 @@ pages:
       - diary
 ```
 
-Please note the original photographs are NOT stored in this repository as they are very large (7.4G).
+The body is split into `## Left Page` and `## Right Page` sections containing Markdown prose. Illegible text is marked `[illegible]`. The `build_site.py` script converts these files into per-image JSON files consumed by the web app.
+
+---
+
+## Licensing
+
+| Content | License |
+|---|---|
+| Diary photographs | Smithsonian Institution — fair use for educational/research purposes |
+| Transcriptions | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| Source code | MIT |
