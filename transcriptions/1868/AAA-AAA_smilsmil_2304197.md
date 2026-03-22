@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1868
 image: 1868/AAA-AAA_smilsmil_2304197.jpg
 pages:
@@ -68,4 +65,3 @@ Uncle Wm Read Nicholas Nickleby to
 us — from 8 until 11 I wrote — to Charl
 & Corinne Coleman — Then I went
 to bed —
-```

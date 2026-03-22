@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1894
 image: 1894/AAA-AAA_smilsmil_2308919.jpg
@@ -85,4 +84,3 @@ was favorably commented upon — but
 I did not see Mr. J. Pierpont Morgan there
 — I left soon after 11 o'clk & got to bed
 just at midnight.
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2303881.jpg
@@ -26,4 +25,3 @@ Clear, cold day — Set to work in the M'f— to plan a new arrangement for draw
 ### Tuesday, January 29, 1867
 
 Another clear, cold day — worked a little while on wagon drawing, then at 11 o'clk went down town to A.B.N. Co with the two drawings — wagons & Gaucho. The Gaucho drawing made considerable stir among the Co. folks. They are pleased with the novelty & action — but enquire as anxiously as I do for the admitted fault. No one can determine where it lies. However I agreed to make a change in the fore legs of the horse & took the drawing home. Drew $6p.oo for drawing wagons. Spent P.M. making changes in Gaucho's horse. Eve'g with Geo. went to Diven's in 52d St. & had a good time with Fan M. & Maud. Mary D. was tired out — all last night on Erie P.R. Mr & Mrs Corey there — also Mr Ed. Cook & a lady — left for home at 10.40 o'clk.
-```

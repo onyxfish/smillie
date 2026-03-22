@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1888
 image: 1888/AAA-AAA_smilsmil_2307807.jpg
@@ -38,4 +37,3 @@ James D. Smillie
 Montrose
 Susquehanna Co.
 Penn.a
-```

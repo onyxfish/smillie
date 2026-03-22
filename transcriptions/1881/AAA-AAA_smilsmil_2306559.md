@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1881
 image: 1881/AAA-AAA_smilsmil_2306559.jpg
 pages:
@@ -28,4 +25,3 @@ Cold, Raw day with considerable rain in the morning — Got to Studio soon after
 ### April, Wednesday 13, 1881
 
 Dirty, nasty day — Got to Studio at 9.30 & to work on Bridgman etching — Stuck to it closely all day — straining, dry pointing & bits of graver work about the figures — To lunch at 2 — worked until near 5 — Then Annie came & we went to Tiffany's — made a purchase — after that, the rain having ceased we walked up to 38th St — had dinner at about 7 — Spent the evening writing out a list of friends — cards — To 37° S. & to bd at 10.30.
-```

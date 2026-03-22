@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1876
 image: 1876/AAA-AAA_smilsmil_2305624.jpg
@@ -28,4 +27,3 @@ finished the painting in of Montmorencé Falls. Dinner at 1 — again to work at
 ### June, Wednesday 7, 1876
 
 Delicious day — Early Bkfst. + then walked into the P.O. Uncle M's man came at 9 o'clk with carriage + took Kate, Matt + geo out to Hill Side for the day. I commenced a 6 × 10 in oil from a sketch that I made yesterday "A group of Cedars". Rev. M. Loomis called about 11 o'clk. Dinner at 12.30 — Grunts came to put up wire fence to protect grass about 2.30 — I bossed the job and managed to finish my painting about 4.30 — at 4.50 I started afoot for Hill Side + got out there; after a very leisurely saunter at 6.10 just as they were sitting down to tea. Mrs Oakley there — After tea, wandered through the woods + to the River until near 8 — Pd home at 8.30 — M. Wright of South Liberty St. called — To bed at 10.30
-```

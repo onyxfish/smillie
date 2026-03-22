@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2303920.jpg
 pages:
@@ -59,4 +56,3 @@ for children — Home at 11 o'clk
 glorious moonlight night —
 To bed a few minutes before
 midnight.
-```

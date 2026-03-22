@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1888
 image: 1888/AAA-AAA_smilsmil_2307866.jpg
 pages:
@@ -70,4 +67,3 @@ of my disappointments - I might be able to
 finish it to my satisfaction if I had lots more
 time - Home to dinner at 6.30 - Eve.
 with Annie.
-```

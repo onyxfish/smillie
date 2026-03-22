@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1891
 image: 1891/AAA-AAA_smilsmil_2308428.jpg
@@ -73,4 +72,3 @@ azines until 9.30 — To bed at 10.
 
 Mary Cook had a son early yester-
 terday m'g.
-```

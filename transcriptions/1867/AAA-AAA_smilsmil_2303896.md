@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2303896.jpg
@@ -26,4 +25,3 @@ Glorious, cloudless day — Have worked all day on Minaus 10½×18 in — on the
 ### Thursday, February 28, 1867.
 
 Charming morning — got to be interested in a crayon drawing that I started to illustrate the idea "dim woods" and worked upon it until after 11 o'clk A.M. when Uncle & came with nine & Toony and Aunt H. I went to White & Gleeny the dentists when Uncle Wm. met us. Toony had four teeth very successfully extracted — went home to lunch — Afternoon painted upon little 6×10 in. "Harvesting" for Uncle Willie — cleaned up at 4.45 and went down to Snedecor's & Schaus's. Every went alone to Minstrels in 24th St. and was much amused by burlesque upon "The Black Crook." Home at 10.30 and to bed at 11.
-```

@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1871
 image: 1871/AAA-AAA_smilsmil_2304622.jpg
 pages:
@@ -58,4 +55,3 @@ could see — 4.50 — Mr. Wm. Dart
 Home to tea at 6 — Rain —
 Evef. Reading "Atlantic" —
 To bed a little after 11 —
-```

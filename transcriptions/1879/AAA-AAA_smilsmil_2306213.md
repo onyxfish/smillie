@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1879
 image: 1879/AAA-AAA_smilsmil_2306213.jpg
 pages:
@@ -63,4 +60,3 @@ Read until after 8, finishing
 my book — Enjoy Howell's
 quiet, dainty manner exceed-
 ingly — To bed at 10.
-```

@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308828.jpg
 pages:
@@ -94,4 +91,3 @@ sailing the big boats that they bought at
 Whitely's this m't — After 7, when
 we had our dinner — well, divided
 between the "Times" & my diary.
-```

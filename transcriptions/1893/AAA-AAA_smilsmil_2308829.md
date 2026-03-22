@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308829.jpg
@@ -59,4 +58,3 @@ I wanted - but I bought a pair of hair
 brushes - Home it 6.30 - dinner at 7 -
 Annie as well as Jim & Ralph are
 somewhat out of sorts
-```

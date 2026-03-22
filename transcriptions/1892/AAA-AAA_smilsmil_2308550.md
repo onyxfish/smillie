@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308550.jpg
@@ -51,4 +50,3 @@ went to New Haven at 3 o'clk. P.m.
 Eve'g. Annie went to her Choral
 Club rehearsal. Charl came in
 & spent most of the eve't with me.
-```

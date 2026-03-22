@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1880
 image: 1880/AAA-AAA_smilsmil_2306398.jpg
@@ -26,4 +25,3 @@ Delightful day — feared as things it were going to be wet with light rain but 
 ### June, Tuesday 15. 1880.
 
 Cool, overcast m'f with fog & a very little rain — I was out most of the m'f. wandering about. Dinner between 1 & 2 — during the afternoon I wrote letters & again went out, but about 4 the rain fell softly & steadily. Tea after 6 & after that George & I walked for some time — the rest of the ev'g was spent chatting until the family went to bed, then I read newspapers until near 11 o'clk — then to bed.
-```

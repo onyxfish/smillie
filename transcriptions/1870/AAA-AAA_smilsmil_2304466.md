@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1870
 image: 1870/AAA-AAA_smilsmil_2304466.jpg
 pages:
@@ -59,4 +56,3 @@ Mother home from Uncle [illegible] —
 Evelf did little but chat and
 read news paper and at
 11.15 to bed —
-```

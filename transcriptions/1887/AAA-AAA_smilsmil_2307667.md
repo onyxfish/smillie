@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1887
 image: 1887/AAA-AAA_smilsmil_2307667.jpg
 pages:
@@ -28,4 +25,3 @@ Very warm day — a piazza walk before b'kf's at 8 — At 9.15 took car in to Bo
 ### April, Tuesday 5, 1887.
 
 Rain during the night & early m'g, threatening until afternoon when it cleared cold & windy — Went into town by 9.15 car & direct to museum where I met Koehler & we spent the m'g together most of the time studying the Rembrandt etchings, an ex'b'n of which he is now preparing — I took to the museum & gave to Ruel toning my etching pfs — met also Mr. Greenleaf — the librarian — about 2 we went to the Providence R.R. Station & had a very good dinner — Then to Vinton's Studio — not in — left K. at door of St. Botolph's Club — went in & found Vinton there — Spent the rest of the afternoon chatting with him & toasting my toes — It was after 5 when I got to 9 Sorisberg Sq. & saw Catherine Ireland — after a brief call walked half way home, took the cars & in soon after 6 — Eve'g. chatting until near 10 — Annie read aloud some new letters of Thackeray's — then to bed.
-```

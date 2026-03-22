@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1879
 image: 1879/AAA-AAA_smilsmil_2306242.jpg
@@ -81,4 +80,3 @@ all at the "Thorn Mt. House" — No Room for
 me — got a very nice Room at Tricky's Jackson
 Falls House — wrote a letter to Mill and
 to bed at 10.
-```

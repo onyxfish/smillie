@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1866
 image: 1866/AAA-AAA_smilsmil_2303811.jpg
 pages:
@@ -73,4 +70,3 @@ Devil. "This is my Policy." I am told it's Ma
 & Seward & Raymond it's Dry Nurses" — G.J.
 took tea at Mr. Jessup's with Fan Mulford &
 Amanda Diven — Came in at 11 o'clk.
-```

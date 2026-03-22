@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1880
 image: 1880/AAA-AAA_smilsmil_2306403.jpg
@@ -70,4 +69,3 @@ on piazza & to bed before
 [illegible — ~3 words] [illegible]
 [illegible] [illegible]
 , 0£.11
-```

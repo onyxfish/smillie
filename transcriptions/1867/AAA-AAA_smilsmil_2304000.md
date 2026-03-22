@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2304000.jpg
 pages:
@@ -31,4 +28,3 @@ Dawdled about until 10 o'clk then went to bed.
 
 Up at 9 — Feel tired & have an unhappy sort of headache — About 9 o'clk took pencils & paper & went to McMillan's meadows — Sketched along "Artist's Brook" — getting 3 sketches before 10 o'clk — The day lovely beyond expression — After dinner — not feeling able to fight with color on Moat Mt. Study, again went out with pencils & before sunset got 3 more sketches — Evening walk home over the meadows I enjoyed immensely — feel tired — but pretty well & very happy — altho' my work drags so — Was much struck by effect of Sunset — Rosy light & violet shadows over Kearsarge — Sober, gray shadow light over the meadows — a man with ox team & load of Corn stalks slowly plodding home — Corn field & pumpkins in one corner of picture —
 Spent the evening conversing with Mr. Parsons & daughter — Used me up, they are so deaf — got to bed a little after 10 —
-```

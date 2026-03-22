@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1874
 image: 1874/AAA-AAA_smilsmil_2305300.jpg
 pages:
@@ -70,4 +67,3 @@ again at 12o ab't 9 o'clk. after
 calling on Mrs. Blake, 27 W 38th —
 At 10.30 went over to During's
 + got to bed shortly after 11.
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1883
 image: 1883/AAA-AAA_smilsmil_2306934.jpg
@@ -65,4 +64,3 @@ called — Home at 6.30 — quite
 used up by cold in head and
 all over — Evef. Annie read
 some aloud — To bed at 10.30
-```

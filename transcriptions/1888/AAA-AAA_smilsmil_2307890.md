@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1888
 image: 1888/AAA-AAA_smilsmil_2307890.jpg
@@ -63,4 +62,3 @@ dinner & in the even. pack some
 back nos. & Punch — but at 10 I went
 to bed with my head aching out-
 rageously again.
-```

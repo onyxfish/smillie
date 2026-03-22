@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2303957.jpg
 pages:
@@ -75,4 +72,3 @@ work — met him at boat house at 7 — just
 in time to be caught in another storm —
 both Ran home — Rest of evening
 pacing about. — To bed at 9.45 —
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1878
 image: 1878/AAA-AAA_smilsmil_2305975.jpg
@@ -28,4 +27,3 @@ Another charming day, with indications of a change in the afternoon. Bus about 8
 Very mixed with rain in the mt. — Afternoon the wind blew & the weather became like winter went to Baptist Ch. with father in the m'f. W. Kelsey, a young man preached — did not hear much of his sermon as I felt very stupid & slept part of the time — After service walked home with the elder Stowe sister — then home — Dinner soon after 1 — the afternoon got away without my knowing it Tea at 6 — Evng. I stayed at home with mother & wrote letters — To bed about 10.30 Very cold night — Ther. down to 14.
 
 P.m. I walked down the S. Road & up Smott's Hills, around by Hooker Ave. to Mary's then home.
-```

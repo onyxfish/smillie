@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1880
 image: 1880/AAA-AAA_smilsmil_2306418.jpg
@@ -67,4 +66,3 @@ at about 11.30; [illegible — ~3 words]
 [illegible — ~4 words] have
 [illegible — ~3 words] Mrs. E. and we
 [illegible] at about 2
-```

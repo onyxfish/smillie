@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308907.jpg
@@ -66,4 +65,3 @@ signed a lot of checks — then to Bway
 Bessie Throop dined at St. Wm. Cook's.
 Tom Cook dining with us.
 Eve'g Reading, chatting & writing.
-```

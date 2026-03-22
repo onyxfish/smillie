@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1871
 image: 1871/AAA-AAA_smilsmil_2304709.jpg
 pages:
@@ -69,4 +66,3 @@ as anything I have found here. — Bath
 & towelling, then tea. A note from Uncle
 [illegible] wont be back to-night. Evening
 resting and to bed about 10 o'clk.
-```

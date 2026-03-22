@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1878
 image: 1878/AAA-AAA_smilsmil_2306043.jpg
 pages:
@@ -73,4 +70,3 @@ us — Miss Hillard & her friend Mrs. Coles
 ahead of us — Tea at 6 — the Colwinas
 & Misses Jacobs pleased to see us. Eve'g
 on piazza until near 11, then to bed.
-```

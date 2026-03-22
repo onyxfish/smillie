@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1868
 image: 1868/AAA-AAA_smilsmil_2304140.jpg
 pages:
@@ -53,4 +50,3 @@ Home to tea at 7 — Evng. Spent squaring
 accts, mounting drawings & writing
 a letter to Uncle Willie —
 got to bed about midnight.
-```

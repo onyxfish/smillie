@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1890
 image: 1890/AAA-AAA_smilsmil_2308219.jpg
@@ -53,4 +52,3 @@ after 9 o'clk. with trial pf. from the
 negatives that he took from the comp-
 sters on Washington's Birthday. To bed
 before 11.
-```

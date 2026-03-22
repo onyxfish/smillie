@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1869
 image: 1869/AAA-AAA_smilsmil_2304311.jpg
@@ -43,4 +42,3 @@ reached studio at 2.30 — Started water color sketch of my blossoms by working 
 + my Smedy called about 5. P.M. —
 did Ned Dunning — + Father —
 Home to tea at 7.30 — Spent the evef with Ill. London News + got to bed shortly before 11 oclk —
-```

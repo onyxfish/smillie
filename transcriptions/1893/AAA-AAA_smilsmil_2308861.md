@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308861.jpg
 pages:
@@ -97,4 +94,3 @@ Belle & Mr. B. joining us later - after tea
 we went into Public Parlor & chatted until
 9.30 - then we went to our Room & very soon
 to bed -
-```

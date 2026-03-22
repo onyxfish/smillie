@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1891
 image: 1891/AAA-AAA_smilsmil_2308357.jpg
@@ -61,4 +60,3 @@ who is recovering — Home at 6 — dinner —
 Eve'g Mrs. Keeler & her son came in
 for a short call — then I read Janvier's
 Aztec Treasure House — To bed at 10.30
-```

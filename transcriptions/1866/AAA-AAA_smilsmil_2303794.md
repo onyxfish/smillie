@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1866
 image: 1866/AAA-AAA_smilsmil_2303794.jpg
 pages:
@@ -72,4 +69,3 @@ to Emma Ireland — dinner at about
 6 — wrote to Mary but did not finish
 the letter — Evening spent talking
 with the Smiths & pacing the piazza.
-```

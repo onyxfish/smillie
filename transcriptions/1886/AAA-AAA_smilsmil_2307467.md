@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1886
 image: 1886/AAA-AAA_smilsmil_2307467.jpg
@@ -61,4 +60,3 @@ over a portion of 15×24 — Home at
 & J went to Thomas Popular Concert
 at Academy of Music — Home at
 10.30 & to bed at 11.
-```

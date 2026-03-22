@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1885
 image: 1885/AAA-AAA_smilsmil_2307356.jpg
@@ -69,4 +68,3 @@ wrote letter to George — To bed after
 a sharp walk on the piazza to get
 ourselves warm — The night really
 quite cold.
-```

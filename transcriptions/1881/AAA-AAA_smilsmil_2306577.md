@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1881
 image: 1881/AAA-AAA_smilsmil_2306577.jpg
@@ -28,4 +27,3 @@ Rain in the m'f. clearing in the afternoon — Got to studio before 10 — made 
 *at Mr. Harry Peck's — Greenwich, Conn.*
 
 Still overcast, no rain, warmer — at times the clouds breaking away, when the sun w'd. shine out — hot & muggy — Got to studio at 9.45 & to work etching until I went to dinner at 1.30 — back at 3 — varnished plate & at 4 went up to the house & with Annie went to New Haven depot & took 4.40 train to Greenwich — got there in an hour & rode at once to Mr. Peck's where Mr. & Mrs. Colman were waiting for us — Had dinner at 6 — after that, we all went down to Mr. Foster Higgins' where we were very pleasantly rec'd & taken over the house & about the grounds — Ret'd to the Colman quarters about 8.30 — chatting until a little after 10 — then to our little room & to bed.
-```

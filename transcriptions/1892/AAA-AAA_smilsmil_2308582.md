@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308582.jpg
@@ -30,4 +29,3 @@ Jade - 4 h.
 Dark, wet day - some very heavy rain in the wtf - After bkfs. stopped at Walter's with his sketches for frame for hall mirror. The [illegible] at bkfs. met there Miss Bower of Phila. To studio at 10.30 & worked until 1 on Jade plate - then home to lunch & back at 2.30 - on Jade until near 5 - Miss Abbott came in for some of her plaster casts - I waxed 5"×7" aqua-tint plate & carefully wrapped it & took it to the long Island Exps. Co. - addressed to Pratt his. Ryerson S. - Then home before 6 - Dinner - Evtf at 8.30 Annie & I went to Walter's & heard Miss Bowen sing & Louise play. Miss B. being very tired excused herself after one song & we [illegible] home at 9.30 — Chat with Kate - [illegible] left soon after 10 - to bed before 11.
 
 Jade - 3 h.
-```

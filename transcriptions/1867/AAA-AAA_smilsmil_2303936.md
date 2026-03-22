@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2303936.jpg
 pages:
@@ -77,4 +74,3 @@ first Annual Exh. in connection with
 sider myself successful — got home
 about 10.30 P.M. but was not able to
 get to bed much before midnight.
-```

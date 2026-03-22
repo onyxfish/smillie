@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1878
 image: 1878/AAA-AAA_smilsmil_2306071.jpg
 pages:
@@ -103,4 +100,3 @@ I bid Corinne & Charley good-bye
 8.30 train — got to P. at 11 — there
 home & to bid just about 12 —
 glorious moonlight night —
-```

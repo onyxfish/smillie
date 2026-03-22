@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1868
 image: 1868/AAA-AAA_smilsmil_2304130.jpg
@@ -49,4 +48,3 @@ again where I stayed until
 up feeling better & sat up
 until 1,30 a.m. when I went
 to bed again.
-```

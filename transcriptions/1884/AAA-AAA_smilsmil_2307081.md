@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1884
 image: 1884/AAA-AAA_smilsmil_2307081.jpg
@@ -36,4 +35,3 @@ Pain in chest so increased
 that I was in bed nearly
 all day. miserably un-
 comfortable & feverish nights
-```

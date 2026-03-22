@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1876
 image: 1876/AAA-AAA_smilsmil_2305677.jpg
@@ -83,4 +82,3 @@ driven all over town before being
 set down at last. Supper! Tea a
 little before 9 & to bed at 10 to get
 rid of my disgusts.
-```

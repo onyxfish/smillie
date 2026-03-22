@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308827.jpg
 pages:
@@ -83,4 +80,3 @@ there were four others whose names I did
 not catch — one of them being a young American —
 They did not leave until after 10. — Then
 we had very affectionate leave takings.
-```

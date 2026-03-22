@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2304051.jpg
@@ -49,4 +48,3 @@ pages:
 | | | $1600 | 00 |
 
 The Snedecor items I did not draw until Oct. — I did not need the money, so did not call for it — I have entered it as the sales were made.
-```

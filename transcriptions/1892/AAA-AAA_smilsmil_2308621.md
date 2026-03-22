@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308621.jpg
@@ -68,4 +67,3 @@ letter to Hronck & sent him checks
 for a lot of bills — mailed it — to bed
 before 10 & passed a very uncomfortable
 night.
-```

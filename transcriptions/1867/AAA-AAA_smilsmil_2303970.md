@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2303970.jpg
@@ -82,4 +81,3 @@ Rode remaining 5 miles to North Conway, getting
 in there a little after 9 o'clk P.M. — Got
 Room No. 26 at Kearsarge House + turned in at once —
 asleep almost before I could get to bed.
-```

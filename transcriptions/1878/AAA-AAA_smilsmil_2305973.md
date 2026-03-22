@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1878
 image: 1878/AAA-AAA_smilsmil_2305973.jpg
 pages:
@@ -83,4 +80,3 @@ to run for Treas. — in favor of Robbins.
 Peace reigned for the time & the election
 passed off very quietly. Wood, elected
 Pres. unanimously — Robbins Treas. and
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308603.jpg
@@ -61,4 +60,3 @@ home - dinner - wrote to Blaney.
 [illegible] in Boston - To Herrick & to
 Halsey C. Ives - ab[ou]t 9 went out and
 posted letters - ab[ou]t 10, to bed.
-```

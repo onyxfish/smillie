@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1890
 image: 1890/AAA-AAA_smilsmil_2308261.jpg
@@ -72,4 +71,3 @@ very poor elocutionary work & some
 singular, but not musical "bird war-
 bling" m-whistling by Kellogg — Home
 also & then to bed.
-```

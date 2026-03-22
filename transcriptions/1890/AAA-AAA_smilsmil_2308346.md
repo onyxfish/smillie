@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1890
 image: 1890/AAA-AAA_smilsmil_2308346.jpg
@@ -63,4 +62,3 @@ half an hour looked at pictures there.
 Home after 6 — dinner — Eve[ning] spent
 lounging — Charl with us until after
 10 — To bed before 11.
-```

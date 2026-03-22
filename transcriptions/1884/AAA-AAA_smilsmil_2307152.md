@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1884
 image: 1884/AAA-AAA_smilsmil_2307152.jpg
 pages:
@@ -32,4 +29,3 @@ Up soon after 6. The weather bad & boy in tumblestone's mood. Everything picked 
 *Hotel Dijon. 29 Rue Caumartin — Paris*
 
 Pleasant with., but showery — Bkfst. soon after 8 — some time spent in getting things again ready for a move — then Geo., Nellie, Annie & I started out for a stroll, went to Adam & Co. Bankers, & got some money, then up the hill to the old City walls, in at one of the gates & up on the wall — we were delighted with the very old, picturesque & quaint architecture — were driven off by a smart shower — took cab & drove to hotel dinner at 12 — cabs to depot at 1 — Train due at 1.17, 13 m. late — rain commenced again — finally off for Paris — due at 5.41 cold & raw — much rain — what we saw of the country, uninteresting — the children got to be tired & cross — got to Paris about 6 o'clk. detained by baggage about ¾ an hour — then drove at once to Hotel Dijon — Geo. & I went in & took the only two rooms to be had — Nellie very much dissatisfied — rooms exceeding small — better ones promised Monday — Table d'hote soon after 7 — Evef. as soon as we could get settled we went to bed — about 9.30 —
-```

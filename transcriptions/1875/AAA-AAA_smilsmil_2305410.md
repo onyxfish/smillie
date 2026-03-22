@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1875
 image: 1875/AAA-AAA_smilsmil_2305410.jpg
@@ -63,4 +62,3 @@ interested to forget personal dis-
 comforts. To bed at 11.45.
 Miss V. Boggs & friend called
 at studio this m'f.
-```

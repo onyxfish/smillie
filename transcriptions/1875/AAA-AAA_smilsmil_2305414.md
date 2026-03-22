@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1875
 image: 1875/AAA-AAA_smilsmil_2305414.jpg
 pages:
@@ -59,4 +56,3 @@ walked to 41[illegible] in a
 light rain — To bed
 at 11.45 [illegible — ~3 words]
 [illegible — ~2 lines]
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1889
 image: 1889/AAA-AAA_smilsmil_2308039.jpg
@@ -62,4 +61,3 @@ newspapers & did some writing.
 Ev[illegible]. we sat in our room and
 I wrote part of a letter to Kate.
 To bed at about 10.
-```

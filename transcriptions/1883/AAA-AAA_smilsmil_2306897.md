@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1883
 image: 1883/AAA-AAA_smilsmil_2306897.jpg
 pages:
@@ -67,4 +64,3 @@ story in the Century "A woman's Reason"
 — at 10.30 Took letters to G.C.
 Depot — back & to bed about
 11.
-```

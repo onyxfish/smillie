@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1866
 image: 1866/AAA-AAA_smilsmil_2303791.jpg
@@ -65,4 +64,3 @@ arm. Geo. walked with Geo.
 until after 8 o'clk — then home,
 walked the piazza until after 9.
 Then in & to bed by 10.
-```

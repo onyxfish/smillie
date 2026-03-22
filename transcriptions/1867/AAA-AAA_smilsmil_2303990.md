@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2303990.jpg
@@ -88,4 +87,3 @@ myself on my bed — Miss Graupner played
 some classic music — at 9.30 down stairs
 again — walked for some time, enjoying the
 evening air & moonlight — To bed at 11.
-```

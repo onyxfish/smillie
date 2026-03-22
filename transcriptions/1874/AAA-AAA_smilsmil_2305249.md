@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1874
 image: 1874/AAA-AAA_smilsmil_2305249.jpg
@@ -56,4 +55,3 @@ just before 9 o'clk — Made paste
 11 o'clk — Father + Mother
 took dinner at Willis's —
 To bed at 11.20
-```

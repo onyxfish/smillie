@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1885
 image: 1885/AAA-AAA_smilsmil_2307373.jpg
@@ -74,4 +73,3 @@ rather restive & seemed excited -
 I got to bed about 11 - heavy rain
 during the night which disturbed
 me.
-```

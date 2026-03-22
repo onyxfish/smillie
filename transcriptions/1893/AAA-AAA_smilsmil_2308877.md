@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308877.jpg
 pages:
@@ -60,4 +57,3 @@ They managed to get it into place before dark.
 It is bedded in Kelun. Evening,
 I wrote a letter to Annie & took it
 to the P.O. at about 10.
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1876
 image: 1876/AAA-AAA_smilsmil_2305616.jpg
@@ -59,4 +58,3 @@ the carpentering. Tea at 8.
 Over. Read newspapers
 until after — got to bed about
 11.
-```

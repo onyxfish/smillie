@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1884
 image: 1884/AAA-AAA_smilsmil_2307083.jpg
@@ -39,4 +38,3 @@ objective & a great many
 subjective ones —
 Wriggled dreamily through
 the day & night.
-```

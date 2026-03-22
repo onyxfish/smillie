@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1883
 image: 1883/AAA-AAA_smilsmil_2306900.jpg
@@ -26,4 +25,3 @@ Overcast with some light snow in the mf. Up late & did not get to studio until a
 ### January, Saturday 27, 1883
 
 Overcast & rather dismal. — Rain & threatening rain all day, which came plentifully in the evening — Got to studio before 10 o'clk — By appointment, a girl calling herself Pauline Swift, came to studio to see Champney & me as to her fitness for a model — She won't do — About 11 went to N.a. & met Annie & her mother. — Buyer's Day — met many friends — a. was sufficiently interested to buy 3 little pictures — landscape by Nico Bastest — Head by Lippincott & Chrysanthemums by W.P. Dillon — Had a talk with Mr. Sherwood about a new Studio's Bldg. — Home to dinner at 1.15 — to studio at 3 — Charcoaled on Sketch "Crescent Beach, Magnolia" until 4.30 then to Knodler's & Wunderlich's & at 5 to Century — Yale & Gilder there — no Stor. & Butts — Y. walked up to 38th S. with me in the rain — Tea at 7. Ev'f. at home — made a sketch for decoration of hall — to bed at near 11.
-```

@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1868
 image: 1868/AAA-AAA_smilsmil_2304200.jpg
 pages:
@@ -71,4 +68,3 @@ others, to Corinne Coleman. Rec'd
 a letter from Will, answered
 it by Return mail — Got to
 bed at 11 o'clk —
-```

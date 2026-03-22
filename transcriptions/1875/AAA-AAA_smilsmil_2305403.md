@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1875
 image: 1875/AAA-AAA_smilsmil_2305403.jpg
 pages:
@@ -28,4 +25,3 @@ Harry Dining died this m'g about 6 o'clk. Overcast with a sprinkle of rain but c
 ### April, Friday 9, 1875
 
 Overcast with a smart bit of rain late in the afternoon. — Got to studio about 10 & spent all the m'g, arranging my drds, traps & confusion of trash. Made little progress. To dinner at 1.20 & at 2.30 at Phil. Rehearsal. — After rehearsal, went to [illegible] Studio Bldg with Nicoll and called on Gel Hall — also Hubbard & Perry — got to my own studio at 6 — to tea at 7.15 — Swe'g, as I felt tired & unwell, did not go out — did a little writing — To bed at 10.30.
-```

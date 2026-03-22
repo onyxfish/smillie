@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1866
 image: 1866/AAA-AAA_smilsmil_2303735.jpg
@@ -54,4 +53,3 @@ for Europe — He expects
 to sail next Wednesday
 with his wife and two
 daughters —
-```

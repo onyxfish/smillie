@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1865
 image: 1865/AAA-AAA_smilsmil_2303653.jpg
 pages:
@@ -46,4 +43,3 @@ Day much like april, warm, cloudy, and showery — [illegible] about among the s
 Bright, clear, windy day —
 Mrng went to Thompson's, but he did not preach — then went to studio & from there to the Madison Ave. Baptist Ch. Took dinner at the Broadway Hotel. Afternoon writing to George and Mother.
 Evg went to J.P. Thompson's Tab. Ch., heard a [illegible] stranger. Walked home with Meta Gavit — found ourselves locked out, so walked about until after 10 o'clk — Lovely moonlight night.
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308837.jpg
@@ -65,4 +64,3 @@ country round about swarmed. The
 turnstiles at Sydenham Crystal
 Palace showed more than 42,000
 entrances.
-```

@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1874
 image: 1874/AAA-AAA_smilsmil_2305325.jpg
 pages:
@@ -67,4 +64,3 @@ old fashioned evening. Will,
 Joe, Minm & Fred stayed all
 night with us. Just upon
 12 when I got to bed.
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1874
 image: 1874/AAA-AAA_smilsmil_2305331.jpg
@@ -60,4 +59,3 @@ C.H. not there. abt 1 walked
 home with Clark Bell — to bed
 abt 11.45. [illegible — ~4 lines]
 25.00 [illegible — ~3 words]
-```

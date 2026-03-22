@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1888
 image: 1888/AAA-AAA_smilsmil_2307854.jpg
 pages:
@@ -69,4 +66,3 @@ some days (or evenings). Annie read
 aloud from "A Roman Singer" — Charl.
 came in for awhile — To bed about
 11.
-```

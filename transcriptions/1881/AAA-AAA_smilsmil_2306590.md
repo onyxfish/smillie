@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1881
 image: 1881/AAA-AAA_smilsmil_2306590.jpg
@@ -66,4 +65,3 @@ to studio — there until after
 Evef. Avery Brown came in
 for awhile — To bed at
 10.30.
-```

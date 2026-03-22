@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308677.jpg
@@ -62,4 +61,3 @@ lessons in Italian to-day — Eve'g wrote
 part of a letter to Yale.
 
 Morgan — 5½ h.
-```

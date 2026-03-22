@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1885
 image: 1885/AAA-AAA_smilsmil_2307376.jpg
@@ -64,4 +63,3 @@ general chatting — I, most
 of the time, sniffling, sneezing
 & blowing my nose. — To bed
 at 10.
-```

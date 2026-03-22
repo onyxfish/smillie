@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1873
 image: 1873/AAA-AAA_smilsmil_2305019.jpg
@@ -55,4 +54,3 @@ Gauthier's — then to Snedecor's.
 Back to studio & home at 7.15
 Even't. mounted Shasta drawing
 & got to bed at 11.15
-```

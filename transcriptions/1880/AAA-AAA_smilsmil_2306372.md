@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1880
 image: 1880/AAA-AAA_smilsmil_2306372.jpg
@@ -46,4 +45,3 @@ concert. Nasty rain — Grand
 concert — Tremendous house —
 after concert pleasant evening — Took Anna C. home
 to bed before 12.
-```

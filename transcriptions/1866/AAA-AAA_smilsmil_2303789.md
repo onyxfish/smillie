@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1866
 image: 1866/AAA-AAA_smilsmil_2303789.jpg
@@ -70,4 +69,3 @@ a little wood stove brought into the
 sitting Room + a fire kindled in it.
 Rec'd through P.O. invitation from Mrs.
 Rackermann to spend to-morrow with her,
-```

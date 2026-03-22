@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1879
 image: 1879/AAA-AAA_smilsmil_2306264.jpg
@@ -55,4 +54,3 @@ back to tea at 6.30. Everf.
 wrote a letter to Charl & at
 last went to P.O. with it —
 To bed about 10.30.
-```

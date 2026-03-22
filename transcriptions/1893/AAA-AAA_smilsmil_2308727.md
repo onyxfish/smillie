@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308727.jpg
@@ -74,4 +73,3 @@ light night — by an extravagant consumption
 of coal (soft) in our little grate — heavy
 under clothes & wraps, we kept ourselves
 very comfortable.
-```

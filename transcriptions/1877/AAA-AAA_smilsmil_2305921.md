@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1877
 image: 1877/AAA-AAA_smilsmil_2305921.jpg
@@ -53,4 +52,3 @@ pages:
 | | | | 484 25 |
 | | | | 227 50 |
 | | Previous months | | 711 75 |
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1871
 image: 1871/AAA-AAA_smilsmil_2304756.jpg
@@ -30,4 +29,3 @@ Up at 5.30 after rather an uncomfortable night, owing to my headache. B'kst at G
 *Sherman House — Chicago — Room 122 —*
 
 Up at 6 o'clk — day overcast — just in time to see Burlington — the River and bridge — some scrabbling to get a meal on the Hotel car. Rattled along making full time — very different from C.P. & U.P. R.R's — very dusty, but managed to amuse myself — took no dinner + got into Chicago at 3.20 — went at once to the Sherman House — no word of the Smeedys, much to our disappointment — Trunks did not come up from depot for two hours. Washed up — found myself more tired than I thought — a very good dinner at 6 — wandered about through some of the streets & getting general information until near 10 — To bed at 10.15
-```

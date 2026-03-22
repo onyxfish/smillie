@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308668.jpg
@@ -98,4 +97,3 @@ with books & papers — made some
 very slight pen sketches to give Kate
 an idea of the appearance of our
 Rooms.
-```

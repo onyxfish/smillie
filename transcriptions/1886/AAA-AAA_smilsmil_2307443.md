@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1886
 image: 1886/AAA-AAA_smilsmil_2307443.jpg
@@ -28,4 +27,3 @@ Evef spent reading — Mrs. S. & daughter with us — To bed about 11.
 ### January, Wednesday 13, 1886.
 
 Another brilliant cold day, but much pleasanter because still. Got to studio before 10 & by close work on my big plate I got it all drawn in by noon — I also worked for awhile for Miss Abbatt — Home to lunch soon after — Annie & Mrs. S. & daughter at Wortner Cook's to lunch. Back to studio at 2.30 & had my plate in the acid twice. Jas. Symington, with W. ? came in at 5 o'clk, just as I was leaving. Then went to N.A. fd. saw Farrer for a few minutes — Then to 18 W. 23° & ordered a gas stove for our bathroom. Home soon after 6. Dinner. Mrs. S. & daughter, dined at the Clinch's. Avery Brown called in the evef. Abg he went for Mrs. S. & Ket? — with her at 10. I wrote notes to Charl & Kate — To bed before 11.
-```

@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1885
 image: 1885/AAA-AAA_smilsmil_2307322.jpg
 pages:
@@ -66,4 +63,3 @@ went out for a sail with Preston. and I
 did a little writing. Tea at about 7 —
 Eve'g in parlor chatting until 10. Then
 to bed.
-```

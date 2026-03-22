@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308548.jpg
@@ -80,4 +79,3 @@ to Anthony. Mailed notes at 9. It was
 9.30 when A. ret'd with Jim. To bed
 at 10.30 & from 11 to 12 had a bad & a
 monkey time with my stomach.
-```

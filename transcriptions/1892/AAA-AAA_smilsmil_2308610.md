@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308610.jpg
@@ -83,4 +82,3 @@ no specific business before the meeting
 but there was a good deal of Talk —
 I got tired at 10.30 & excused my-
 self — Walked up home —
-```

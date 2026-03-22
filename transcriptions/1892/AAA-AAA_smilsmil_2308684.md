@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308684.jpg
@@ -57,4 +56,3 @@ Tea — Evng I finished a long letter to
 Kate.
 
 Morgan — 4 h.
-```

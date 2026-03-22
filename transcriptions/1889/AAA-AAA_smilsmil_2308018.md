@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1889
 image: 1889/AAA-AAA_smilsmil_2308018.jpg
@@ -28,4 +27,3 @@ After 11 took them (4) over to N. A. f.d. & gave them to W. Greer — met Miss M
 ### February, Sunday 24, 1889
 
 A very cold, clear day — Blkpt soon after 9 — About 11, Annie, Jim & I went to the Water-Color exhibit at the N.A. f.d. where I substituted a later pf. of my Dry Point "Poppies" for the one in the frame — Among the Water-colors until near 1 — then we separated & I went to Charl's washerwoman at 297 Seventh Ave. & then home. Dinner at 2 — after that Charl came in for a few minutes — then Emma & Margery Spring — It was about 4.30 where A. & I got started to make a call on Jos (bro. Will's widow) at 32 4 W. 46th St. we saw her for a few minutes, finding her in a wretched plight — physical & mental — Home about 6 — Had some tea at 6.30 — Eveff. Annie & I sat in front of the parlor fire & read & dozed until after 9 — to bed before 10.
-```

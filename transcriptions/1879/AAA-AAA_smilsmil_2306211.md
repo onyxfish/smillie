@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1879
 image: 1879/AAA-AAA_smilsmil_2306211.jpg
 pages:
@@ -48,4 +45,3 @@ Bisbee's & along the River. Tea at
 there until 10.30 — singing by Mad.
 P — then a walk — & to bed at
 11.30.
-```

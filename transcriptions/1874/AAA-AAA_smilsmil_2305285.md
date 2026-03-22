@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1874
 image: 1874/AAA-AAA_smilsmil_2305285.jpg
 pages:
@@ -65,4 +62,3 @@ a weak & sad exhibition to
 me — a failure every way. At
 Fan's until near 11 — then home
 & to bed.
-```

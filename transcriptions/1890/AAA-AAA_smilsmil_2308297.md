@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1890
 image: 1890/AAA-AAA_smilsmil_2308297.jpg
@@ -52,4 +51,3 @@ after 6. Eve'g, wrote a couple
 of notes — made out some checks
 — read my newspaper & got to
 bed at about 10.
-```

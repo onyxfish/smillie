@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1869
 image: 1869/AAA-AAA_smilsmil_2304421.jpg
 pages:
@@ -68,4 +65,3 @@ at 8 went to Burroughs
 writing out acct. cash
 between Will & self —
 got to bed at near 11
-```

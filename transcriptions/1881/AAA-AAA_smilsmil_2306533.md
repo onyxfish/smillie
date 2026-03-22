@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1881
 image: 1881/AAA-AAA_smilsmil_2306533.jpg
 pages:
@@ -52,4 +49,3 @@ young man [illegible] play on the flute
 (Welstein or some such name). He
 was very clever — to 37th St. and
 to bed about 11.30. Heavy Rain
-```

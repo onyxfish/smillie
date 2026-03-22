@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308760.jpg
 pages:
@@ -32,4 +29,3 @@ A delicious day. Pure & spring-like in air, transparent color — After bkfo. Th
 **Weather:** [illegible]  **Temp:** [illegible]
 
 Another charming day. Before bkfo. I went to the Piazza di Spagna looking for a fine branch of Almond blossoms as I wish to make a small study of such a branch that I may have the material from which to construct a picture — a reminiscence of an essay on the Pincian Hill when I saw the dome of St. Peters through a frame formed by the such a mass and branches of an Almond tree in full bloom. I was too early & returned without finding any. After bkfo. — A. & I went to the Forum Romanum & spent the morning skipping about the place with Sig. Spado and 10 or more others attendant upon his lecture. He was very diffuse but, with his surroundings very interesting. After that we had time to take a short walk on the Capitoline Hill, then to hotel to lunch — buying a branch of Almond things in blossom on our way. During the afternoon I tried to make a water color sketch but had no success. At 4.30 I went up on the Pincian Hill with the boys — band played. We amused ourselves there until near 6 — met A. & I. in the Piazza di Spagna — [illegible] has changed her quarters this afternoon to the Pension Michele where she gets cheaper rates, those at the Hotel Russie. A., the boys & I dined together at 6.15 before Regular table d'hote. By an arrangement we order only what we wish from the dinner menus. Eve'g. had a pleasant fire in bedroom — Read Hare concerning the Forum Romanum.
-```

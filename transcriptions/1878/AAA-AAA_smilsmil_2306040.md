@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1878
 image: 1878/AAA-AAA_smilsmil_2306040.jpg
 pages:
@@ -30,4 +27,3 @@ I worked on block until about 11 when, until near 12 with others, I was bidding 
 ### August, Saturday 3, 1878
 
 Up before 7 — charming mtt., had bkfp. soon after 7 — to dock waiting for the Janorski about 7.40 I readway came to me there & handed me letters from A.V.S. Anthony & Houghton, Osgood & Co — the latter enclosing check for $30 00 — payment for my drawing on wood illustrating Longfellow's Preludes — About 8.20 Janorski came along & I got aboard — Reached Bolton at 11.15 — at once went to a height back where I had a fine view — got to sketches — Ret. to Mohican House at 1.30 & had a good dinner — met Miss Burnham of Phila. and had a very pleasant visit with her as we sat under the trees. Father & sister were introduced — Janorski came at 3.30 & went up to Hewetts. The meter caught me there — a party on board — Mr. & Mrs. Eastman Johnson, Mrs. Chas. Watrous & others. Had a jolly time, getting to P.R. Ho about 8 o'clk. Then tea — they a hop in the Parlor, ending at midnight with a Romping Virginia Reel — then to bed
-```

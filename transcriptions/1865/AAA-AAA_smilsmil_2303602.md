@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1865
 image: 1865/AAA-AAA_smilsmil_2303602.jpg
@@ -63,4 +62,3 @@ Lloyd Meyer took his 22d lesson
 Afternoon. Phil. Rehearsal.
 After Rehearsal went
 about among the galleries.
-```

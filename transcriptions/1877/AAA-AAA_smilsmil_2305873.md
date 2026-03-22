@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1877
 image: 1877/AAA-AAA_smilsmil_2305873.jpg
@@ -26,4 +25,3 @@ Still beautiful weather. B'kfs' at 9.30 — after it Cap. Read & daughter came, 
 ### October, Tuesday 2. 1877.
 
 Glorious day — Head still very shaky — B'kfs' shortly before 8 — Bray Hall & the Washburns there — Soon after went out to Barn yard and labored with cow until 11.30 o'clk — then in & on bed until 12.30 — then worked on A.B.N. Co. drawing — R.R. Station at Concepcion — Chile — Dinner at 2.30. The Washburns, Bray Hall & Wl. Bennett — About 3.30 again at A.B.N. Co. drawing — At 4.30 out to cowyard — there until 5.30 — then walked until 6.30 — Tea at 7 — Euchre with Ella against Hulgeul & Mr. D — beat them 5 G8. Stopped at 9.20 — to bed before 10.
-```

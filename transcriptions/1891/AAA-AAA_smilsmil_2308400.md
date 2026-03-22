@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1891
 image: 1891/AAA-AAA_smilsmil_2308400.jpg
 pages:
@@ -71,4 +68,3 @@ back to Geo. — Dinner at 6.30 — Evely. reading
 a work on Hardy flowering plants pub. by a
 Pittsburgh firm of Florists — To bed at
 10.
-```

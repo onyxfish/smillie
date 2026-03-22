@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1879
 image: 1879/AAA-AAA_smilsmil_2306141.jpg
 pages:
@@ -72,4 +69,3 @@ mother for a moment — then to
 5th Ave. + 45th St. with Charl — then
 to 37th St. + to bed a little before
 midnight.
-```

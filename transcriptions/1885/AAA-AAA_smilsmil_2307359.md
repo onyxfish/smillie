@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1885
 image: 1885/AAA-AAA_smilsmil_2307359.jpg
 pages:
@@ -88,4 +85,3 @@ all hands waiting — Jim just — very much pleased —
 After a little I went down & saw father & folks —
 then home & had a good scrub & got to
 bed about 10.30 — Trip cost $109.58.
-```

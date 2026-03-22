@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1874
 image: 1874/AAA-AAA_smilsmil_2305296.jpg
 pages:
@@ -66,4 +63,3 @@ and Everf. made a call on [illegible]
 Wm Milford — Glorious night — at
 8.45 went to Fan's — Home &
 to bed at 11 o'clk —
-```

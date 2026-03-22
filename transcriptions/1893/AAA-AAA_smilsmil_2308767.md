@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308767.jpg
@@ -97,4 +96,3 @@ terrace until 6.15 — Dinner at 6.45 — Every
 arranging for a visit to-morrow to Albano &
 Frascati — also, worked on pen sketch and
 finished it.
-```

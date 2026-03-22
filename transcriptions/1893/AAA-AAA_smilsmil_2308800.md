@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308800.jpg
@@ -90,4 +89,3 @@ thence home, getting in just before dinner at
 7 — Eve'g there being no one in the salon
 but E. + A — there being a very good light
 there I finished my Ponte Vecchio sketch
-```

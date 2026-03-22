@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1880
 image: 1880/AAA-AAA_smilsmil_2306401.jpg
@@ -28,4 +27,3 @@ Very hot day — went to the Baptist Ch. in the mf. & heard one of Kendrid sermo
 *at Mr. M. S. Beach's — Peekskill*
 
 Beautiful day, altho' very warm — After bkfst, finished Harper's Mt. Desert block and packed it, wrote a letter to Parsons — at 12 went to the [illegible] Co — Dinner at 1 — Alfred Jones came in to see father — I packed my bag & with Ge left home at 4.15 & took 4.55 train getting to Peekskill at 6.12 — Mr. Beach's team in waiting & we rode at once to the house where we met, besides the family, Misses Bullard & Barnum. Hfward Beecher came over & chatted until we had tea at 8 — After that we went to Mr. Beecher's & some time was spent on his piazza — I walked with Emma & Miss Bullard — To bed after 11.
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308843.jpg
@@ -59,4 +58,3 @@ to Putney to call on the Satchells there.
 Rested until dinner at 7 — Evening
 reading newspapers & writing a note to
 Mr. F. Goulding.
-```

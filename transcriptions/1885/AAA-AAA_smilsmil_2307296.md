@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1885
 image: 1885/AAA-AAA_smilsmil_2307296.jpg
 pages:
@@ -75,4 +72,3 @@ by Annie — Every[one] — Read awhile
 Vernon Lee's "Counters of Albany" —
 had a game of Beziques and
 at 11 to bed.
-```

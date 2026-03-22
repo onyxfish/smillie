@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1876
 image: 1876/AAA-AAA_smilsmil_2305580.jpg
@@ -58,4 +57,3 @@ T. W. 38th St. a handsome entertainment
 to artists & others — there until
 11.30 — then to 41st St. & to bed shortly
 after 12.
-```

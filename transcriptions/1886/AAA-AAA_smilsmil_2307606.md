@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1886
 image: 1886/AAA-AAA_smilsmil_2307606.jpg
@@ -58,4 +57,3 @@ Eve'g. Kate went out with
 Charl. — I finished the rough
 diagrams of Montrose studio
 interior — To bed about 10.30.
-```

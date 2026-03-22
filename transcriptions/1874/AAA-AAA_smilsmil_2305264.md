@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1874
 image: 1874/AAA-AAA_smilsmil_2305264.jpg
@@ -26,4 +25,3 @@ Very warm, but delightful breeze, so that it was not at all oppressive. Blefs �
 ### July, Monday, 20, 1874
 
 Very muggy m't. Up abfo and at [illegible] studio, Catrell & his boy there also Backus to hang the felting paper — got [illegible] to work, Cotrell laying the floor & at the paper. Weather thg? threats of Rain — Dinner at 1.30 — Tremendous storms during the afternoon — heavy Rain, thunder & lightening — P. did not feel in a full day. C. got the floor laid all but the last metre. Tea at 6. Tylers going home am — very shot in the legs. After tea cleared up studio — Bread. did not bring up my mail with the others — a characteristic dytm d ill manners — Had a passage with him before Mrs L. After 8 went down & made a short call on Miss Bread — back before 10 I spent half an hour getting a skein of thread out of a snarl for Miss V. Boggo — Read Newspaper until after 11 & to bed at 11.20
-```

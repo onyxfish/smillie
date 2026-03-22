@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308666.jpg
@@ -94,4 +93,3 @@ A.&J. Returned at 7 & then we had our
 evening meal — S.&E.F. I read awhile
 again, wrote upon letter to Charl —
 To bed after 10.
-```

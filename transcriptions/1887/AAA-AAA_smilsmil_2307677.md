@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1887
 image: 1887/AAA-AAA_smilsmil_2307677.jpg
@@ -57,4 +56,3 @@ calls — Miss Abbatt — Mr. Eaton — Dr. Yale
 up home with me about 6. Dinner —
 m.f. reading & writing until 10
 — then to bed.
-```

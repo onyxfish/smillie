@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1865
 image: 1865/AAA-AAA_smilsmil_2303605.jpg
 pages:
@@ -79,4 +76,3 @@ so far — Miss Guthrie of Ohio
 & Miss Seymour of Buffalo were
 introduced at the Studio yesterday
 by Kittell —
-```

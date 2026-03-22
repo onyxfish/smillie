@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308650.jpg
 pages:
@@ -98,4 +95,3 @@ with his wife — on the way to Bayreuth.
 Feeling very tired I went to bed
 at 8.30 — & after two brief wakings
 awoke at 7 the next mff.
-```

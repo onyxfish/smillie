@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1868
 image: 1868/AAA-AAA_smilsmil_2304102.jpg
 pages:
@@ -61,4 +58,3 @@ alone in Small West Room until
 10 o'clk. then walked home very
 much tired — got to bed at 11 —
 glorious crisp moonlight night.
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308612.jpg
@@ -62,4 +61,3 @@ back some [illegible] — Mr. Valentine
 had come to make a short call.
 I attended to my foot & got to
 bed soon after 10.
-```

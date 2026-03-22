@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1888
 image: 1888/AAA-AAA_smilsmil_2307987.jpg
@@ -27,4 +26,3 @@ At 8 o'clk — starlight & much cooler — with Annie rode down to 14th S. — l
 ### December, Friday 28, 1888
 
 Very pleasant, bright day — to studio at 10 — Fr. Otis came in to talk over a proposed change affecting Qo. Rives & E. E. Stearman — He saw for the first time my "Cliffs of Normandy" & was very much impressed by the picture — spent the rest of the mtf cleaning my study which has got to be very dirty. Home to lunch at 1, stopping at [illegible] & leaving an order for three small frames. Back to studio at 2.15 — Annie walking down with me on her way to a Choral club rehearsal — again at work on house cleaning — very tired. Home at 5.30 — dinner at 6.30. Eve'g had intended to go to Am. Art Ass'n and hear Verestchagín talk about War, but was too tired — Remained in front parlor fire & read until after 9 — To bed before 10.
-```

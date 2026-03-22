@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1881
 image: 1881/AAA-AAA_smilsmil_2306681.jpg
 pages:
@@ -76,4 +73,3 @@ letter to Dr. Hamilton of London
 Pres. Painter, Etchers — at 9.30 went
 for A. — home by 10 — to bed
 at 11.
-```

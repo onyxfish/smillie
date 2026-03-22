@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1891
 image: 1891/AAA-AAA_smilsmil_2308508.jpg
@@ -31,4 +30,3 @@ Ralph & I had our tea alone (of course) at 6.30 & I spent the evng. Salins with 
 ### November, Sunday 1. 1891.
 
 A bleak, howling day — growing colder — wind from S.W. to N.W. — at night some snow flurries — As I did not get a very good night's rest — It was late before I got up or nearly 10 before I finished bkfs. Then I went down to garden — after that trimmed some grafted apple trees — also Blackberries & Raspberries — Then walked out to Jones' Lake to look at some young trees for transplanting — home at 1.20 — dinner at 2 — after that, rested awhile. wrote a letter to Annie before tea — After tea wrote to Geo also to Mr. Vickery to the Secty. (Trumpff) of Milwaukee Ind. Exps. Ass'n — took letters to P.O. at 9 o'clk.
-```

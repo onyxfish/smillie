@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1876
 image: 1876/AAA-AAA_smilsmil_2305643.jpg
@@ -64,4 +63,3 @@ Great heat & delay at the different
 landings — finally to bed and
 passed a miserable, stewing
 night. [illegible — ~2 lines]
-```

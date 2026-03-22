@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1889
 image: 1889/AAA-AAA_smilsmil_2308055.jpg
@@ -63,4 +62,3 @@ the play, while having some good
 dramatic situations, is little
 better — It was 11.30 when we got
 home — right to bed.
-```

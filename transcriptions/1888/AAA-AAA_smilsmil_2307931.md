@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1888
 image: 1888/AAA-AAA_smilsmil_2307931.jpg
@@ -83,4 +82,3 @@ Rochester, ordering berry vines.
 The opening on Annie's breast has
 spread a little but from appearances
 I am hopeful that it will go no further
-```

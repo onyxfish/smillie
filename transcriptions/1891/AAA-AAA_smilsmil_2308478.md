@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1891
 image: 1891/AAA-AAA_smilsmil_2308478.jpg
@@ -31,4 +30,3 @@ Overcast wt. with some slight attempts at rain - from midday until about 3 o'clk
 ### September, Wednesday 2. 1891.
 
 Lovely day. Near 9 o'clk, when we had breakfast. After seeing to things out of doors I got to work on jade plate still cleaning — just before noon walked down to new R.R. to see the grading work now being done on the site for the new station. — Back & worked until dinner. After that, out at new barn directing work there — then downtown & met Judge Searle & A.B. Smith by appointment and talked on the proposed improvements on Public Ave. Got back to the house at 4.30. Annie, Kate & Katie (with me) went out riding. Home at 6. Tea at 6.30 — At 8 I went down town met again Searle & Smith & a little later Smith & I went into the Town Council meeting where action was to be taken upon the Pub. Ave. help. A com. was appointed & then I went home. To bed before 10.
-```

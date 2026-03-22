@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2303983.jpg
@@ -78,4 +77,3 @@ or two from Beethoven's 2d & 7th Symphonies.
 Arrangements made for a trip to Chocorua
 tomorrow — to my great vexation, I can't go —
 to bed at 10 o'clk. after a grand day.
-```

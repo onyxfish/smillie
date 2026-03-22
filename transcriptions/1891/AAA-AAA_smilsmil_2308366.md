@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1891
 image: 1891/AAA-AAA_smilsmil_2308366.jpg
@@ -63,4 +62,3 @@ cut down Baker for to-morrow. Home
 at 6.30. Dinner – Ev'g, Annie
 went with Sam + Mary to the first of
 Mrs. Jas. Morse's receptions.
-```

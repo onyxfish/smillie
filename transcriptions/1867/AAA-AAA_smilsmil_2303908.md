@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2303908.jpg
 pages:
@@ -65,4 +62,3 @@ not go out in the evening,
 my miserable stomach
 being too much for me —
 To bed at 10.30.
-```

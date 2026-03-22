@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1882
 image: 1882/AAA-AAA_smilsmil_2306741.jpg
@@ -67,4 +66,3 @@ free talk with F.H. Smith concerning
 the W.C. Socy squabble — no signs of
 amicability — walked up home at
 11 in a light rain — To bed at 12.
-```

@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1876
 image: 1876/AAA-AAA_smilsmil_2305635.jpg
 pages:
@@ -70,4 +67,3 @@ for "Saco" 6×10. That W. Williams
 has bought. To bed at 11.20
 Matt & Kate Rd.? from NY,
 this evng.
-```

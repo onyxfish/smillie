@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2303961.jpg
 pages:
@@ -75,4 +72,3 @@ from "Jas Baldwin" caught us at Ferry —
 us — everything very lovely — in, about
 [illegible].40 — after a delightful pull for me.
 home at 9.15 & to bed about 10.
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1868
 image: 1868/AAA-AAA_smilsmil_2304155.jpg
@@ -54,4 +53,3 @@ edge of a Thunder storm that
 passed west of us.
 Evng I wrote a note to S. C. T.
 Mother is much better.
-```

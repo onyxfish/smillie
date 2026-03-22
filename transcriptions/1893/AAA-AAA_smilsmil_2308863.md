@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308863.jpg
 pages:
@@ -97,4 +94,3 @@ table our dinner in the old place — out at
 a little after 9 — walked to 4th St. entrance
 home by trailer car — packed trunk and
 then to bed — glorious moonlight night.
-```

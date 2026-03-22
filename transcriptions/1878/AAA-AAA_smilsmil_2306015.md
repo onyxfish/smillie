@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1878
 image: 1878/AAA-AAA_smilsmil_2306015.jpg
 pages:
@@ -65,4 +62,3 @@ when I got to bed. [illegible]
 [illegible — ~4 words]
 [illegible — ~4 words]
 [illegible — ~3 words]
-```

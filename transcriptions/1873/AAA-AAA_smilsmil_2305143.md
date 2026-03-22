@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1873
 image: 1873/AAA-AAA_smilsmil_2305143.jpg
 pages:
@@ -69,4 +66,3 @@ To bed at 10 —
 
 Old Mrs. Mulford of Montrose
 died this m'g.
-```

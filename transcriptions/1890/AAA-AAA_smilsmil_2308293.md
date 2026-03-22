@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1890
 image: 1890/AAA-AAA_smilsmil_2308293.jpg
@@ -74,4 +73,3 @@ read aloud for an hour from Stanley's
 new book, but I was so sleepy that
 I heard none of it. To bed soon
 after 10 o'clk.
-```

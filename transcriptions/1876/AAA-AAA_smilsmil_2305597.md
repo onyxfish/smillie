@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1876
 image: 1876/AAA-AAA_smilsmil_2305597.jpg
@@ -26,4 +25,3 @@ another charming Spring day — very mild — I feel it in my knees — Got to s
 ### April, Wednesday 12, 1876
 
 Still mild & Spring-like — cloudy p.m. & a little spatter of rain about 3 — Father came to 41 S. before I finished — He went down town & I to studio at 9.40 — to work on Scrub Race. Geo. surprised me about 11 — to dinner at 1.20 — back at 2.30 — Worked until 4 — then to 3 yng's — 42° S. & Mad. ave. & heard Joe Guild on Organ — very much pleased — at 6 again at studio — wrote a little at 3 — to tea at 6.45 — Got to studio at 8.30 — Miss Gilbert came in & helped me by cutting papers by scale, to represent centennial N.C. drawings for me to arrange the hanging — wrote several letters — To 41° S. at 10.30 & to bed before 11.
-```

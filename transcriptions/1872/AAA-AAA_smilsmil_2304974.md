@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1872
 image: 1872/AAA-AAA_smilsmil_2304974.jpg
@@ -48,4 +47,3 @@ Scarsdale Station —
 
 Chas. P. Adams
 38 Broad St. N.Y. —
-```

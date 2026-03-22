@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1875
 image: 1875/AAA-AAA_smilsmil_2305539.jpg
@@ -35,5 +34,3 @@ pages:
 | 12 | H. T. Chapman Jr. — Repainting "View Near Hyde Park" | 50.00 | |
 | | Previous | 1009.50 | |
 | | | 1059.50 | |
-
-```

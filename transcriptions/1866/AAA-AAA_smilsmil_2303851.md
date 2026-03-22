@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1866
 image: 1866/AAA-AAA_smilsmil_2303851.jpg
@@ -26,4 +25,3 @@ Snowing hard, a real winter looking day — Again pretty thoroughly used up by a
 ### Monday, December 17, 1866
 
 Snow again — Weather seems bound to do as it pleases. In bed until near noon — Miserable night with my stuffed up head. Very dull, listless + stupid — still, have life enough to dread going into one of those horrible slow fevers. Dr. J. called at about 2.30 + gave me ½ doz. powders promising that they shall do something — Every. Will + Joe came in to see the house — Expressed great surprise to find me sick. Sloane's man to put down carpets here from 9.30 until 3 o'k + again from 4.40 until 7. p.m. Got down all the new carpets + oil cloths + then all of the old. A wonderful change in the house, altho I am not able to go down to the parlors to see — Every. blew off quite clear.
-```

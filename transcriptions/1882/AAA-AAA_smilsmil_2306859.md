@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1882
 image: 1882/AAA-AAA_smilsmil_2306859.jpg
@@ -47,4 +46,3 @@ Fanny K.'s — Annie there — had tea — At 8.30 F. A. + I went to Mad. Sq.
 theatre + saw "Young Mr. Wrunthrof" — a pretty theatre — play well set —
 some good acting, especially Agnes Booth + Whiffin — Took F. home at
 10.30 — to our own home soon after 11 + to bed at about 11.30.
-```

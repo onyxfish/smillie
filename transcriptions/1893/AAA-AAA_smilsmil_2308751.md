@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308751.jpg
@@ -96,4 +95,3 @@ of photo views - It was just about 6, when we got
 to the hotel - Dinner at 6.30 - [illegible] I worked for
 a time on terrace pen sketch - listening to a mile
 orchestra playing in the corridor beneath me.
-```

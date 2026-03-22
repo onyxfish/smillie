@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1886
 image: 1886/AAA-AAA_smilsmil_2307580.jpg
@@ -63,4 +62,3 @@ to-day & at night in spite of storm.
 Eve'f. wrote to Howard White — worked
 awhile on plans for N.E. Room, main floor.
 To bed at 10.30.
-```

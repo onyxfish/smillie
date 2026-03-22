@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1882
 image: 1882/AAA-AAA_smilsmil_2306725.jpg
@@ -26,4 +25,3 @@ Very mild spring-like day — to N.A. about 10 & spent some time there arranging
 ### February, Tuesday 28, 1882
 
 Pleasant w.f. — overcast before noon — rain at night — After 8½ Annie & I went down town to a furniture warehouse in Pearl St. to look at some furniture, after which she left me & I went to Fulton St. & bought several sheets of parchment for etching proof. Then to Walker St. to see Credner — found he had moved — then to Flint's furniture place in 14th St. — there at 12.30 — to studio — Gifford came in — home to dinner at 1.20 — wrote a note to Cotrell — after 3 when I got to studio — took some small experiment at p.p. on parchment — Home to tea at 6.30 — Went until after 9, hanging pictures in the Reception Room — Read papers until 10.30 — to bed about 11.
-```

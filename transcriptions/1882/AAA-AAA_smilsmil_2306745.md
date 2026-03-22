@@ -1,4 +1,3 @@
-```transcriptions/1882/AAA-AAA_smilsmil_2306745.md
 ---
 year: 1882
 image: 1882/AAA-AAA_smilsmil_2306745.jpg
@@ -28,4 +27,3 @@ Mother Cook sent this every from Ridgefield.
 ### April, Sunday 9, 1882
 
 Overcast with a little sunshine rain at night. B[illegible]. after 9 — Soon after 10 Annie & I went to R.C. Cathedral — Seats on middle aisles 50 ¢ — Side aisles 25¢ — we got poor seats on side aisle and heard, without much enjoyment or profit, the Easter music & sermon — The mummery was pitiful — After service we went to Nee Buckinghouse & saw Will [illegible] — Home to dinner at 2 — After that, did some writing — At about 5 went to studio — on my way back, called on Gel — Home to tea at 7 — Evely. Annie read some aloud — I wrote a letter home & took it to depot after 11 — in heavy rain — back & to bed at 11.30
-```

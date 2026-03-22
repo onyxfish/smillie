@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1886
 image: 1886/AAA-AAA_smilsmil_2307586.jpg
@@ -26,4 +25,3 @@ Overcast & very mild — a glowing red sunset. Got 3 men extra, to dig & rushed 
 ### October, Tuesday 26, 1886
 
 Bleak & overcast wf. Ther. went down to 37° last night. Rain again about 2 o'clk & fell heavily at night. A full force at work in the wf. The hauling of earth about finished — Paupis team brot. up 13 bushels of what was called wood ashes. A couple of men after Coaley to get him to work elsewhere — Herrick cutting out tree tops. Zerfars came up to start on the drain pipe work. Soon after 2 the teams & diggers left. About 3 Hotchkiss stopped — By putting up a board shed. Coaley & Hamlin (who came to work at 1) were induced to stay until 4. Zerfars made some progress — About 6 I went down Town. Evelf. Annie read aloud from George's book "Protection or Free Trade". To bed at 10. Heavy rain during the nights.
-```

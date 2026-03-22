@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2304031.jpg
 pages:
@@ -74,4 +71,3 @@ at the doctrines of election — pre-
 destination — etc — etc — Had a run
 home with Charl at 9.30 & then
 right to bed.
-```

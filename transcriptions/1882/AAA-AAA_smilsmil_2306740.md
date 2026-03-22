@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1882
 image: 1882/AAA-AAA_smilsmil_2306740.jpg
 pages:
@@ -85,4 +82,3 @@ now in Mexico — went for Annie
 at 10.15 — walked home — lovely
 moonlight — To bed soon after
 11.
-```

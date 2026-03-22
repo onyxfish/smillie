@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1891
 image: 1891/AAA-AAA_smilsmil_2308389.jpg
@@ -87,4 +86,3 @@ Danuseuther — Miele — Schill + Hartdegen —
 After the music there were light refreshments
 + a little chatting. We left before 11 — home
 + to bed at 12.
-```

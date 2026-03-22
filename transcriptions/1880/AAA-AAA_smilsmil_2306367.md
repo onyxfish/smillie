@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1880
 image: 1880/AAA-AAA_smilsmil_2306367.jpg
@@ -67,4 +66,3 @@ very warm — even. in Shnudffs
 Room + doing chores in my own
 abode. To 37th S. + to bed at
 11.30.
-```

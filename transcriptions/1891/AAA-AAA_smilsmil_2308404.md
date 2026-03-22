@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1891
 image: 1891/AAA-AAA_smilsmil_2308404.jpg
@@ -82,4 +81,3 @@ him. Annie, Miley, Geo. + I tried a game
 of whist — Combs and left us soon after
 10 but I sat + read my garden books
 until after 11. — To bed at 11.30 -
-```

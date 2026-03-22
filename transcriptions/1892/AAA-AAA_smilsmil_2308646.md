@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308646.jpg
 pages:
@@ -108,4 +105,3 @@ for awhile — then had a nap — As my head
 but uncomfortable I did not go to table d'hôte
 but took tea with the boys at 6. — Every wrote
 for sometime on a letter to [Geo?] — To bed at 10.
-```

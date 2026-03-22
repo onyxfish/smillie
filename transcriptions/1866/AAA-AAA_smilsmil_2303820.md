@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1866
 image: 1866/AAA-AAA_smilsmil_2303820.jpg
 pages:
@@ -28,4 +25,3 @@ Clear m'g — promising a continuation of our fine weather — but it blew up fr
 ### Wednesday, October 10, 1866
 
 a most disagreeable day — cold, raw and blustery with strong east wind. First day of the adjourned Fair — an utter failure. — Before bkfst had a job kindling fire in furnace — after bkfst croquet — cold work — Spent most of the m'g in doors penciling on Rock in Warner's lot. Afternoon, at 3 o'clk Sarah, Mr. & Mrs. Harris, Ge'd & I went up about the Fair ground — mule Race to come off — poor prospects of sport — did not go in but for an hour wandered in the woods. — a little more drawing, then dark. Ev'g at 7. Mr. Mrs. H. Sarah, Ge'd & I went to Fanny Mulford's to tea. 20 or 25 there. After tea some dancing & considerable romping. — Dr. Williams on his high horse. Maud Diven. Fau. M. Josie B. & others. Ready seconds. Just as we were breaking up — a little after 10 o'clk — some darkies gave us a serenade. After our return home, all five of us sat and discussed the ev'g until after 11 o'clk.
-```

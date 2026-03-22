@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1886
 image: 1886/AAA-AAA_smilsmil_2307464.jpg
 pages:
@@ -66,4 +63,3 @@ then home — Geo. with Kate —
 I sat writing until Annie came
 in soon after 11 — To bed before
 midnight.
-```

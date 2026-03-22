@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1888
 image: 1888/AAA-AAA_smilsmil_2307940.jpg
 pages:
@@ -61,4 +58,3 @@ finding that A— has a lump in
 her breast, about the size of a small
 horse chestnut — developed very recently.
 To bed at 10.30.
-```

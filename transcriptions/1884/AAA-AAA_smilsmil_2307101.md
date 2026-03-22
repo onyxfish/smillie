@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1884
 image: 1884/AAA-AAA_smilsmil_2307101.jpg
 pages:
@@ -60,4 +57,3 @@ Tea at 7.30 — Werf.-Co. Read
 aloud awhile — also I wrote
 my letter home & before 11
 took it to the G.C. Depot.
-```

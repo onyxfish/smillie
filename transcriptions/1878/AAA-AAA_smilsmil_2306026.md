@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1878
 image: 1878/AAA-AAA_smilsmil_2306026.jpg
 pages:
@@ -70,4 +67,3 @@ blowing in the ev'g. Much
 of the time walking in the
 parlors. Then a walk
 out of doors — To bed at 10.
-```

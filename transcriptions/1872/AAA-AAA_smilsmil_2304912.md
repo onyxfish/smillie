@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1872
 image: 1872/AAA-AAA_smilsmil_2304912.jpg
@@ -61,4 +60,3 @@ Packing until 10 o'clk, to bed
 about 11 — Matt + Charl, with
 Uncle A. + Sunie went to Metuchen
 to call on Kate Poole.
-```

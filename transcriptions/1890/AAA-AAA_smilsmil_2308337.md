@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1890
 image: 1890/AAA-AAA_smilsmil_2308337.jpg
@@ -69,4 +68,3 @@ toasting & chatting & to bed at 9.30 —
 a very cold night — a better night
 than last night altho' disturbed
 by my aching head.
-```

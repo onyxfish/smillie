@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1884
 image: 1884/AAA-AAA_smilsmil_2307123.jpg
 pages:
@@ -58,4 +55,3 @@ some bills — tea — eveg. for a time
 troubling over some Diet Kitchen accts
 & money that Mr. White has brought in.
 To bed soon after 10.30.
-```

@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1877
 image: 1877/AAA-AAA_smilsmil_2305855.jpg
 pages:
@@ -75,4 +72,3 @@ not in — then about Jessups
 to Fant's — There until
 a little after 10 — then
 on the hill & to bed.
-```

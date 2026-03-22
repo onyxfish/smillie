@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1873
 image: 1873/AAA-AAA_smilsmil_2305070.jpg
 pages:
@@ -32,4 +29,3 @@ A superb & glorious day. Up at 7 — packed & left. At 8 went to Barkers & bough
 *Onboard "Spartan" at St. Lawrence Hall, Montreal. Room 174.*
 
 Up at 3.30 after a tolerable night. We arrived at Kingston at 3 & from 4 to 6 o'clk. were running among the islands that reminded me very strongly of some Adirondack lake. The sunrise was beautiful & the general effect was a success. It was nearly 7 when we had breakfast. Then the sky became overcast. Reached Prescott between 8 & 8.30. Walked about until it began to rain. Waited on the dock until 11 when the Spartan came along, & with it fair weather. The afternoon proved glorious & I enjoyed the few moments of excitement as we ran the skimming "Long Saut" a bit on the "Cedar" another on the "Lachine" Rapids otherwise, the sail was very tame. Crossing the lakes, especially, was tame. We passed under Victoria Bridge in the last rays of sunlight & Montreal was bathed in a glory of purple & gold. Got to St. Lawrence Hall about 8 o'clk. Tea at 8.30. After, Father & I strolled in the moonlight — sat at the door, and to bed at 10.30.
-```

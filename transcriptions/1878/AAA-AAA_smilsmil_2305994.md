@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1878
 image: 1878/AAA-AAA_smilsmil_2305994.jpg
 pages:
@@ -65,4 +62,3 @@ Every mate on Etching Club
 matters until a little after
 10 — then to 37th St & to bed in
 our new quarters.
-```

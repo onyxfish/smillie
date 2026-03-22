@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1880
 image: 1880/AAA-AAA_smilsmil_2306421.jpg
 pages:
@@ -72,4 +69,3 @@ our return to hotel — for awhile
 chatting on piazza. Wrote a
 letter to Ehninger & got to bed
 at about 10.30
-```

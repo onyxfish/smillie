@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1890
 image: 1890/AAA-AAA_smilsmil_2308201.jpg
@@ -26,4 +25,3 @@ Raw day with some sunshine — got to studio a little after 10 and got to work o
 ### February, Thursday 20, 1890
 
 A thin covering of wet snow over everything — that soon disappeared — Raw, nasty day — clearing about noon — a sudden dash of rain soon after 1 — then again clear & windy — Got to studio after 10 — unable to do anything — head ached — throat sore & eyes painful — Sat in my big chair until Skinner, from A.B.U. Co., came with sketch & photos. of a large Bnt. Bldg downtown from which I am wished to make a drawing — promised to attempt it — About 1 rode up to Dr. [illegible] & saw him — got a prescription — on my way home, was caught in shower — Did not go out again but spent the rest of the day on lounge & bed — Evelf. after looking over newspaper &  read aloud for awhile from "Story of Emin's Rescue as Told by in Stanley's letters" — To bed about 10. [illegible]
-```

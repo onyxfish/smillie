@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1881
 image: 1881/AAA-AAA_smilsmil_2306589.jpg
@@ -26,4 +25,3 @@ Overcast & misty mf., the sun struggling through later in the day — Mf. worked
 ### June, Tuesday 14, 1881
 
 Thunderstorms at 6 a.m. and at intervals during the day — the heaviest falling between 4 & 5 p.m. Did not go out of the house during the day — Rain fell freely all the mf. I worked awhile on my etching then got to work printing — Dinner after 1 o'clk. — then again a printing — Took fine Jap. paper &c. Finished before 5 — then cleared up — Tea at 6.30 — Wetj, Dr. & Mrs. Kendrick & his niece, Mrs. Abbatt & husband from [illegible] called — stayed until 9 — to bed soon after 10 —
-```

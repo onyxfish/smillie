@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1868
 image: 1868/AAA-AAA_smilsmil_2304202.jpg
 pages:
@@ -28,4 +25,3 @@ A very fine, clear day, with some threatenings of a change towards even. Spent m
 ### October Sunday, 25 1868
 
 Dismal day again — milder during the middle of the day a very gentle Rain. Before breakfast completed some fixing on old trunk [illegible] — at 9 — with Gil went to Epis. Ch. & heard Elisha Mulford sermonize, as one of his bro's said, in a deeper metaphysical manner. Had a half head ache & felt heavy, the sermon appeared to be profoundly metaphysical to me. After Service, went home & slept until after 3. At 3.45 went to Fan M's with Gil at p'r invitation & had dinner, about 5 o'clk. Sat with Fan & the old lady while the others went to church. After Service Jim Carmalt & his wife came in. Stayed until near 10.30 when Gil & I walked home in the Rain & soon after got to bed.
-```

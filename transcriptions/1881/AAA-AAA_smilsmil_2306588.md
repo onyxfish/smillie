@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1881
 image: 1881/AAA-AAA_smilsmil_2306588.jpg
@@ -26,4 +25,3 @@ Still dripping wet weather. The wind not so strong or the rain so heavy as yeste
 ### June, Sunday 12. 1881.
 
 Clear & very warm — Bkfs. at 8.40 — feeling very owlish — did not go to church, but with Annie spent the rest out of doors, on the Fox place & in Livingston's woods — back before 1 — Dinner at 1.30. After dinner, lounging for some time — then wrote a letter of condolence to Mr. Geo. Whitney, whose only child, Mrs. Outerbridge died 3 or 4 weeks ago — Before 6 went out & had a short walk — Tea at 6 — then on piazza until sundown & after that walking near the house until soon after 8 when Prof. & Mrs. Ritter called — At 10.30 they left — To bed about 11.
-```

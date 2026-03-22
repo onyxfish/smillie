@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1874
 image: 1874/AAA-AAA_smilsmil_2305219.jpg
@@ -62,4 +61,3 @@ might be expected from this
 pattern gentleman — Home
 at 3.0 clk used up with
 my headache + to bed.
-```

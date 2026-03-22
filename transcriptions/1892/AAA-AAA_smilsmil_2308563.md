@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308563.jpg
@@ -28,4 +27,3 @@ Jade 4 hours.
 ### February, Sunday 14, 1892
 
 Bright cold morning - overcast at noon - then some flying snow and at night a drizzle - Bkfs. at 9.30 - Then an hour with newspaper - About 11 Annie, Ralph & I walked up to Central Park & had a look at the animals - at 12.30 I put them in a Mad. Ave. car & walked down to the Union League Club getting there at 1 - To see W.H. Fuller's collection of pictures by Reynolds, Gainsborough, Constable & others - George & Chase there - a long talk with Fuller. Home at 2 - dinner - After 4 I had a nap - Tea at 6.30 Evey. wrote to T.W. Wood that he must give up hope of getting a lecture on Etching out of me this spring - & a letter to Koehler - also went out & mailed them. It was 11.30 when we got to bed.
-```

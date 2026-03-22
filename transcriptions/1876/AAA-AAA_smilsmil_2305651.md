@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1876
 image: 1876/AAA-AAA_smilsmil_2305651.jpg
@@ -67,4 +66,3 @@ just trotting on the Race course —
 Evening for an hour on piazza —
 then "Zoo" with Ella & the [illegible].
 To bed at 10 o'clk.
-```

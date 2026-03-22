@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1880
 image: 1880/AAA-AAA_smilsmil_2306361.jpg
@@ -28,4 +27,3 @@ At 6.45 at Anna Cook's — after taking the girls to Arnold's I went to Chs Smit
 ### April, Friday 2. 1880.
 
 Pleasant day. Studio at 9.30 to work painting foreground of Cape Porpoise — Dinner as usual at 2 & painted all the p.m. without getting what I wanted. Miss Amy Putnam called with Misses Dixwlee, Whitnee & Mrs. Winn [illegible]. At 9.15 I went with Colman to Lyric Hall, 6 ave. & 41st St. to the Dieb Kitchen entertainment — Kate Hillard appeared in a little play — after going home with Anna C. — I went to 37th St. & to bed at 11.
-```

@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2303902.jpg
 pages:
@@ -75,4 +72,3 @@ We had a very affectionate
 season — left for home at
 10.30. To bed at 11.30. Young Bell
 came this mrg. & drew. but I went off with Fan.
-```

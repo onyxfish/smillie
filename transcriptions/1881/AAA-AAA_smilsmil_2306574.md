@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1881
 image: 1881/AAA-AAA_smilsmil_2306574.jpg
@@ -83,4 +82,3 @@ house before 9.30 — later Geo. C. & Valentine
 came in — V. staying all night — It
 was after 11 when we got to bed.
 Rain during the night.
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1885
 image: 1885/AAA-AAA_smilsmil_2307266.jpg
@@ -67,4 +66,3 @@ was over soon after 9 — and I went home.
 Many left us after bkfs. to return to Po'k
 on the 3.30 P.m. Train. To bed about
 11.
-```

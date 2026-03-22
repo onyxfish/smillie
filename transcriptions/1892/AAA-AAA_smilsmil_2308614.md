@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308614.jpg
@@ -77,4 +76,3 @@ At last Dan Sayre moved that my res-
 ignation be not accepted but that I be
 granted leave of absence for as long a time
 as I wished — Then we adjourned —
-```

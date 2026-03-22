@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1875
 image: 1875/AAA-AAA_smilsmil_2305408.jpg
@@ -58,4 +57,3 @@ Harry Fenn and a note to
 A. M. Palmer, Union Sq.
 Theatre — To bed soon
 after 10.
-```

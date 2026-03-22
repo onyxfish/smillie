@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1887
 image: 1887/AAA-AAA_smilsmil_2307737.jpg
 pages:
@@ -28,4 +25,3 @@ Rain in the early m'g. & again about 11 A.m. with light showers in the afternoon
 ### August, Tuesday 23, 1887
 
 Very heavy rain during night & early m'g. then clearing — heavy shower about 1.30 & again at 3. Hotchkiss & Judson at work in the m'g. Thomas & Team came after 1 & went away about 3 — O'Brien & team came about 1 & stayed all the afternoon. Ambrose Payne & Blair came ab't & stayed until 3. Battles came at 1 & stayed until 4. Coyle did not come at all. The two Smiths painted all day. Herrick worked. Andrews, the lightning rod man came and agreed to "rod the house" properly for $200 — asked $240. I feel much better than I did yesterday. Kate also improved. The Parkers called to see how we were. I dawdled about all day. Mr. Agur [illegible] called with his Water Color in the afternoon for my comments. Evelf wrote to J.S. Case. To bed soon after 10.
-```

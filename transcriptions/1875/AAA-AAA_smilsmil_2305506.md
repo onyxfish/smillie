@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1875
 image: 1875/AAA-AAA_smilsmil_2305506.jpg
 pages:
@@ -65,4 +62,3 @@ there until 10.40, seeing
 Mrs. Bell & the Hertzgels — then
 to 41st St. & to bed at 11. [illegible]
 Rain.
-```

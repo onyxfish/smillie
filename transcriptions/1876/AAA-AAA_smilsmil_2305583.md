@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1876
 image: 1876/AAA-AAA_smilsmil_2305583.jpg
@@ -59,4 +58,3 @@ at 8 called at Tiffany's — all out.
 Then to Studio — wrote letters
 until 10 — to 4th St. at 10.45 &
 to bed at 11.
-```

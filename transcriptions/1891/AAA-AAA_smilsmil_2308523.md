@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1891
 image: 1891/AAA-AAA_smilsmil_2308523.jpg
@@ -54,4 +53,3 @@ Then home to dinner — Eve'g with
 papers — garden book & writing
 a short note to Koehler. Chas.
 Collins called for a few minutes.
-```

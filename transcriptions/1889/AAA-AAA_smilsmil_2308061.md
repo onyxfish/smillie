@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1889
 image: 1889/AAA-AAA_smilsmil_2308061.jpg
@@ -64,4 +63,3 @@ Home before 6.30 — Then dinner —
 very much used up by headache
 but was able to finish letter to Kate
 to bed before ten —
-```

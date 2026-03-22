@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1880
 image: 1880/AAA-AAA_smilsmil_2306341.jpg
@@ -53,4 +52,3 @@ in 13th St. Dinner there at
 7.30 — left there about 11 —
 glorious moonlight — To
 37th St. & to bed at 12.30.
-```

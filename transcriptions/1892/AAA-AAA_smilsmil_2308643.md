@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308643.jpg
@@ -114,4 +113,3 @@ window, looking out to Mt. Blanc - over the water - the re-
 flecting lights - the bridges - the music & singing from the
 café's chantant - the buffon with guitar who sang under
 our balcony.
-```

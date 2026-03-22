@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308792.jpg
@@ -106,4 +105,3 @@ but as good as any other of the three houses here
 at any rate it is exceedingly cheap — we
 had dinner before 7 + managed to dawdle
 away the every + got to bed early.
-```

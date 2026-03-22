@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1887
 image: 1887/AAA-AAA_smilsmil_2307735.jpg
 pages:
@@ -50,4 +47,3 @@ Annie to 2d. Nat. Bnk. & Wilson & Toms
 [illegible] Co — Rec'd Winter & Smillie
 telegram saying that Charl goes to
 Amsterdame on Monday.
-```

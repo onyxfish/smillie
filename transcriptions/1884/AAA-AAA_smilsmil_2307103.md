@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1884
 image: 1884/AAA-AAA_smilsmil_2307103.jpg
 pages:
@@ -66,4 +63,3 @@ club — I went to Century — there
 until near 10 — then went for
 Annie — home at 10.15 — to bed
 soon after 11.
-```

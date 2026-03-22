@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1879
 image: 1879/AAA-AAA_smilsmil_2306215.jpg
@@ -59,4 +58,3 @@ own room & sit at one of the
 windows enjoying the night
 breeze from the west until
 11 o'clk — then to bed.
-```

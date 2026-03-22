@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1869
 image: 1869/AAA-AAA_smilsmil_2304382.jpg
@@ -88,4 +87,3 @@ home — Matt, Charl, Geo. Will & Joe. The
 family — George very miserable —
 After tea, spent the eve, chatting and
 at 10.30 got to bed —
-```

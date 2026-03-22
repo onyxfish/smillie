@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1888
 image: 1888/AAA-AAA_smilsmil_2307956.jpg
 pages:
@@ -75,4 +72,3 @@ were got to bed — Ralph still much
 excited — gave him a quieting mixture
 before he would go to sleep —       we
 got to bed some after 10.
-```

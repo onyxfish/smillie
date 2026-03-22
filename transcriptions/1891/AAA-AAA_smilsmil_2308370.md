@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1891
 image: 1891/AAA-AAA_smilsmil_2308370.jpg
 pages:
@@ -69,4 +66,3 @@ there — dinner — Eve'g Annie
 went to her Saturday club — Geo.
 came in & made a short call —
 I got to bed before 10.
-```

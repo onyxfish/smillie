@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1883
 image: 1883/AAA-AAA_smilsmil_2306947.jpg
 pages:
@@ -72,4 +69,3 @@ a doleful article on "Am. Art, 1883"
 by Clarence Cook. — It amused us
 more than it irritated — To bed at
 10.45.
-```

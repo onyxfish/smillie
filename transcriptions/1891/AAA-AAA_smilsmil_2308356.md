@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1891
 image: 1891/AAA-AAA_smilsmil_2308356.jpg
@@ -98,4 +97,3 @@ Dinner soon after 6. Evening
 reading Janvier's Aztec Treasure House
 & [illegible] Century until near 10 — then
 to bed.
-```

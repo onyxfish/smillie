@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2303996.jpg
 pages:
@@ -78,4 +75,3 @@ Hall who goes home to-morrow.
 To bed about 10 o'clk, Some Rain
 thunder storms passing around us
 Very sticky, warm weather.
-```

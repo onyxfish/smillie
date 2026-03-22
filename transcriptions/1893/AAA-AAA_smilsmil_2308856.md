@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308856.jpg
 pages:
@@ -52,4 +49,3 @@ thing connected with these water-
 works looks to me very mean and
 slip-slop. Evef, general
 desultory chat.
-```

@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1875
 image: 1875/AAA-AAA_smilsmil_2305478.jpg
 pages:
@@ -74,4 +71,3 @@ again up the hill — a little
 frolic at Crossmans — Flora
 — Miss Jewell & t— — finally
 to bed at 10.45.
-```

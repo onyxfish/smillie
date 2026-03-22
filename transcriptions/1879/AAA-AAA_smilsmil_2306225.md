@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1879
 image: 1879/AAA-AAA_smilsmil_2306225.jpg
 pages:
@@ -69,4 +66,3 @@ light night — enjoyed the trip
 exceedingly — had a light supper
 about 8.30 & after lounging about
 until 10.30 or 11, went to bed.
-```

@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1885
 image: 1885/AAA-AAA_smilsmil_2307404.jpg
 pages:
@@ -79,4 +76,3 @@ very nearly used up with a head-
 ache — Found Geo. Cook & his fiancée
 Miss Hunt, at the house. To bed at
 about 10.30
-```

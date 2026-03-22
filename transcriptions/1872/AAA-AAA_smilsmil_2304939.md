@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1872
 image: 1872/AAA-AAA_smilsmil_2304939.jpg
 pages:
@@ -79,4 +76,3 @@ up home at 8.05 — Father, Mother, Matt
 & Kate up at Will's — I got my tea &
 spent the evening with Geo. & many —
 got to bed about 11.30
-```

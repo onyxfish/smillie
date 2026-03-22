@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1876
 image: 1876/AAA-AAA_smilsmil_2305699.jpg
 pages:
@@ -70,4 +67,3 @@ During went to Phila this m'f
 bought a Butterfly & Ret[urne]d
 this even[ing]. [illegible] went to Po[?]
 at 3.30 P.m.
-```

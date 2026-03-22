@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1886
 image: 1886/AAA-AAA_smilsmil_2307515.jpg
 pages:
@@ -32,4 +29,3 @@ So bed soon after 10.
 ### June, Sunday 6, 1886
 
 Brilliant, beautiful day — Bkfst. at 8 o'clk. After that went out among the hens & took a number of photos. Then to the old mill & a beauty near — Back to the house & with Annie & Jim went to the beach, a walk of more than a mile — had camera & tried shots of surf & two or three groups. Back & had dinner at — Soon after 2 Mary, Miss Williams, Mr. Moulton, Annie, Jim, Tom, Edna & I started out for a ride. Edwd C. driving — we had a delightful drive over the Shinnecock Hills to Canoe Place & then back by another road, getting in at 5 — Tea at 6 — While Annie was putting Jim to sleep I took a short walk — Then, with the others, in the parlor until 10 o'clk. Then to bed
-```

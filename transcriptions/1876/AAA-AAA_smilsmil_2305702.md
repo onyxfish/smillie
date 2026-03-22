@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1876
 image: 1876/AAA-AAA_smilsmil_2305702.jpg
@@ -63,4 +62,3 @@ the even't — felt out of
 sorts — went to Burgraff's
 & to Mamp's — in at 9
 o'clk & to bed at 10.
-```

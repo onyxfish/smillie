@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1881
 image: 1881/AAA-AAA_smilsmil_2306562.jpg
 pages:
@@ -60,4 +57,3 @@ then dinner — [illegible] spent
 with Rennie's man hanging pictures
 about the house — To 37th St. & to
 bed at 11.
-```

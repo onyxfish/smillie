@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1875
 image: 1875/AAA-AAA_smilsmil_2305486.jpg
@@ -26,4 +25,3 @@ Clear, charming day — First day of Agricultural Fair — Got to studio a littl
 ### September, Friday 24, 1875
 
 Superb day + quite mild — Got to studio about 9 and to work on 14×25. Finished outline forward, + then Elisha M. came in — Dinner at 12. thanks — on acc't of Fair day. Back to studio at 1.15 — Did not like the figures that I had drawn in, so took them out and at 2.30 went on to the Fair — Soon tired + back at 3.30 — Put in the figures taken out then got out Yosemite Horse Race + worked on that in the charcoal, changing the action of one of the horses. Elisha called again — to tea at 6 — Then again to studio + fussed fire — at 8, back to house and dressed — for a moment in at Azard's — then to P.O. + to Stroud's an informal little company — bid Miss Sherrard good bye — then to Fain's + played whist with Elisha — to bed at 10.45 —
-```

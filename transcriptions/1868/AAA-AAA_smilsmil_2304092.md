@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1868
 image: 1868/AAA-AAA_smilsmil_2304092.jpg
@@ -60,4 +59,3 @@ day on photo — Home to tea
 at 7 — Evening spent studying
 French & writing exercises —
 To bed at 11.
-```

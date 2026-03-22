@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308586.jpg
@@ -66,4 +65,3 @@ came in for a few minutes —
 To bed before 11
 
 Jade — 4 ½ h.
-```

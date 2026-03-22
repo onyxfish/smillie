@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308831.jpg
@@ -30,4 +29,3 @@ Cloudy but pleasant & cool — got up feeling very tired & used up — have been
 **Weather:** Cloudy & muggy  **Temp:** [illegible]
 
 Cloudy & muggy nearly all of the day — Mr[.] & I went by underground R.R. to the City — just to Great Tower St. — Johnson & Sons, where I paid charges on trunks in storage & ordered them to be sent to the house — then to J.S. Morgan & Co — old Broad St. & got my etched plate — portrait of J.S. Morgan — Mr. Robt. Gordon in Scotland — then to office of Mr. [illegible] Lloyd & 3.5 — Grace Church & Fenchurch Sts & to find bal. on passage home. Then home by R.R. getting in soon after 1 — lunch — then I had a long rest — Annie went with the boys & had a row on the Serpentine — about 4 trunks arrived from Salmon & Son — I wrote notes of Mr[.] Durant & Mr. Gordon — then a walk in the Park & dinner at 7 — Nelly & Annie's [illegible] dress came home from Liberty's —
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1875
 image: 1875/AAA-AAA_smilsmil_2305447.jpg
@@ -72,4 +71,3 @@ out back of the house to see effects
 driven in by more rain. Spent
 the evng. Reading. To bed at
 10 — gentle Rain. [illegible]
-```

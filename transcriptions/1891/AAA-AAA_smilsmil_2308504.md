@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1891
 image: 1891/AAA-AAA_smilsmil_2308504.jpg
@@ -28,4 +27,3 @@ Snow last night & this mng. A high wind from N.W. heavily clouded with snow squa
 ### October, Saturday 24, 1891
 
 Cloudy & blustering in the mng. but later it cleared charmingly. I went to etching room before bkfst. and poured aqua-tint solution over 5"×7" plate, while the room was quiet and yet cold. To my great joy it set in a true & tolerably even crackle. This is what I have wasted two or three days in trying to do. After bkfst. I got to work proving "A deserted Brick yard" & before dinner got 10 good jabs p/p. After dinner rested for awhile. Then prepared aqua-tint plate for biting. Then with the men & proving until 4.30. Then down town & spent some time with A.B. Smith in consultation over improvements on Public Ave. Evef. Took things easy after attending to my several fines & did little else than read my newspaper.
-```

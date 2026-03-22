@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1868
 image: 1868/AAA-AAA_smilsmil_2304057.jpg
@@ -70,4 +69,3 @@ Society — Louis Menger called
 at the Studio during the morning.
 To bed at 10.30.
 The day cleared off after 11 a.m.
-```

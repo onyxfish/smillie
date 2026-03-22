@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1882
 image: 1882/AAA-AAA_smilsmil_2306772.jpg
 pages:
@@ -62,4 +59,3 @@ train. Ev. f. did not feel
 well — lounged about until
 10 — then prepared for bed &
 got into it by about 10.30
-```

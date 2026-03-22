@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1865
 image: 1865/AAA-AAA_smilsmil_2303619.jpg
 pages:
@@ -77,4 +74,3 @@ cloud forms & untrue in its effect
 of light — The upper part being a
 sunset sky — the lower, 20 m. or
 more before sunset.
-```

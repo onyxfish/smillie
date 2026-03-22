@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2303981.jpg
 pages:
@@ -88,4 +85,3 @@ the Three Elms just about 9.30 o'clk — nobody tired
 of course — all quite frisky — girls only sorry that they
 had not stayed on top all night — Rec'd letter from Matt —
 a new boarders, Mr. & Miss Hale — both young — To bed at 11.
-```

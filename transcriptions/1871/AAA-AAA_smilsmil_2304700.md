@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1871
 image: 1871/AAA-AAA_smilsmil_2304700.jpg
 pages:
@@ -80,4 +77,3 @@ a telegraph wire was brought into the
 valley & communication completed.
 I find also, a Saloon, with velvet
 carpets, two billiard tables, &c. &c.
-```

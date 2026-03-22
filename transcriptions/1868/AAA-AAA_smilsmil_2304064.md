@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1868
 image: 1868/AAA-AAA_smilsmil_2304064.jpg
@@ -68,4 +67,3 @@ Got to bed at 11 o'clk.
 
 Taib & Tramp called at the Studio
 to-day, but I did not see them.
-```

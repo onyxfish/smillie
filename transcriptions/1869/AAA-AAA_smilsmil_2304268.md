@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1869
 image: 1869/AAA-AAA_smilsmil_2304268.jpg
 pages:
@@ -72,4 +69,3 @@ but failed — got to bed
 about 11 — To-day Mary
 & the D't Ret'd to their boarding
 house in 34th S't.
-```

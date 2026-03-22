@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1873
 image: 1873/AAA-AAA_smilsmil_2305016.jpg
 pages:
@@ -59,4 +56,3 @@ not get back until near 4. —
 Dr. B. came at 5.30 — Tea at
 6 — Evening spent at home — to
 bed at 11.
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1888
 image: 1888/AAA-AAA_smilsmil_2307883.jpg
@@ -28,4 +27,3 @@ Another murky, muggy, disagreeable day with considerable rain. Up early, but it 
 Annie & Children went to Ridgefield, Conn.
 
 A delightful day at last — got to studio in good time but was much interrupted by callers — Laurie came in with some of his India ink Adirondack drawings to show me & then J. D. Waring came and explained at length his project of publishing etchings for the Soc'y of Am. Etchers — it was after 11 before I got to work on my pot-boiler, 15×24." A Memory of the Connecticut River." Home to lunch at 1 — to studio at 2.30 — leaving Annie & the children, with Greta, to go to Ridgefield by the 1+ P.M. Train. I finished my pot-boiler & did a great many things about the studio preparatory to a winding up for the season. Home at 6.45 & ate my dinner solus. It is a very empty house that is without wife & babies. Eve'g, took framed pf. of Alma Tadema Etching to Mary Cook — then made up bundle to be sent to Co's. — then read, in spite of headache until near 10 — then to bed.
-```

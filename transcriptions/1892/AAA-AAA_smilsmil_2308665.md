@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308665.jpg
 pages:
@@ -96,4 +93,3 @@ sent to me by Charle. We had a rain-fall
 tea at 6.30 - after the young ones were in bed
 Annie read to me a long letter that she had
 just written to Kate - then I mailed it.
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1885
 image: 1885/AAA-AAA_smilsmil_2307303.jpg
@@ -26,4 +25,3 @@ Pleasant day, altho' rather raw & at times overcast — got to Studio at 10.30 +
 ### April, Saturday 11, 1885
 
 Bright, raw mrf — with snowflurries later in the day — Got to Studio about 10. + then to Am. Art Ass'n — with Craig me + made sketch of Alex. Harrison's "moon— rise over the sea" for Catalogue of the coming "Prize Exhibition" — Home to lunch at 1 — back to galleries about 2.30 + worked until 5 on a Sketch after Cons'. Mayer's "Knitting Lesson" — Then to 37th S. for a few minutes + home to dinner before 6.30 — At 8 — Annie + I at the last Phil. concert of the season — Walked home at 11 + to bed at once —
-```

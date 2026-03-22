@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308662.jpg
 pages:
@@ -103,4 +100,3 @@ was as crisp as Oct. — After 3/4 of an hour I
 came in to A — who was in the Drawing Room
 — we went out together & had 20 min. —
 of walk — then in & to bed soon after 10.
-```

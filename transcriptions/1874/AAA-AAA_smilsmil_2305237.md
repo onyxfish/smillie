@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1874
 image: 1874/AAA-AAA_smilsmil_2305237.jpg
@@ -61,4 +60,3 @@ a drawing — Father & Charl went
 up to P— this mt. — They Ret'd at
 10 P.M — with Aunt Jessie —
 — To bed at 11.15 —
-```

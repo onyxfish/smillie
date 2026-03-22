@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308756.jpg
 pages:
@@ -113,4 +110,3 @@ was a disappointment to me - first, owing to
 color, next, because, in reality they did not
 appear to me any more dignified or agreeable
 in form than their pictured representations.
-```

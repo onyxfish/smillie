@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1866
 image: 1866/AAA-AAA_smilsmil_2303775.jpg
 pages:
@@ -87,4 +84,3 @@ had conversation with Emma that gave me a new
 sightlines her deeper & more serious nature — Drove
 up to the Dr's at nine o'clk — Miss A & those waiting
 us — parlor & at 10 o'clk got & I started for Smith's
-```

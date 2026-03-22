@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1879
 image: 1879/AAA-AAA_smilsmil_2306245.jpg
 pages:
@@ -63,4 +60,3 @@ Eveng. spent in parlor with
 Misses Lightener & Wood burying —
 Geo. came over for a little
 while. To bed at 11.
-```

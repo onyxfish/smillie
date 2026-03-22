@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1881
 image: 1881/AAA-AAA_smilsmil_2306670.jpg
@@ -75,4 +74,3 @@ Matt & Ed. later, our large family
 was distributed through the house.
 Annie & I slept in Kate's room
 To bed at 12 — Snow about 4 in.
-```

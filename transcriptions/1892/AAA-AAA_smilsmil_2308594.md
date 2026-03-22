@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308594.jpg
@@ -63,4 +62,3 @@ rest of the family at home. After a
 long chat with Mary I got to bed
 after 10 —
 Temp. 98⁸⁄₁₀° — Pulse 90.
-```

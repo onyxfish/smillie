@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1885
 image: 1885/AAA-AAA_smilsmil_2307257.jpg
@@ -27,4 +26,3 @@ Tonight Annie gave up charge of the boy to Bella — the beginning of an experim
 ### January, Saturday 3, 1885
 
 Charming winter day — but got up with a head ache that troubled me all day unfitting me for work — Got to studio before 10 + worked for nearly two hours on drawing "coming Shower" blocking in the foliage — then gave it up. Ehringer came in for a few minutes to let us know that he and his wife are in town — at the Mt. Hotel. Home to lunch at 1 — after that Annie went with Miss Williams to Matinée at Met. Opera Ho. — Massaniello — I went to bed + was there until near 4 o'clk. when I got up feeling much better + went down to studio + fixed things there for the night — Home to dinner at 6. About 8 a girl came from Ed's Cook's enquiring for Miss Williams — I went to Walters to see if she was there — we went to Ed's + then to Alex Oakey's + found her there. I returned home + had a game of Basique with A — to bed before 11 — the boy behaved outrageously about midnight disturbing our rest for the night — Annie had to get up + go to him.
-```

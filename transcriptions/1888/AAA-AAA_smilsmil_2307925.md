@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1888
 image: 1888/AAA-AAA_smilsmil_2307925.jpg
 pages:
@@ -65,4 +62,3 @@ up on our ride — Drove to South Pond —
 a new drive, & were very much pleased —
 the afternoon delicious & the horses in
 good spirits — Home at 6.30 — Tea —
-```

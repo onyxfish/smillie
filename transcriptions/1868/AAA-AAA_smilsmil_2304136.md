@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1868
 image: 1868/AAA-AAA_smilsmil_2304136.jpg
 pages:
@@ -69,4 +66,3 @@ Node at tea — quite a jolly eveg,
 with them & their boy Harry.
 To bed at about 11 —
 Have spent 13 days on A.B.N. Co's die.
-```

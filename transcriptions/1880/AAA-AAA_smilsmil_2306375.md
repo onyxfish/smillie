@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1880
 image: 1880/AAA-AAA_smilsmil_2306375.jpg
@@ -28,4 +27,3 @@ Matt & Kate fell to Po'k by night boat.
 ### April, Friday 30. 1880.
 
 Cold breezy day. Nicola's wife died this morning at 6 o'clk — I got to studio at about 9.30 & spent the m'f trying to get satisfactory pts. from old cedars but for some reason could not — Dinner at 2 — the rest of the p.m. spent in general preparations for other work & going down to Scribner's & Dewey's — the tailor — Tea in the studio & at a little after 8 I went into Coleman's where we had piano music by the quartette. At 11 went home with Anna C thro to 37t St + got to bed about 11.30.
-```

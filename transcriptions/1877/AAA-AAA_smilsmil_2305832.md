@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1877
 image: 1877/AAA-AAA_smilsmil_2305832.jpg
 pages:
@@ -57,4 +54,3 @@ Park from 7 to 8.15 — After
 that Father, Geo. & I went
 up town — back soon after 9 —
 to bed at 10.
-```

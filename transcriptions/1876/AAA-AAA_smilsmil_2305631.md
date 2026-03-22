@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1876
 image: 1876/AAA-AAA_smilsmil_2305631.jpg
@@ -67,4 +66,3 @@ Uncle Ch. arrd from N.Y. about
 8.20 — Mr. Jornis called in
 the evng. Got to bed soon
 after 10.
-```

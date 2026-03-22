@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1891
 image: 1891/AAA-AAA_smilsmil_2308516.jpg
@@ -83,4 +82,3 @@ until 10 o'clk. when I went up to
 Hall in 45th St. for A. — Choral Club
 rehearsal, C— went up with me &
 we walked home together.
-```

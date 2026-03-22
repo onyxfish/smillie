@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1866
 image: 1866/AAA-AAA_smilsmil_2303720.jpg
 pages:
@@ -68,4 +65,3 @@ share of laughing — but it
 would be tiresome to go
 more than once in a very long
 while.
-```

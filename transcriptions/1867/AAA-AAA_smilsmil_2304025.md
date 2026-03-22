@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2304025.jpg
@@ -75,4 +74,3 @@ went in to Will's with my drawing, there
 met Jno. E. Gavit & old Brainerd. Think
 that Jno. E. G. liked the drawing — Home
 at 10.30 and to bed —
-```

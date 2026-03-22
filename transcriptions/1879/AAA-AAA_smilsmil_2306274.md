@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1879
 image: 1879/AAA-AAA_smilsmil_2306274.jpg
 pages:
@@ -28,4 +25,3 @@ Dined a fall of snow during the night — overcast day until the afternoons when
 ### November, Friday 7, 1879
 
 Beautiful mor. Blcks soon after 8 — got to studio at 9.30 & for some time engaged in getting ready to start my Avery job — wrote a short note to father. Then to work on Avery's catalogue — [illegible] heavily sent up a Stevens [illegible] & Madvazo. Interrupted by callers & other things so that got only the Madvazo partly finished — Soon after 2 went to [illegible] to with Joe & had my dinner — back to studio & worked until 4.30, near to went to Avery's with the paintings — as they are insured in his house they have to be set every evening. After [illegible] took tea in a Creamery under Daly's theatre — and at 8 got [illegible] went to Cunnys Cooks — to the Kimball's — [illegible] until 10 — thence to 37 St. & to bed.
-```

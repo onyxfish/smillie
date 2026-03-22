@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1867
 image: 1867/AAA-AAA_smilsmil_2303899.jpg
@@ -55,4 +54,3 @@ of Farrer, Fenn & Burling —
 Got some of them into our room.
 Home at 11 o'clk — Miserable
 slushy, sleety evening.
-```

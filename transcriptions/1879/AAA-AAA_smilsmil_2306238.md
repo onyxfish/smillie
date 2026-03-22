@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1879
 image: 1879/AAA-AAA_smilsmil_2306238.jpg
 pages:
@@ -75,4 +72,3 @@ poor night's rest — [illegible — ~3 words]
 — of the best [illegible — ~4 words]
 [illegible] new & [illegible] order & [illegible]
 until I went in [illegible]
-```

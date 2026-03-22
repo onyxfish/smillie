@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1877
 image: 1877/AAA-AAA_smilsmil_2305765.jpg
@@ -26,4 +25,3 @@ Charming day — got to studio at 9.15 — gave lesson to Miss Abbatt — then N
 ### February, Thursday 22, 1877
 
 Mild, beautiful day — At 9 a.m. met Wash. Wilson by apt. at Kurtz Gallery & looked over the Smith coll'n — then to N.a. — there until 10.30 — then to studio. & after some further delay, started work on "study" — To lunch at 1.15 — back at 2.30 — after again stopping at N.a. Finished working over group of trees — To tea at 6.45 — at studio at 8.30 — there until after 9 — then to N.a. — to 41st at 10.30 & to bed before 11.
-```

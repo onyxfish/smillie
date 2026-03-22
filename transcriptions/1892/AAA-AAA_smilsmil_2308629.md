@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308629.jpg
@@ -84,4 +83,3 @@ then packed until near 1 - infernally hot,
 just as I was falling asleep - about 2 - Ralph
 had a brief vomiting spell - at last an un-
 restful sleep until 4.30 - Up at 6 -
-```

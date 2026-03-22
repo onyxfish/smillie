@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 year: 1874
 image: 1874/AAA-AAA_smilsmil_2305244.jpg
 pages:
@@ -80,4 +77,3 @@ Eve'g, made paste & mounted
 W.C. drawing & Smelting Furnace.
 Heavy storms until 9 o'clk.
 To bed at 10.30.
-```

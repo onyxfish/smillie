@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1889
 image: 1889/AAA-AAA_smilsmil_2308056.jpg
@@ -26,4 +25,3 @@ An exceedingly hot & uncomfortable day with a thunderstorm soon after 5 p.m. Got
 ### May, Saturday 11, 1889
 
 Another very hot day — Ther. at 80° in the shade — Cloudy & close much of the m'g, with a light shower in the afternoon — Got up with a headache & fought through with it all day — To studio at 10 — worked all day on big plate with scotch stone, burnisher & dry point. Home at 1.30 — Annie & Jim had gone to Orange to Margaret Parker White's — To studio at 2.45 and worked until near 6 — then home to dinner — Eve'g — at 8 went to Artists View, Soct. of Am. Artists — A very strong & interesting exb'n — there until 9.30 — then home — wrote a letter to Herrick complaining because he had not answered mine of a week ago — then to bed.
-```

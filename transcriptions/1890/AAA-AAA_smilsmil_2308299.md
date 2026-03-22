@@ -1,4 +1,3 @@
-```markdown
 ---
 year: 1890
 image: 1890/AAA-AAA_smilsmil_2308299.jpg
@@ -63,4 +62,3 @@ finished Katie's letter & wrote to
 Letta about the strawberry plants that
 don't get here. Took letters to P.O.
 before 10 — then home & to bed.
-```
