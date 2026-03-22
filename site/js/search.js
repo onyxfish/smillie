@@ -20,6 +20,9 @@ async function getPagefind() {
   if (!pagefind) {
     try {
       pagefind = await import(PAGEFIND_URL)
+      await pagefind.options({
+        excerptLength: 100
+      })
       await pagefind.init()
     } catch (err) {
       console.error('Failed to load Pagefind:', err)
