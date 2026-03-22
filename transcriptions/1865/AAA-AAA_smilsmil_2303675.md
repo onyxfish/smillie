@@ -1,4 +1,3 @@
-```yaml
 ---
 year: 1865
 image: 1865/AAA-AAA_smilsmil_2303675.jpg
@@ -12,7 +11,6 @@ pages:
     sections:
       - cash-account
 ---
-```
 
 ## Left Page
 

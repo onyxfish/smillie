@@ -1,10 +1,3 @@
-```markdown
-transcriptions/1865/AAA-AAA_smilsmil_2303639.md
-```
-
----
-
-```yaml
 ---
 year: 1865
 image: 1865/AAA-AAA_smilsmil_2303639.jpg
@@ -22,7 +15,6 @@ pages:
     sections:
       - diary
 ---
-```
 
 ## Left Page
 

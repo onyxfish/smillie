@@ -1,7 +1,3 @@
-```
-transcriptions/1880/AAA-AAA_smilsmil_2306486.md
-```
-
 ---
 year: 1880
 image: 1880/AAA-AAA_smilsmil_2306486.jpg

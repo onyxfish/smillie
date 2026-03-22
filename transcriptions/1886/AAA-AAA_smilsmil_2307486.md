@@ -1,10 +1,3 @@
-```
-transcriptions/1886/AAA-AAA_smilsmil_2307486.md
-```
-
----
-
-```yaml
 ---
 year: 1886
 image: 1886/AAA-AAA_smilsmil_2307486.jpg
@@ -20,7 +13,6 @@ pages:
     sections:
       - diary
 ---
-```
 
 ## Left Page
 

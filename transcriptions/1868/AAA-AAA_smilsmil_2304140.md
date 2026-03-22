@@ -1,7 +1,3 @@
-```
-transcriptions/1868/AAA-AAA_smilsmil_2304140.md
-```
-
 ---
 
 ```markdown

@@ -1,7 +1,3 @@
-```
-transcriptions/1882/AAA-AAA_smilsmil_2306859.md
-```
-
 ```markdown
 ---
 year: 1882

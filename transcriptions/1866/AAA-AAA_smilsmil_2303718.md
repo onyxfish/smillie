@@ -1,7 +1,3 @@
-```
-transcriptions/1866/AAA-AAA_smilsmil_2303718.md
-```
-
 ---
 year: 1866
 image: 1866/AAA-AAA_smilsmil_2303718.jpg

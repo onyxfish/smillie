@@ -1,10 +1,3 @@
-```
-transcriptions/1872/AAA-AAA_smilsmil_2304927.md
-```
-
----
-
-```yaml
 ---
 year: 1872
 image: 1872/AAA-AAA_smilsmil_2304927.jpg
@@ -20,7 +13,6 @@ pages:
     sections:
       - diary
 ---
-```
 
 ## Left Page
 

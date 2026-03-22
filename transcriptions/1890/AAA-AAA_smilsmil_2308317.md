@@ -1,10 +1,3 @@
-```
-transcriptions/1890/AAA-AAA_smilsmil_2308317.md
-```
-
----
-
-```yaml
 ---
 year: 1890
 image: 1890/AAA-AAA_smilsmil_2308317.jpg
@@ -20,7 +13,6 @@ pages:
     sections:
       - diary
 ---
-```
 
 ## Left Page
 

@@ -1,10 +1,3 @@
-```
-transcriptions/1893/AAA-AAA_smilsmil_2308747.md
-```
-
----
-
-```yaml
 ---
 year: 1893
 image: 1893/AAA-AAA_smilsmil_2308747.jpg
@@ -20,7 +13,6 @@ pages:
     sections:
       - diary
 ---
-```
 
 ## Left Page
 

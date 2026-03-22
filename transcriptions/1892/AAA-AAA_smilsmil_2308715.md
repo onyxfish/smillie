@@ -1,10 +1,3 @@
-```
-transcriptions/1892/AAA-AAA_smilsmil_2308715.md
-```
-
----
-
-```yaml
 ---
 year: 1892
 image: 1892/AAA-AAA_smilsmil_2308715.jpg
@@ -20,7 +13,6 @@ pages:
     sections:
       - diary
 ---
-```
 
 ## Left Page
 

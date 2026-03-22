@@ -1,10 +1,3 @@
-```
-transcriptions/1887/AAA-AAA_smilsmil_2307777.md
-```
-
----
-
-```yaml
 ---
 year: 1887
 image: 1887/AAA-AAA_smilsmil_2307777.jpg
@@ -20,7 +13,6 @@ pages:
     sections:
       - diary
 ---
-```
 
 ## Left Page
 

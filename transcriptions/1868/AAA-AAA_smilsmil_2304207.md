@@ -1,10 +1,3 @@
-```
-transcriptions/1868/AAA-AAA_smilsmil_2304207.md
-```
-
----
-
-```yaml
 ---
 year: 1868
 image: 1868/AAA-AAA_smilsmil_2304207.jpg
@@ -20,7 +13,6 @@ pages:
     sections:
       - diary
 ---
-```
 
 ## Left Page
 

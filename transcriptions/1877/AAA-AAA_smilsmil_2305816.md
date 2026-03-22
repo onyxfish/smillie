@@ -1,10 +1,3 @@
-```
-transcriptions/1877/AAA-AAA_smilsmil_2305816.md
-```
-
----
-
-```yaml
 ---
 year: 1877
 image: 1877/AAA-AAA_smilsmil_2305816.jpg
@@ -20,7 +13,6 @@ pages:
     sections:
       - diary
 ---
-```
 
 ## Left Page
 

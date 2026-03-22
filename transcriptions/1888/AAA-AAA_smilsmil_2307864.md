@@ -1,7 +1,3 @@
-```
-transcriptions/1888/AAA-AAA_smilsmil_2307864.md
-```
-
 ---
 year: 1888
 image: 1888/AAA-AAA_smilsmil_2307864.jpg

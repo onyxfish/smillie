@@ -1,10 +1,3 @@
-```markdown
-transcriptions/1883/AAA-AAA_smilsmil_2306911.md
-```
-
----
-
-```yaml
 ---
 year: 1883
 image: 1883/AAA-AAA_smilsmil_2306911.jpg
@@ -20,7 +13,6 @@ pages:
     sections:
       - diary
 ---
-```
 
 ## Left Page
 

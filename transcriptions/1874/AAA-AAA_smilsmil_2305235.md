@@ -1,7 +1,3 @@
-```
-transcriptions/1874/AAA-AAA_smilsmil_2305235.md
-```
-
 ---
 year: 1874
 image: 1874/AAA-AAA_smilsmil_2305235.jpg

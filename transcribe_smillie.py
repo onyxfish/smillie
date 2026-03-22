@@ -33,6 +33,7 @@ Usage:
 import argparse
 import csv
 import os
+import re
 import sys
 import threading
 import time
@@ -517,11 +518,30 @@ def cmd_submit(args: argparse.Namespace, client: anthropic.Anthropic) -> None:
 # ---------------------------------------------------------------------------
 
 
+def strip_filepath_header(text: str) -> str:
+    """Remove the leading file-path block the model sometimes prepends, e.g.:
+
+        transcriptions/1868/AAA-AAA_smilsmil_2304055.md
+
+    or the same wrapped in a code fence.
+    """
+    path_pattern = re.compile(
+        r"^(`{3,}\n)?"                          # optional opening fence
+        r"transcriptions/\d{4}/[^\n]+\.md\n"   # the path line
+        r"(`{3,}\n)?"                           # optional closing fence
+        r"\n*",                                 # trailing blank lines
+        re.MULTILINE,
+    )
+    return path_pattern.sub("", text, count=1)
+
+
 def write_md(out_dir: Path, year: str, image: str, content: str) -> str:
     """Write transcription atomically. Returns '' on success, error string on failure."""
+    stem = Path(image).stem
+    content = strip_filepath_header(content)
     md_dir = out_dir / year
     md_dir.mkdir(parents=True, exist_ok=True)
-    md_path = md_dir / (Path(image).stem + ".md")
+    md_path = md_dir / (stem + ".md")
     tmp = md_path.with_suffix(".tmp")
     try:
         tmp.write_text(content, encoding="utf-8")

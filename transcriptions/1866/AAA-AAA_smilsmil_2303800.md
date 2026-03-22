@@ -1,10 +1,3 @@
-```
-transcriptions/1866/AAA-AAA_smilsmil_2303800.md
-```
-
----
-
-```yaml
 ---
 year: 1866
 image: 1866/AAA-AAA_smilsmil_2303800.jpg
@@ -20,7 +13,6 @@ pages:
     sections:
       - diary
 ---
-```
 
 ## Left Page
 
