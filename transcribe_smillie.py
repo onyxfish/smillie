@@ -16,7 +16,7 @@ Three-step workflow:
                 Marks rows done/error in progress.csv.
 
 All steps are idempotent and resumable. Progress is tracked in CSV files,
-not in TRANSCRIPTION_PLAN.md (which is used only as the system prompt source).
+not in SYSTEM_PROMPT.md (which is used only as the system prompt source).
 
 Usage:
   python transcribe_smillie.py --upload
@@ -52,7 +52,7 @@ TRANSCRIPTIONS_DIR = Path("transcriptions")
 PROGRESS_CSV = TRANSCRIPTIONS_DIR / "progress.csv"
 FILE_IDS_CSV = TRANSCRIPTIONS_DIR / "file_ids.csv"
 BATCHES_CSV = TRANSCRIPTIONS_DIR / "batches.csv"
-PLAN_MD = Path("agents/TRANSCRIPTION_PLAN.md")
+SYSTEM_PROMPT_MD = Path("agents/SYSTEM_PROMPT.md")
 
 PROGRESS_FIELDS = ["year", "image", "status", "model", "transcribed_at", "error"]
 FILE_IDS_FIELDS = ["year", "image", "file_id", "uploaded_at"]
@@ -336,24 +336,8 @@ def latest_active_batch_id(csv_path: Path) -> str | None:
 # ---------------------------------------------------------------------------
 
 
-def extract_system_prompt(plan_path: Path) -> str:
-    text = plan_path.read_text(encoding="utf-8")
-    start = text.find("## Output Format")
-    end = text.find("## Checklist")
-    if start == -1 or end == -1:
-        raise ValueError(
-            f"Could not find '## Output Format' and/or '## Checklist' in {plan_path}"
-        )
-    spec = text[start:end].strip()
-    return (
-        "You are transcribing scanned pages from the personal diaries of "
-        "James D. Smillie (American artist, 1833–1909), held at the "
-        "Smithsonian Archives of American Art.\n\n"
-        "Produce a transcription of every scan you are given, following "
-        "the output format specification below exactly. Do not add any "
-        "commentary, preamble, or explanation outside the specified format. "
-        "Output only the Markdown document.\n\n" + spec
-    )
+def load_system_prompt(prompt_path: Path) -> str:
+    return prompt_path.read_text(encoding="utf-8").strip()
 
 
 # ---------------------------------------------------------------------------
@@ -437,12 +421,8 @@ def cmd_submit(args: argparse.Namespace, client: anthropic.Anthropic) -> None:
 
     file_id_map = load_file_id_map(FILE_IDS_CSV)
 
-    # Extract system prompt
-    try:
-        system_prompt = extract_system_prompt(PLAN_MD)
-    except ValueError as exc:
-        print(f"Error: {exc}", file=sys.stderr)
-        sys.exit(1)
+    # Load system prompt
+    system_prompt = load_system_prompt(SYSTEM_PROMPT_MD)
 
     # Build queue
     queue = build_work_queue(PROGRESS_CSV, args.year, args.retry_errors, args.limit)
@@ -743,9 +723,9 @@ Examples:
         )
         sys.exit(1)
 
-    # Check plan file (needed for --submit)
-    if args.submit and not PLAN_MD.exists():
-        print(f"Error: {PLAN_MD} not found.", file=sys.stderr)
+    # Check prompt file (needed for --submit)
+    if args.submit and not SYSTEM_PROMPT_MD.exists():
+        print(f"Error: {SYSTEM_PROMPT_MD} not found.", file=sys.stderr)
         sys.exit(1)
 
     client = anthropic.Anthropic(api_key=api_key)
