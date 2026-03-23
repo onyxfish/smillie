@@ -3,8 +3,6 @@
  */
 
 import { marked } from 'marked'
-
-marked.use({ breaks: true })
 import { syncDatePicker, syncDatePickerForward } from './datepicker.js'
 
 // DOM elements
