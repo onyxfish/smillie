@@ -39,14 +39,14 @@ deploy: build
 	# Data files: 30-day cache
 	aws s3 sync dist/data/ s3://$(BUCKET)/data/ \
 	  --cache-control "public,max-age=2592000" \
-	  --checksum-algorithm sha256
+	  --size-only
 	# Search index: 30-day cache
 	aws s3 sync dist/pagefind/ s3://$(BUCKET)/pagefind/ \
 	  --cache-control "public,max-age=2592000" \
-	  --checksum-algorithm sha256
+	  --size-only
 	# Invalidate CloudFront cache (excludes images)
 	aws cloudfront create-invalidation --distribution-id $(CF_DIST) \
-	  --paths "/*.html" "/css/*" "/js/*" "/assets/*" "/data/*" "/pagefind/*" \
+	  --paths "/data/*" "/pagefind/*" \
 	  --no-cli-pager > /dev/null
 
 # Upload diary images to S3 (one-time, ~6.8 GB)
