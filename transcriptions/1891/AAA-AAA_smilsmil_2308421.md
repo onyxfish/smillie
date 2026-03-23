@@ -29,7 +29,7 @@ insisted upon our dining with her.
 She appeared to be in the best of
 health & spirits — Ret'd home at
 3.30 — Charl waiting for us. About
-4. we went to Central Park — the
+4\. we went to Central Park — the
 display of flowers is very beautiful
 — the Wistaria is simply wonderful.
 We wandered about from 5th to 8th

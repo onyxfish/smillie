@@ -37,7 +37,7 @@ when I got away & home to lunch. I
 spent the rest of the afternoon in-doors.
 Ev'g. finished letter to Herrick. Then
 Charl came in & stayed until after
-10. It was near 10 when Edith & Marion
+10\. It was near 10 when Edith & Marion
 Wright am. unexpectedly to stay all night.
 About 11 when I got to bed.
 

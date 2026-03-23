@@ -154,4 +154,7 @@ Estimates must use word counts, not line counts (e.g. `~3 words`, not `~2 lines`
 
 Transcribe prose verbatim — spelling, punctuation, and abbreviations as written (including 19th-century forms like "to-morrow", "New-York", "o'clk"). Do not apply markdown formatting (bold, italic, lists) within diary entry body text. The only permitted markdown is structural: `##`/`###` headings and tables for ledger pages.
 
-When a punctuation character that has special meaning in Markdown appears in the source text, escape it with a backslash so it renders as a literal character. This is especially important for characters that could be misinterpreted as list markers when they appear at the start of a line. For example, Smillie frequently uses `+` as shorthand for "and"; when it appears at the start of a line it must be written as `\+` to prevent it from rendering as a bullet point. Apply the same escaping to `-`, `*`, and any other Markdown-significant character appearing in a position where it would be interpreted as markup.
+When a punctuation character that has special meaning in Markdown appears in the source text, escape it with a backslash so it renders as a literal character. This is especially important for characters that could be misinterpreted as list markers when they appear at the start of a line:
+
+- Smillie frequently uses `+` as shorthand for "and"; when it appears at the start of a line it must be written as `\+` to prevent it from rendering as a bullet point. Apply the same escaping to `-` and `*`.
+- A number followed by a period and a space at the start of a line (e.g. `6. P.M.`) is interpreted as an ordered list item. Escape the period: `6\. P.M.`

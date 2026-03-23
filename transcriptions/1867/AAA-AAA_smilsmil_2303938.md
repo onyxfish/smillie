@@ -28,7 +28,7 @@ work upon sketch for Haseltine
 Hemlock against a twilight sky
 worried it out after a fashion
 but did not get done until after
-6. P.M. Then so tired out that I
+6\. P.M. Then so tired out that I
 stretched in a big chair and
 slept for more than an hour —
 Home about 8 o'clk — after tea

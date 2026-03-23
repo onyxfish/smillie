@@ -22,8 +22,8 @@ Horribly windy, dirty day —
 9.30 when I got to studio.
 To work on little W.C. sketch
 "on Conway Meadows" until
-12. To lunch at Mary's at
-1. She goes to Po' this P.M.
+12\. To lunch at Mary's at
+1\. She goes to Po' this P.M.
 with the children. Matt,
 Kate stays, used up with a
 sick headache. After lunch

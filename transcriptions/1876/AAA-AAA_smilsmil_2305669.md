@@ -32,7 +32,7 @@ at 11.30 went to depot with
 the Genl. & Mrs. & Miss Mc. G. —
 Ret'd to Mr. H's for phaeton
 thru to Genl. D. & dinner at
-2. Headachy p.m. About
+2\. Headachy p.m. About
 4 Cap't. May, Geo. & Ella went
 in carriage, Maud & I in
 phaeton to call on Judge Gray.

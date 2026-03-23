@@ -57,5 +57,5 @@ walked up together — at
 little company of girls — at 11 o'ck
 walked to 22d St. with the Cooks &
 Kimballs — To bed soon after
-12. — Geo came down from
+12\. — Geo came down from
 Poughkeepsie this m'f.

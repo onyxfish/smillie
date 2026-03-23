@@ -36,7 +36,7 @@ it, Mr. [illegible] Turree & Mrs. called.
 Kindled a fire in main Room which
 was very pleasant as we sat and
 chatted — F & M to bed before
-10. We followed
+10\. We followed
 
 ## Right Page
 

@@ -25,7 +25,7 @@ much, I took a short walk &
 then a rest before dinner —
 After dinner I went to bed
 & slept soundly until after
-4. then up feeling much
+4\. then up feeling much
 better, walked to the brow of
 hill back of Stetson's, then to
 tea after 4 — clouds lifting

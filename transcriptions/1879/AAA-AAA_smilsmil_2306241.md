@@ -27,7 +27,7 @@ Messrs Hudson & Green, Geo & I got
 away on the "Steambr." "Mt. Desert"!
 Enjoyed the sail to Rockland
 me, very much, getting there about
-12. Dinner on the boat at 11.30,
+12\. Dinner on the boat at 11.30,
 cars on the wharf — off for Portland
 a long, uninteresting ride. Stopped
 at 5.40 just outside of P., at Boston

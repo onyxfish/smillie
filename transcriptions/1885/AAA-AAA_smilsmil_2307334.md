@@ -43,7 +43,7 @@ To bed at 11.
 *Poughkeepsie —*
 
 A hot day — Got to studio before
-10. Found letters from R.I. School of Design
+10\. Found letters from R.I. School of Design
 & Syracuse promising to make good the
 damage to my frames & pictures — also
 a letter from Syracuse enclosing check

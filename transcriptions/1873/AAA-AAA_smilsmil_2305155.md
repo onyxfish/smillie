@@ -33,7 +33,7 @@ spread myself in the
 lounge. Rec'd a letter
 from Harry & Emma. Louis
 Tiffany came in about
-5. Home to tea at 6.30.
+5\. Home to tea at 6.30.
 Eveng. mounted drawings
 & Read news paper —
 To bed at 10.30

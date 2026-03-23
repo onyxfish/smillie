@@ -29,7 +29,7 @@ Before I went to lunch I had a
 pleasant call from Chas. Parsons &
 in the afternoon I had a long call
 from Dr. Yale. I got home at about
-6. We had dinner at 6.30. Kitche
+6\. We had dinner at 6.30. Kitche
 Cook, Katie & Mollie Cook & Churchill
 Carnalt dined with us. At 8 o'cl
 we all walked over to the Met. Opera

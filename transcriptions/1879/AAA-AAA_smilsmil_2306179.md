@@ -32,7 +32,7 @@ Hurried up my packing
 with Geo., took 4 o'clk train
 to Po'k — where we arv'd at 6.30 —
 went at once home, tea about
-7. Matt + Ed there — Evef
+7\. Matt + Ed there — Evef
 in general chat + to bed
 at 10.30.
 Very warm, clear day.

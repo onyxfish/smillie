@@ -26,7 +26,7 @@ was one of them. It was very impressive.
 H. preached from 1st John — 1 chap. 3? v. —
 and was on the subject of Christian
 Fellowship. Home to dinner — At
-3. P.M., walked up to the Park — had
+3\. P.M., walked up to the Park — had
 on a new pair of heavy shoes, that
 brought me home early with sore
 feet — went through some hot-

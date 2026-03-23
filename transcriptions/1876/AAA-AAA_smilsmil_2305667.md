@@ -47,7 +47,7 @@ wrote to Nicoll concerning H's
 Blackburn's offer to the A.S. &c — in
 W.C. to send another English
 album over to them — Dinner at
-2. A little more writing after
+2\. A little more writing after
 dinner & about 5 started on
 a climb up the hill side —
 went above & beyond the quarries

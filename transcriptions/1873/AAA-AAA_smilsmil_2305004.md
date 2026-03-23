@@ -20,7 +20,7 @@ pages:
 
 Overcast — got to studio at
 9.30 & to work painting on 20×
-24. "Senaya Cañon" — worked
+24\. "Senaya Cañon" — worked
 very hard — Home to lunch
 at 1.30 — back at 2.30 & painted
 as long as I could see. Got

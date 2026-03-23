@@ -49,7 +49,7 @@ clear, fresh & lovely day —
 B[illegible] — at 10 o'clk. & at 11 at
 D. Hastings' & heard him
 preach a strong sermon from
-1. 9 in. 2° ch; 7 v — After
+1\. 9 in. 2° ch; 7 v — After
 service, Ge° & I went to
 Wash. Nelsons — 348 W 21 St.
 to dinner — a very pleasant

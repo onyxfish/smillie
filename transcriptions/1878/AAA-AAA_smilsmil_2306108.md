@@ -33,7 +33,7 @@ ground — I proved two plates —
 for [illegible] + one for Nicoll — Altogether
 I had a diverting time — At 5.45 got
 out for a short walk — To tea at
-6. Emma Ro- with us — after tea
+6\. Emma Ro- with us — after tea
 went to Wallace Bruce's — not in —
 then with Emma to Lawrence's —
 So Liberty S-. there until 9.15 — then

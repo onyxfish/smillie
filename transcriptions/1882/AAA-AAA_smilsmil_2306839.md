@@ -46,7 +46,7 @@ a letter to Farrer & to bed at
 ### October, Thursday 12, 1882
 
 Still cold & cloudy — Up soon after
-7. At 8 went over to C's to bkfs —
+7\. At 8 went over to C's to bkfs —
 back at 9.30. Terphas there. He
 went back with me — got stove &
 pipe & returning, put it up in the
@@ -54,7 +54,7 @@ Etching Room. All the m[?], about
 superintending work going on.
 Payne & team came up at 1 —
 then to dinner — back soon after
-2. Watrous came with 3d load
+2\. Watrous came with 3d load
 of wood — Payne brought large stove
 for furnace in Studio cellar. Mr.
 Dav. Sayre called with Mr. Dickin-

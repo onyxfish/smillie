@@ -54,7 +54,7 @@ anxiety to have it literal, I
 have made it hard in Color
 \+ manipulation — P.M. as there
 was no sun, outlined Study No.
-6. "Among the Hemlocks", and
+6\. "Among the Hemlocks", and
 painted over Sky etc. on Study
 No. 2 — "over the River".
 

@@ -28,7 +28,7 @@ Acssie in Brooklyn at her Unitarian
 Woman's League. I got back to studio
 before 3 & managed to finish my
 sketch before dark — Home at about
-6. Dinner at 6.30 — Catherine & Edna
+6\. Dinner at 6.30 — Catherine & Edna
 again with us over night — Even
 before 8, Mary Cook & Mrs. Carl Sprague
 came for Annie — I took them over to the

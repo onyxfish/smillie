@@ -49,7 +49,7 @@ Rain well into the night. After
 [illegible] went out for a walk, then
 in & commenced my printing —
 finished Jacque & took up Jeff.
-5. Took a rest about 11 & dinner
+5\. Took a rest about 11 & dinner
 at 12.30 — At noon Rec'd. Paper
 from Koehler & at 4 took an imp
 each plate — worked until 6.

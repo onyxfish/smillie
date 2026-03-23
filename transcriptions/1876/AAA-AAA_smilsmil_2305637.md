@@ -26,7 +26,7 @@ then home & had dinner
 about 1.30. Most of p.m
 I sat & Read "Mc Donald's
 David Elginbrod" — Tea at
-6. Evn'g, none of us went
+6\. Evn'g, none of us went
 out — again I Read &
 got to bed at 11. [illegible — ~3 lines]
 

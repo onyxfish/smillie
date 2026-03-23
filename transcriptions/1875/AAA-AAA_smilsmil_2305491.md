@@ -63,6 +63,6 @@ there — 4 games of whist, the
 girls against Fred + me —
 had a very good time —
 left abt 10.30 — To bed before
-11. [illegible — ~3 words]
+11\. [illegible — ~3 words]
 [illegible — ~6 words]
 [illegible — ~4 words]

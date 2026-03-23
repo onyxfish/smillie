@@ -30,7 +30,7 @@ tramps. Dinner about 2.30
 After dinner I took a nap.
 Then arranged to work on
 my locomotive drawing — about
-3. Father + I joined George
+3\. Father + I joined George
 on the Ausable River near the
 house, there until 5. Then home.
 Weather thickening up smoky.

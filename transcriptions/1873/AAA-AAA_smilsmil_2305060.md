@@ -28,7 +28,7 @@ very shallow line. Home a little
 after 5, wrote a letter to Father,
 enclosing one from Geo. Tea abt.
 went to the studio a little before
-7. Waited until 7.30 to see the
+7\. Waited until 7.30 to see the
 Orr (late minister to Russia) funeral
 pass. 7th Regt. & their band, splendid —
 then to Emma Ireland's, to go with

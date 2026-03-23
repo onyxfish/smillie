@@ -24,7 +24,7 @@ as soon as I could, starting from
 the house at about 8.45 — went
 to Studio under the Butternut
 & painted until a little after
-12. when I finished — The most
+12\. when I finished — The most
 mild yet far cold & windy — No
 Rain — Dinner at 1.30. Had
 an invitation to go over to the Races

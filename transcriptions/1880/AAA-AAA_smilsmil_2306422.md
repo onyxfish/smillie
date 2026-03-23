@@ -33,7 +33,7 @@ with the sisters Chatillon —
 in about 9.30 — & our piazza until
 after 9 — then in parlor — dancing
 until after 10 — to bed before
-11. [illegible — entire passage]
+11\. [illegible — entire passage]
 
 ## Right Page
 

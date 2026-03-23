@@ -48,7 +48,7 @@ got up with a headache again
 but was not able to do anything.
 Spent most of m'f on lounge and
 about 1 o'ck. gave up & went to
-41. S. took some lunch and about
+41\. S. took some lunch and about
 3 o'ck. went to bed — there until
 7 when, feeling better, got up &
 had my tea — At 8.30 went to

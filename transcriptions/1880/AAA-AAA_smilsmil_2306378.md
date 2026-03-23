@@ -25,7 +25,7 @@ To dinner at 2 — & after
 a short walk, again at
 work — did not get along
 satisfactorily — Tea at
-4. Out of sorts in the even
+4\. Out of sorts in the even
 but went to A.P.N's & made
 a short call on mother —
 at 9 & a little after, walked

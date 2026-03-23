@@ -51,7 +51,7 @@ my 33 × 44 [illegible] — Painted
 in the sky — out to lunch
 at 1.30 — a little walk —
 back & painted until after
-4. At about 6 to 37 S. &
+4\. At about 6 to 37 S. &
 at 6.30 to 38th S. After dinner,
 Annie, Minnie, Edith & I
 went to Municipal Hall stopping

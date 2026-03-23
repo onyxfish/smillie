@@ -42,7 +42,7 @@ all.
 ### December, Saturday 25, 1886
 
 A pleasant X mas — Soon after
-10. Jim having made acquaintance
+10\. Jim having made acquaintance
 with his new toys, I took him
 out with me for a walk — the first
 time I had been out of doors since

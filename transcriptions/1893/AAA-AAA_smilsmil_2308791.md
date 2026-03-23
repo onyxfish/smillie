@@ -30,7 +30,7 @@ out & having a bad headache — after
 [illegible] — I lay down again & spent the
 rest of the m'g on my bed. Lunch
 at 1 o'clk. It was nearly 3 when A — Miss
-7. & the boys rode to Marien Crawfords
+7\. & the boys rode to Marien Crawfords
 Villa while I walked nearly to the
 Tops of Capo di monte — then back & thro
 the Town getting to Villa Mason after

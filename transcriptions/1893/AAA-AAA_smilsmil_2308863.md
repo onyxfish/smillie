@@ -90,7 +90,7 @@ daughter, Mrs. [illegible], & sat talking with her until
 I lost my chance for a seat — then to my great
 disgust A & I were obliged to go up to the dining
 table our dinner in the old place — out at
-8. went to Art Bldg & finished it — out
+8\. went to Art Bldg & finished it — out
 a little after 9 — walked to 4th St. entrance
 home by trailer car — packed trunk and
 then to bed — glorious moonlight night.

@@ -50,7 +50,7 @@ ret? to 41st S — got rubbers
 A.V.V.'s. Geo. & Chave there
 to dinner & tea. From 4.30
 to 6.30 — napping. Tea about
-7. Norman Reale added to
+7\. Norman Reale added to
 the party. At 8 o'clk. Lucee
 and I walked over to Will's
 there until about 9.30 — then

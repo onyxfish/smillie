@@ -28,7 +28,7 @@ back soon after 2 + managed, before
 dark, to get the sketch "all in" — an
 experiment in painting upon canvas
 without fratte or glaze. Home at
-6. dinner — Annie feeling the
+6\. dinner — Annie feeling the
 effects of her cold, making her heavy
 desired to go out, so we went to her
 bro. Ed's in 37th St. found them

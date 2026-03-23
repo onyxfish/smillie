@@ -34,7 +34,7 @@ dark finishing outline. Then
 went to Mr. Ben. Jessup + gave him
 my ticket to N.A. of D. Reception
 to-morrow eveg. Walked up
-5. Ave to 47 St. then home —
+5\. Ave to 47 St. then home —
 Eveg. Read a little story to
 folk at home, comfortably in
 my Room —

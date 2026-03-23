@@ -53,7 +53,7 @@ was not dressed until 6.40 — W. + Mrs.
 Brownell & niece from New Bedford, Miss Cummings
 Miss Sedgwick of Syracuse (alone) Mr. Ordway +
 W. Lippincott arr[ived] on time — dinner before
-7. Things seemed to go off fairly well —
+7\. Things seemed to go off fairly well —
 altho' the sauce for the fish was forgotten
 until too late — the young ladies were
 charming + the young men seemed to be

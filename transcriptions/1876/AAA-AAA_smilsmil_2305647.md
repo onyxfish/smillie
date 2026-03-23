@@ -47,7 +47,7 @@ until about 10, then to bed,
 ### July, Tuesday 25, 1876
 
 Delicious day — Bkfst at
-7. Played croquet with
+7\. Played croquet with
 the Gent — after bkfst.
 Got my trunk unpacked —
 & a little visiting done by

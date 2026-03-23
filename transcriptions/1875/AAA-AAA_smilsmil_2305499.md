@@ -56,5 +56,5 @@ little party there — Down after
 9 members to studio; there
 until after 10. Stowing things.
 Then to house & until after
-12. Packing trunk — then to
+12\. Packing trunk — then to
 bed.

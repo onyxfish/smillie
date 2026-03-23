@@ -23,7 +23,7 @@ to studio about 9.40 — To
 work on figure in Orchard.
 Things dont go right in the
 color way — Lunch about
-2. At dusk, Miss Dunfee
+2\. At dusk, Miss Dunfee
 came in with Mr. Dole of Chi:
 Ill. At 5.20 I went to 19 W. 24
 S. & met W.D' — Huntington Miss

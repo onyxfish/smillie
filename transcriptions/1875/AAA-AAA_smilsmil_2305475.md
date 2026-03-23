@@ -39,7 +39,7 @@ then down town, stopping to bid the
 Taycon's good bye. To P.O. then to
 see Holts. nobody out. Mrs. Ike. was.
 then to Scard's — there until near
-10. there to Azur Lattinobs — to bed
+10\. there to Azur Lattinobs — to bed
 at nearly 11 —
 
 ## Right Page

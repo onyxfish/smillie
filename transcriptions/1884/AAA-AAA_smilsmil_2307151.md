@@ -21,7 +21,7 @@ pages:
 D'rty. Rainy weather most of the day —
 Up soon after 7 — the boy having passed
 a comparatively quiet night — Blkb. before
-9. when a note from P. Seymour Haden was
+9\. when a note from P. Seymour Haden was
 brought to me, inviting me to lunch to-day —
 It was nearly 11 before I was ready to start
 out; I then went to the Dudley Gall'y Egyptian Hall — expecting to see a general collection of pictures & was disappointed to find

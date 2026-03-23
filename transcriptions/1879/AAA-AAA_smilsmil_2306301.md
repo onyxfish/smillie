@@ -38,6 +38,6 @@ Oct. 1 To [illegible] finkint. on $250. 15.00
 To Robt. West, labor & help. 1.25  
 " Goodwin, manure [strikethrough]  
 " Chas. Sayre. final payment for furnace. 29.50  
-6. Goodwin, 4 loads manure 5.00  
+6\. Goodwin, 4 loads manure 5.00  
 Wheatley — for labor. 1.55  
 $51.83

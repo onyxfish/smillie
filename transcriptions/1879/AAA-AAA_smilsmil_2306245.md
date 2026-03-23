@@ -52,7 +52,7 @@ during the mng. on A.B.N. Co's drawing —
 a short walk before dinner at 1.30
 Then a little recess in the parlor
 & again at work before 3 & until
-5. Then out for a walk with
+5\. Then out for a walk with
 George, chased in by a gusty
 shower that gave us some very
 fine effects — tea near 7. —

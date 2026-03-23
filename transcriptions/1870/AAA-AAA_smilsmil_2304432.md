@@ -44,7 +44,7 @@ and Right to Bed.
 Clear, cold & windy — M'g
 went to D'. Hastings & heard
 him preach from Luke XV &
-7. "Joy in Heaven over one
+7\. "Joy in Heaven over one
 sinner that Repenteth — After
 service, home, & abt 2.45 with
 Charl. started for Uncle C's

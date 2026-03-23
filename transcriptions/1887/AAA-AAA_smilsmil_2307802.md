@@ -44,5 +44,5 @@ Frame for Wayside Feeders came — the appearance of that drawing
 is a disappointment to me.
 This is so hot, smudgy & cottony —
 About 1.15 went to Bank — 1.45 when I got home to lunch — back before
-3. Home to dinner at about 6
+3\. Home to dinner at about 6
 Evef. Read awhile & got to bed about 10. So ends the year 1887. Very prosaic.

@@ -48,7 +48,7 @@ Bright & pleasant day — got to studio
 about 9.30 — then to N.A. & then to N.Y.'s
 with my Key plates & had three proofs
 taken — got to studio again at about
-12. Famer came in to urge me
+12\. Famer came in to urge me
 to exhibit a lot of the Key plates — I
 told him that I had given up hope
 of being able to finish the plate in time

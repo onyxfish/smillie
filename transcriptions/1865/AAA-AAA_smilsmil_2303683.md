@@ -29,7 +29,7 @@ Jas. R. Brevoort.
 ---
 
 Payson
-14. E. 38th St.
+14\. E. 38th St.
 
 ---
 

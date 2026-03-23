@@ -37,7 +37,7 @@ Delightful day — cloudy, breezy
 fresh & cool (comparatively). The
 m'f was spent wandering
 about, & doing a little on No.
-1. "Farm Lane" — Mother & Geo
+1\. "Farm Lane" — Mother & Geo
 came from the Catskill Mts —
 about noon. Dinner at — 
 At 3 I got to work printing

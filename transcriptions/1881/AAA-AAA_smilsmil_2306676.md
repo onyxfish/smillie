@@ -27,7 +27,7 @@ last Friday P.M. Then home
 Annie dressed & came down
 the m'f spent in reading
 & writing — Dinner soon after
-2. a nap in front of the
+2\. a nap in front of the
 fire — a little more reading
 — tea at near 7 — Eve'g
 writing a letter to Father

@@ -32,7 +32,7 @@ back at 2. Kate Riley som[e]
 came with Dr. Vail — She
 remained all the P.m. &
 I did very little. Tea ab[t]
-6. Went to P.O. then to
+6\. Went to P.O. then to
 J.V.'s & saw Kate R. & the Dr.'s
 family — at 9 went up to Fain's
 — there until 10 — then to

@@ -46,7 +46,7 @@ could get in Sul. of Rocky Mts, Rode
 down town to Fathers & got a p.f. —
 Back at 1 — at 1.30 went to Studio, Mr.
 Young of Boston Atheneum called. At
-2. home to lunch — at 3 back to
+2\. home to lunch — at 3 back to
 N.A.of D & spent rest of p.m. getting
 P. of Rocky Mts right in + frame &
 also the cups & etchings — Home

@@ -53,7 +53,7 @@ sort, if I persist in working my lame eye
 & insists upon my giving it a rest for a
 day or two. Geo came in in the mtg &
 so did Marie & many red. Dinner about
-2. Afternoon wrote to Mary — S.A. Schaff &
+2\. Afternoon wrote to Mary — S.A. Schaff &
 Herrick. Charl came in & Emily & Geo —
 about 7 I went out to G.C.D. with letters —
 to Druggist's for sundries — & for a short walk.

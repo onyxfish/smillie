@@ -65,7 +65,7 @@ to dig for me. Home at 1 — dinner —
 after that sized two more stretchers of
 canvas for oak bed room ceiling — then
 out & worked with the men until near
-6. Got out 11 of the fruit trees & 3 doz-
+6\. Got out 11 of the fruit trees & 3 doz-
 eny bushes — Herrick finished the
 chestnut sockets for clothes line posts —
 Down town soon after 6 — then tea —

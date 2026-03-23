@@ -54,7 +54,7 @@ then again to work on tracing
 of Goldsmith's Daughter getting
 everything ready for transfer
 to morw mf. Tea soon aftr
-6. between 6 & 7 o'clk — a
+6\. between 6 & 7 o'clk — a
 delightfully refreshing thunder
 shower. After it I went
 down Town to attend to messages

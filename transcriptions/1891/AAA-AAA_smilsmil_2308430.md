@@ -19,7 +19,7 @@ pages:
 ### May, Thursday 28, 1891
 
 Pleasant & very cool — To studio at
-10. Mrs. Dalzell soon called — she saw
+10\. Mrs. Dalzell soon called — she saw
 ge? about lessons for her nephew — I spent
 the mtf. in gathering things & packing
 About noon Mr. S. R. Koehler came in —

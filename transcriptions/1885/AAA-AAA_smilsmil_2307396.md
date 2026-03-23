@@ -47,7 +47,7 @@ To bed at 10.30.
 Brilliant mf., clouding over later,
 but on the whole, a fine day. & for
 me, a very busy one. Bkfs. soon after
-8. & at 9.30 Mother Cook. D. H. and
+8\. & at 9.30 Mother Cook. D. H. and
 Nellie started for Wf. Mother C.
 not well — She had a fainting turn
 last night & again at the bkfs. table this

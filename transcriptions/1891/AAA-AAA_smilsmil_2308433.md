@@ -63,7 +63,7 @@ up matters there — arranged with Rose
 & Co. to care for my pictures — went to
 Hamm on Hills' — then to Union Storage
 Co. & home soon after 12. Lunch at
-1. Afternoon, packed my trunk and
+1\. Afternoon, packed my trunk and
 then, with great deliberation looked
 about for something to do. We have
 never before got ready for our Spring

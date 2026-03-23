@@ -54,7 +54,7 @@ tools & tools, to work at Studio — Rode
 with Young Thompson — Stopped at
 Studio — Home a little before 9 —
 Father & Mother at home — arr'd at
-3. P. M. — Found a ticket from Mrs. Durand
+3\. P. M. — Found a ticket from Mrs. Durand
 for the Moulton concert — Steinway
 Hall — went — very much entertained
 — Home at 11 — To bed at 12 —

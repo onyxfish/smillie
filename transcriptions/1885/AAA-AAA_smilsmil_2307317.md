@@ -45,7 +45,7 @@ Annie + to bed at 11.
 Bright, cool day — threats of shower
 about 4 — again at 6.30 — a sprinkle and
 at night some rain. To studio at
-10. Found note from Providence that I
+10\. Found note from Providence that I
 answered — other matters kept me until
 10.35 — then to Met. museum, getting
 there about 11 + right to work. — First, on

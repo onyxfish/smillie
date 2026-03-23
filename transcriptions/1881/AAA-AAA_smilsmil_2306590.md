@@ -21,8 +21,8 @@ pages:
 Delicious m[illegible]. but cloudy
 & showery — After b[illegible]. A. & J.
 were out walking until after
-10. Slight shower soon after
-11. Spent rest of m[illegible] in
+10\. Slight shower soon after
+11\. Spent rest of m[illegible] in
 packing. Dinner about 1.
 at 3 went out riding — for
 3/4 of an hour had mother.

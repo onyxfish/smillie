@@ -25,7 +25,7 @@ spent the whole day — I am
 much interested in my attempt
 to get more color in my work.
 To dinner abt 1 o'clk. back at
-2. Mrs. Beach & Miss Kittin[illegible]
+2\. Mrs. Beach & Miss Kittin[illegible]
 called — to tea at 6.30 — After
 some reading & music went
 around to Charl's where he

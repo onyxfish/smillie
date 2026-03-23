@@ -31,7 +31,7 @@ a portrait of Sec'y Bayard — if so, for how
 much. I painted as long as I could
 see — then S.R. Koehler came in &
 we chatted until 5.30 — home before
-6. dinner — Ruth, Annie &  I
+6\. dinner — Ruth, Annie &  I
 went to the Casino & saw & heard "The
 Yeomen of the Guard", Gilbert & Sullivan's
 latest — I was somewhat disappointed.

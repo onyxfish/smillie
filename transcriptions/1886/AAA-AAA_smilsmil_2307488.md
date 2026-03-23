@@ -59,7 +59,7 @@ thro' a very heavy thunderstorm
 at Peekskill — Tea at home
 & visiting with the family —
 Charl & Ed. came in soon after
-8. Mr Brown came in at 9 to
+8\. Mr Brown came in at 9 to
 see about a drain from cellars
 of the row. It was after 11
 when we got to bed.

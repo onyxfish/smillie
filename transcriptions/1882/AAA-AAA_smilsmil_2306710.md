@@ -61,7 +61,7 @@ it was almost too dark to work
 weather I did not accomplish
 anything but the writing of a
 letter or two. Home to tea at
-6. Ev'g. about 8.30 — went to
+6\. Ev'g. about 8.30 — went to
 Press + Profession view of Water
 Color Soc'ty. There until 11 —
 walked up to Union League

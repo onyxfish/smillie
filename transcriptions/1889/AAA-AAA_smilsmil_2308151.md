@@ -21,7 +21,7 @@ pages:
 Clear, but quite wintry. After my usual domestic duties and shoppings I went to Butler's &
 collected a moulding & ordered a frame for "The Goldsmith's Daughter"
 then spent some time getting a proof mounted for Mr. Woodin — At
-2. I went to Knoedler's & looked at pictures there. — Then to 9 10, 17 5t. and
+2\. I went to Knoedler's & looked at pictures there. — Then to 9 10, 17 5t. and
 after waiting for some time saw W. Rob't. Goslet about the $25 that I have
 been dunning Denman for for two years.
 Was pleasantly rec'd — but got nothing definit.

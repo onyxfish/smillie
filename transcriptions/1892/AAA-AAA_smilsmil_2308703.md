@@ -33,7 +33,7 @@ but could see nothing — he called back the
 out without knowing it — I got instant relief — then I consulted him about my stomach troubles & got a couple of prescriptions
 from him — Then, by underground I went to
 Gloucester Rd. & at Gloucester Mansions No
-7. — Harrington Gardens — I called upon
+7\. — Harrington Gardens — I called upon
 Mr. Archer, found him in a delightful
 studio — at the top of a flat house — a room
 20 × 35 — with lofty ceiling & very large north

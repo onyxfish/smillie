@@ -54,7 +54,7 @@ to Bank — then to D.L+W. R.R. — then
 to Newman's, about locks — got home
 to dinner at 1.30 — 2.45 when I
 got back to studio — worked until
-6. then finished O.O.B. Illustration
+6\. then finished O.O.B. Illustration
 then home. Tea at 6.30 — then
 to last Phil. concert of the season with
 a — very much enjoyed — home be-

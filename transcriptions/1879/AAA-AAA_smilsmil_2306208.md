@@ -25,7 +25,7 @@ a walk. — Settled to work on
 went to P.O. with letter written
 to Nicoll. — back & to work at
 2.30 — stuck closely to it until
-6. then tea — at 8.30 went
+6\. then tea — at 8.30 went
 to Matt's for Kate & brought
 her home som after 9 — To
 bed at 10.15.

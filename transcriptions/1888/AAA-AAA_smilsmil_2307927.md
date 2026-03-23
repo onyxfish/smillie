@@ -43,7 +43,7 @@ very sleepy & to bed at 10.
 
 A delicious day — clear & cool —
 worked on A.B.U.Co. drawing until
-12. then, my eyes & head hurting
+12\. then, my eyes & head hurting
 me very much I went out to
 the garden & spent an hour
 there with the Tomatoes & squash.

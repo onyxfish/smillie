@@ -45,7 +45,7 @@ Charming day — R.[illegible]. at 9 —
 Sat about & read & did various
 things until 12 when I walked
 up to Central Park & out at 72°.
-3. gate — on my way down, stopped
+3\. gate — on my way down, stopped
 at Junie's & caught air for a few
 minutes — then home to dinner
 at 2 — Eliz. Home with us —

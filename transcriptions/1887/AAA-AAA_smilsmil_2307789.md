@@ -25,7 +25,7 @@ dined with us, as this morning Mary & other children went to
 Buffalo. Later in the afternoon I wrote a couple of notes — Ge-
 & wife, Walter & daughter I just
 Valentine came in — About
-7. tea — Annie read over some
+7\. tea — Annie read over some
 of her old letters to her Mother
 from abroad in '84. Charl came
 in later — just from Po'ke — left

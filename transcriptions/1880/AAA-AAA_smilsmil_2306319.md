@@ -36,7 +36,7 @@ at Miss Douglass 15 W. 39' — just
 going out to a German — Then
 I went to Mr. Adam's 125
 E. 38 45 — a pleasant call until
-9. Then to Union League Club
+9\. Then to Union League Club
 there until after 11. Then
 to 37 S. + to bed at 11.30.
 

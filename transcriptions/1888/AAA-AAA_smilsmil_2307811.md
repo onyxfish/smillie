@@ -53,7 +53,7 @@ who is studying at the M.A.f.D. School
 & at the Hague called — about 5 I
 walked up to Grady's & ordered a
 small frame. Home soon after
-6. Found Annie feeling quite
+6\. Found Annie feeling quite
 used up & miserable — Dinner.
 Eve'g. I read aloud to her for a
 little while — She went to bed at

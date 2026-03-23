@@ -47,7 +47,7 @@ at 2.30 & worked until after
 4.30 started for Brooklyn.
 Reached Mr. Beach's about
 5.40 — Had tea soon after
-6. About 8, with Emma &
+6\. About 8, with Emma &
 Miss Foote, went to Mr. Healey's
 & found the whole family at
 home — the daughter, lovely.

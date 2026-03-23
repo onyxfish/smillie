@@ -60,4 +60,4 @@ Mrs. C. — Playing on two
 pianos by Mr. C — Anna C —
 Emma J. & Fanny K. —
 To 34' St. & to bed. Soon after
-11. Miserable sleepy night
+11\. Miserable sleepy night

@@ -45,7 +45,7 @@ Home soon after 10 & right to bed.
 overcast with some showers in the
 middle of the day — to Studio at 9.30
 & to work on Union Stone Co's bldg, Cen.
-6. & finished it before 12 — then I
+6\. & finished it before 12 — then I
 worked on my Rough Spot etching
 for nearly an hour with burnisher
 & rough emery paper, Reducing all

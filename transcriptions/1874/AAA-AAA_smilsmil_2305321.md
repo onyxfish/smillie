@@ -24,7 +24,7 @@ in [illegible] — Young Asto[r] &
 his cousin Armstrong came
 in to see Ferguson — To
 lunch at 12.45 — back at
-2. P.m. — painting on
+2\. P.m. — painting on
 "Whit on Artists Brook —
 N. Conway." To tea at
 6.30 Every went to Phil.

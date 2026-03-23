@@ -30,7 +30,7 @@ the ph[o]t[o]s. Annie came in for a few
 minutes. After 4 I took the ph[o]t[o]s
 to W. Huntington & he signed them
 while I waited. I got home before
-6. dinner. Before 8 I took Annie
+6\. dinner. Before 8 I took Annie
 down to her Choral Club & then came
 home at once. Finished letter to Ma.
 Clark came in with petition of

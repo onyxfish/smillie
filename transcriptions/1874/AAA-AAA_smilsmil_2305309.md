@@ -54,6 +54,6 @@ work on drawing soon after
 outlined. Then went to H. Post's
 & got deed, invited to take tea at
 Jem. Searles — there a little before
-6. After tea, whisked up the hill
+6\. After tea, whisked up the hill
 to W. J. S's at 9 o'clk — There until
 10 — then to bed at 10.40.

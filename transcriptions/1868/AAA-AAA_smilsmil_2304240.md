@@ -24,7 +24,7 @@ ever pleasant. Got to Studio
 at 9.15. Kindled fire & gave a
 general sweep & fix up — At 9
 miss Dewy came & stayed until
-12. I painted in the ground m[?]
+12\. I painted in the ground m[?]
 fat open No. 3 — Home to lunch &
 , back at 2 — worked on grou[nd]
 until 4.15 getting it painted in

@@ -56,7 +56,7 @@ Then to studio — wrote letters &
 home to dinner at 1.45 — after
 that my head ached so that
 I lay down & slept until near
-4. Then went to New Man's ab't
+4\. Then went to New Man's ab't
 clocks for Montrose house. To studio
 at 4.45 — worked on charcoal
 sketch for "bed oaken bucket" & [illegible]

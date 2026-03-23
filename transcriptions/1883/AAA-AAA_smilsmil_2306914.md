@@ -35,7 +35,7 @@ Read awhile — Packed Jap.
 screen to send to Po'ke — at
 9 went to Walter's — Talked
 Montrose plans — home before
-10. To bed at 11.30.
+10\. To bed at 11.30.
 
 ## Right Page
 

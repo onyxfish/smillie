@@ -35,7 +35,7 @@ Gee went, but I kept on my
 back until later, then to parlor
 & heard Wm. May preach a short
 sermon from Romans 13. ch. &
-14. v. — Life is a hard road any way
+14\. v. — Life is a hard road any way
 & we should be careful not to
 put an offense or stumbling
 block in the way of our brethren.

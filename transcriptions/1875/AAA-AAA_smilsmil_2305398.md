@@ -34,7 +34,7 @@ accident to engine kept me — did
 not get to Geo. Whitney's until 3.10. They
 had Hlpt dinner waiting for me. Mr.
 under the weather but very kind about
-4. with Miss Mary & Miss Burnham, Rode
+4\. with Miss Mary & Miss Burnham, Rode
 up to W. Mochdewig's — Mr. L. not in but
 had a good time with other members of
 the family & Ret'd to W. W's at 5.30.

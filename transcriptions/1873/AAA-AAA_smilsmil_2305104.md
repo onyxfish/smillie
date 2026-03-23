@@ -28,7 +28,7 @@ Rec'd. letter from Ella Dwen.
 To work again at 2.30 & until
 near 5 — Then & saddled "Tom" &
 had a good ride until near
-9. Tea soon after. Learned that
+9\. Tea soon after. Learned that
 Mr. Azur Lathrop & Miss Allerston have
 been filling Mrs. Cram with a hash
 of all the stories they have heard concerning
@@ -44,7 +44,7 @@ Up som after 6 — out of sorts — but
 gave my horse his morning cleaning.
 Bkfs. at 8.10 — Chatting until 9.15
 Got to work on "Breakneck Stairs" at
-10. and finished that 1 oclock. My
+10\. and finished that 1 oclock. My
 horse was attended to & dinner at 1.30
 P.m., worked on Tracing of full page
 "Saguenay River" & transferring until

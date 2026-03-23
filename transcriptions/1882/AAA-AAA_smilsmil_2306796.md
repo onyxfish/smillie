@@ -28,7 +28,7 @@ Very busy between Hamlin
 Dinner soon after 1 — The
 afternoon as usual spent
 about the house — Tea at
-6. Jno. Courtright's father
+6\. Jno. Courtright's father
 & another man at the house.
 At studio's until dusk —
 Then to P.O. & back to our

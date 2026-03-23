@@ -33,7 +33,7 @@ some time. Then, leaving Mr. W.
 at the works, we drove to Earle's
 to see Curtin's picture. The portrait
 of the Emperor of Russia — back at
-1. dinner a little before 2 — at 2.
+1\. dinner a little before 2 — at 2.
 40 adieu, were said & I was driven
 to the Station in West Phila. Started
 at 3 o'clk. & after a very fresh, pleasant

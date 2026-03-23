@@ -28,7 +28,7 @@ back of the fair ground and
 got three outline sketches.
 Dinner at 1 — again to shop
 fine my chair until near
-4. Then Hunt Sayre came
+4\. Then Hunt Sayre came
 with my lumber from Cottrells.
 Then Elisha & D. Ne. came —
 Then Aunt H & Mr. Bard —

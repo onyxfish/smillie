@@ -32,7 +32,7 @@ walk & at 1.45 had lunch
 Worked as long as I could
 see — a walk after 6 — &
 tea about 7 — then until
-10. for preparing pts for my
+10\. for preparing pts for my
 Etchings by monday, &
 also, went to N.A. — & at
 10.30 to 41st S — Horrible

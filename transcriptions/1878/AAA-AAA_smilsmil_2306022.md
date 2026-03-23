@@ -55,7 +55,7 @@ packed drawing & before
 Tea at 6 — Evng. walked
 up to Mary's with Father.
 Back home & to bed at
-10. [illegible — ~3 words] — [illegible]
+10\. [illegible — ~3 words] — [illegible]
 at [illegible] after [illegible]
 [illegible] — [illegible] to [illegible]
 [illegible] changed bed at [illegible]

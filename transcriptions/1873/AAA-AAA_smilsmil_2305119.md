@@ -53,7 +53,7 @@ drawings until after 3 — then
 packed them in bed — On
 "Patch" at 4.30 — in at
 6.20 — Sea at 7 — Until
-8. at Azur Lathrop's — Then
+8\. at Azur Lathrop's — Then
 home until 9 — then down to
 [illegible] office — In to Fan Mrs
 at 9.30 — Bant Baldwin and

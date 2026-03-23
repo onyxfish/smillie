@@ -25,7 +25,7 @@ to Windsor Castle & Burnham Beeches.
 an almost cloudless & uncomfortably
 warm day. Got to museum at 10·5 & worked
 on my hunt after early aqua-tints until
-12. – then home. Lunch at 1 – at 1.50 we
+12\. – then home. Lunch at 1 – at 1.50 we
 all took train from the Paddington Station
 for Windsor getting there at 2.30 – we went
 at once to the Castle – climbed to the top

@@ -68,7 +68,7 @@ subject on platter — then went
 to barn & sketched from the
 grey horse until 6 — then
 took a walk & back to tea at
-7. Eugene & wife to tea — Susy
+7\. Eugene & wife to tea — Susy
 Pin Poole with Bray Hall, Cap[t].
 & Jack until 9 — then with the
 ladies until 11 — To bed at

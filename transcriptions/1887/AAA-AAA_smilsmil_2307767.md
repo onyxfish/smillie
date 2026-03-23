@@ -66,4 +66,4 @@ down town before 6. As the wind
 had moderated I took Jim out on
 the piazza for a run before tea time.
 Eve'g with news & after until near
-9. 11 where I got to bed.
+9\. 11 where I got to bed.

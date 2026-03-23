@@ -30,7 +30,7 @@ Miss Conwell called, but did
 not take a lesson. To dinner
 at 1. Back at 2 ¼ — all the
 P.M. on Saco. To tea at
-7. At 8.30 called on Miss
+7\. At 8.30 called on Miss
 Burdell. At 9.30 at N.A.
 In at 10.30 & to bed at
 11.15.

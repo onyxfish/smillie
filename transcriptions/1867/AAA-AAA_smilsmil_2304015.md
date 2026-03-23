@@ -23,7 +23,7 @@ a most excellent discourse —
 At 12.30 Charl. Geo & I. by 8th Ave.
 R.R. went up to Uncle Aaron's —
 getting there a few minutes before
-2. Dinner at once. Miss Porter,
+2\. Dinner at once. Miss Porter,
 the new Governess introduced.
 Spent the afternoon wandering
 over the place, much delighted

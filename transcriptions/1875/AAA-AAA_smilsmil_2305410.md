@@ -32,7 +32,7 @@ sweeping — did not get
 to tea until 8 o'clk —
 Evng. wrote a letter
 to Jan Mr — & to bed at
-11. [illegible — ~2 lines]
+11\. [illegible — ~2 lines]
 
 ## Right Page
 

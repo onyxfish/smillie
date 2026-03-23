@@ -47,7 +47,7 @@ but recieve callers & write
 notes — Got a letter from S.C. F.
 now in Georgia — answered it,
 Farmer called — To lunch at
-2. & then a stroll in the [illegible]
+2\. & then a stroll in the [illegible]
 late in the afternoon went
 to Tailors there to see P. Johnston &
 saw him about the Bridgman

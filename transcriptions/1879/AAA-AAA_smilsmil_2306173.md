@@ -30,7 +30,7 @@ lunch — P.M. cleared off
 pleasantly — I fussed over
 my press but was not able to
 get to work. Tea at 6.30. At
-8. members of Etching club began
+8\. members of Etching club began
 to arrive — Had a very lively
 meeting — great interest in
 the experimental printing.

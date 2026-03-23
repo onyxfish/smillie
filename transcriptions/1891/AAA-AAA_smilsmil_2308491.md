@@ -29,7 +29,7 @@ spots in which to pass the after-
 noon writing, reading & napping.
 About 5 o'clk. we went out for a
 short drive & came in soon after
-6. Eve'g. I completed a letter
+6\. Eve'g. I completed a letter
 to Geo. & about 9 went to P.O. Also,
 stopped at W.H. Jessups & saw my
 Woodin about our contemplated

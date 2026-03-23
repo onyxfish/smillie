@@ -33,7 +33,7 @@ after W. Nail came & he took
 his first W.C. lesson of me and
 Mr. Colgate took his M[?] in pencil.
 To tea at 7 — back to studio at
-9. Cleared up things &
+9\. Cleared up things &
 at 10.20 to 11. S— Got
 to bed soon after 11.
 [illegible — ~2 lines]

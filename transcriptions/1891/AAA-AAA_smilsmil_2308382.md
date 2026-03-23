@@ -56,7 +56,7 @@ Brilliant day — up late — bkfs. after
 about 11 — then with Jim & Ralph went
 to studio where I changed some proofs
 that were in press. Home soon after
-12. Geo. & Smiley came in at 1.30
+12\. Geo. & Smiley came in at 1.30
 & stayed to dinner (2 o'clk) with us.
 After 4 o'clk. Jim & I walked up
 to Central Park & back at 5.30.

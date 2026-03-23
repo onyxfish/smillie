@@ -31,7 +31,7 @@ the River, through the woods &
 over the place generally until
 4.30 o'clk — weather changed —
 bleak & blue — a little after
-5. Pete home — Dr Throop at
+5\. Pete home — Dr Throop at
 tea — I written to Wills at
 about 8.30 & got impts of
 Snedecor's Note place[s] —

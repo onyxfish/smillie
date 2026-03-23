@@ -52,7 +52,7 @@ Mr. H. C. Camp. Chewing cud.
 Geo. F. Dunpke — Farm lane —
      40 Park Place. Newark N.J.     2.00
 Mrs. Jul. J. Martine. Farm lane
-     52. 35t. S —                   2.00
+     52\. 35t. S —                   2.00
 Miss E. M. Baldwin  "    "          2.00
 Etchings sold at Cleveland O.       6.50
      "         "         "          5.00

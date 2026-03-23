@@ -74,7 +74,7 @@ went out with Jim — R. has been out
 of sorts, a little, for two or three days past
 (his mtf.) he had a slight chill and
 before noon developed temperature to
-102. He lay down on the bed with me
+102\. He lay down on the bed with me
 & had quite a nap, getting up evidently
 brighter — His trouble is an indigestion —
 A came home & has been given him —

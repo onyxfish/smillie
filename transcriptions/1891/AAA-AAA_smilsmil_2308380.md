@@ -35,7 +35,7 @@ in — I did not get my work quite done
 altho' I stuck to it until 6 — Then
 home — dinner — [illegible], too hot for
 anything — Read newspapers until after
-9. To bed at 10.
+9\. To bed at 10.
 
 ## Right Page
 

@@ -24,7 +24,7 @@ Studio at 9 o'clk. made a fin[e]
 panel. but did not make
 a successful start in color.
 To dinner at 12.30 — back at
-2. Painted until 4 — then
+2\. Painted until 4 — then
 down to Appleton's — saw
 Bunce + Gle + Willie A. —
 back to studio at 5.15

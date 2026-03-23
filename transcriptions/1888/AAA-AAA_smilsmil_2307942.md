@@ -54,7 +54,7 @@ strawberry patch. Some time in the
 garden — got a mess of green peas.
 To work at my biting at about 11 —
 Dinner ab't 1 & at biting until near
-4. S.H.p. [illegible] am. with Raspberry
+4\. S.H.p. [illegible] am. with Raspberry
 & Bell berry bushes & hollyhocks. So,
 I went out & worked with Coyle
 setting them out until 6 o'clk —

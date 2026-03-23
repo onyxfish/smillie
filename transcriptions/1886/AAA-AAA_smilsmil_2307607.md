@@ -24,7 +24,7 @@ Smiths & spent an hour with
 him talking of Water-Color
 Society matters — Then home.
 Emma J — There — Dinner at
-2. Chas. Parke came in late
+2\. Chas. Parke came in late
 & left early. Before 5 I took
 Emma to call on Eleg. Howe
 who is confined to her Room.

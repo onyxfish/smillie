@@ -58,7 +58,7 @@ ments to go there Sat. m[orning]. to have
 them proved — Home at 6.15 — at
 6.40, with A. at Kimball's —
 Emma & Grace there — tea — at
-8. Took them all to their Singing
+8\. Took them all to their Singing
 club — I went to Century — there
 until near 10 — then went for
 Annie — home at 10.15 — to bed

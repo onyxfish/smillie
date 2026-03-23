@@ -27,7 +27,7 @@ I took four proofs during the
 day — most of my troubles being
 on the face, in getting a likeness
 — Ev'f. went down town about
-8. Later, we sat in Kate's bed
+8\. Later, we sat in Kate's bed
 room & read until almost
 10 o'clk — then to bed.
 

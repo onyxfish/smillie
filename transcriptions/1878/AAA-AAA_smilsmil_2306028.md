@@ -59,4 +59,4 @@ up & went to Livingston's woods
 Tea at 6.30. After 8 went up
 town with father; then to Mary's
 — home at 9.30 & to bed about
-10. Glorious moonlight night.
+10\. Glorious moonlight night.
