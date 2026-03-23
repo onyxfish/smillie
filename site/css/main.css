@@ -15,6 +15,7 @@
 
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --font-serif: 'Lora', Georgia, 'Times New Roman', serif;
+  --font-display: 'Playfair Display', Georgia, 'Times New Roman', serif;
 
   --max-width: 1040px;
   --col-gap: 2rem;
@@ -109,7 +110,8 @@ a:hover {
 }
 
 .header-title {
-  font-size: 1.125rem;
+  font-family: var(--font-display);
+  font-size: 1.3rem;
   font-weight: 500;
   color: var(--color-text);
   text-decoration: none;
@@ -177,11 +179,6 @@ a:hover {
 .header-nav a {
   font-size: 0.9375rem;
   color: var(--color-text-muted);
-}
-
-.header-nav a:hover,
-.header-nav a[aria-current="page"] {
-  color: var(--color-text);
 }
 
 /* ==========================================================================
@@ -648,7 +645,7 @@ a:hover {
   font-family: var(--font-sans);
   font-size: 1.25rem;
   font-weight: 500;
-  margin: var(--space-lg) 0 var(--space-xs);
+  margin: var(--space-md) 0 var(--space-xs);
   color: var(--color-text);
 }
 
@@ -656,7 +653,7 @@ a:hover {
   font-family: var(--font-sans);
   font-size: 1rem;
   font-weight: 500;
-  margin: var(--space-lg) 0 var(--space-sm);
+  margin: var(--space-md) 0 var(--space-sm);
 }
 
 .about-content p {
@@ -703,6 +700,7 @@ a:hover {
   .header {
     padding: var(--space-md);
     flex-wrap: wrap;
+    gap: var(--space-md);
   }
 
   .search-form {
