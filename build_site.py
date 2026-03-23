@@ -126,6 +126,8 @@ def strip_markdown(text: str) -> str:
     text = re.sub(r"^\|.*\|$", "", text, flags=re.MULTILINE)
     # Remove table dividers
     text = re.sub(r"^[-|:\s]+$", "", text, flags=re.MULTILINE)
+    # Remove backslash escapes (e.g. \+ -> +)
+    text = re.sub(r"\\(.)", r"\1", text)
     # Collapse multiple blank lines
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
