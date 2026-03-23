@@ -35,7 +35,7 @@ with us.
 ### Monday 20.
 
 Dull day with drizzle at intervals
-+ rain at night. Mr. Jno. E Gavit
+\+ rain at night. Mr. Jno. E Gavit
 spent the mng with me, turning
 over my portfolios + books —
 Afternoon worked at an hour

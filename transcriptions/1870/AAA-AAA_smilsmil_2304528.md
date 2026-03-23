@@ -26,7 +26,7 @@ m't worked on Locomotive, now
 the 10th day. Father at the River with
 gel. Dinner just before 1. Worked
 on drawing until 3. Called it done
-+ then went out with Father. We
+\+ then went out with Father. We
 crossed the hill back of us, came
 out by Smith Reede's + climbed by
 the brook + through the woods to the

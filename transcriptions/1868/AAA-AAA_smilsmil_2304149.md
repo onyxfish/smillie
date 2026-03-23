@@ -23,7 +23,7 @@ was up to do some haying for fun.
 Did not get up until 7 — Bkfst.
 at 7.30. mill. Charl + I took 8
 24 train to City. I stopped home
-+ changed dress. Got to Studio
+\+ changed dress. Got to Studio
 about 10 o'clk — Very warm, but
 nothing like yesterday or Sat.
 Worked on Wool yard drawing
@@ -36,7 +36,7 @@ Ward, worked until 6 o'clk
 then went to 21st St with photos. for
 S.C.F. Saw her Mother for a few
 minutes — Stopped at Schmitt's
-+ got color box for moist colors.
+\+ got color box for moist colors.
 Home to tea at 7 — Evening
 spent fussing about + writing
 a note to Charley Adams.
@@ -56,7 +56,7 @@ under shirts — Flannel sketching shirts
 &c &c, paid up some little bills +
 got back to the Studio at 12 o'clk. To
 find that I had missed young Bell
-+ Emma Ireland. Saml. Colman
+\+ Emma Ireland. Saml. Colman
 called in just before I went home
 to lunch at 1 o'clk — Mary had gone
 to Uncle Aaron's, to be Ready to start with
@@ -65,7 +65,7 @@ the St. Lawrence. I oc up at Mott Haven.
 Back to Studio at 3 — Fixing up sketching
 box &c. at 5 went to Southier's with
 some Passe-partouts — then to Knoedle's
-+ got a lot of paper + colors. Then
+\+ got a lot of paper + colors. Then
 back to Studio at 6 — getting caught
 in a shower — Home to tea at 6½ —
 a fine thunder shower lasting most of

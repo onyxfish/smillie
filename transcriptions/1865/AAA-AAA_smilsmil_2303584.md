@@ -30,7 +30,7 @@ Finishing up pictures
 for 1st Artists' Reception of
 the Season. Very
 brilliant affair. + Geo
-+ I Rec'd much praise,
+\+ I Rec'd much praise,
 my pencil studies and
 sketches took much
 attention in our own

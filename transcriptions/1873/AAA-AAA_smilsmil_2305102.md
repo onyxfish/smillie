@@ -35,7 +35,7 @@ wonderful moonlight — A [illegible]
 party called (about 20) to celebrate
 Josie's 13th wedding anniversary —
 They had a jolly time — I left early
-+ got to bed at 10.30.
+\+ got to bed at 10.30.
 
 ## Right Page
 

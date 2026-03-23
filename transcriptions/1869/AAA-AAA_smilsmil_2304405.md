@@ -29,13 +29,13 @@ at 1, back at 2.30 after getting
 some paper at Knoedler's + then
 meeting Whitney + Richards. [illegible]
 soon after came to my studio
-+ I had a very pleasant visit
+\+ I had a very pleasant visit
 with them until near 4 o'clk.
 Got started Charcoalure on
 Subject for large M.C. draw[ing].
 Home to tea at 6.15. afternoon
 clear + cold — Eve'd. Read[ing]
-+ got to bed at 10.
+\+ got to bed at 10.
 
 ## Right Page
 

@@ -25,7 +25,7 @@ desk, he being home, until noon —
 Greely then again took pfs. for
 me + at 2 o'clk I went to Farley's
 to lunch — At 2.30 went to Pate.
-+ had 3 pfs. of die — then to Legate's
+\+ had 3 pfs. of die — then to Legate's
 bookstore in Beekman St. There
 ½ an hour or more — then at 4 go
 at Studio — went to Schmitt's + got

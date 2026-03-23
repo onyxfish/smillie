@@ -48,7 +48,7 @@ have not energy enough
 to do half work —
 Father Still continues
 unable to go down-town,
-+ complaining of Soreness
+\+ complaining of Soreness
 in his back + irritation
 from the eruption upon
 his back and Side.

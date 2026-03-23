@@ -27,7 +27,7 @@ minutes — then again with
 C. + went down town before
 dinner at 1.15 — Took a light
 dinner — again, the blueness
-+ before 3 Had to go to bed
+\+ before 3 Had to go to bed
 with a horrible headache
 — there until 6.30 — then out,
 over to studio + attended to

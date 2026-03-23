@@ -26,4 +26,4 @@ Pleasant m'g, but rain by about 11 o'clk — & continued all day — Got to stud
 
 An April like day — Called on Miss Mary Cook (Mount Mary), 146 W. 23d St — to ask some questions about Keene flats — Got to studio at 9.50 — to work at once on three Italian drawings that I am to put into shape for the A.B.N. Co. — Worked until 12.30 — then went to Knoedler's & saw Tom Moran's Chasm of the Colorado, a bold, clever; tricky piece of work, but little in advance of scene painting — Caught in a heavy shower before I got home to lunch — Back to studio at 2.45 — Mr. & Miss Scott there. Wed [illegible] I would give Miss S. lessons at $5.00 each. Dr. Percy called. Worked until after 6 — Then home to tea — Cuerf, made paste & mounted "Vulcan and Minerva" — Got to bed at 11 —
 
-+ Scott, Clarendon House —
+\+ Scott, Clarendon House —

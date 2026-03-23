@@ -51,7 +51,7 @@ escorted Elig. To bed at 1.30
 Bright, clear w'f. but overcast before noon –
 mild, moist + raw. Got up with a headache –
 to studio at 10.30 – met Baker – ground ink
-+ took proofs from dry-point portrait sketch
+\+ took proofs from dry-point portrait sketch
 of [illegible], working on the plate a little between
 proofs. My headache increased so
 that at last I gave up – went home

@@ -19,7 +19,7 @@ pages:
 ### February, Thursday 15, 1883
 
 Heavy Rain nearly all day — Matt
-+ Kate so discouraged that they went
+\+ Kate so discouraged that they went
 home to Po'k this m'f. I got to
 studio about 10 with a headaching
 head but worked on Old Orchard

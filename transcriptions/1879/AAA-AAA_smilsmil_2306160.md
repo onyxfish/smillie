@@ -43,7 +43,7 @@ went to Jungeling's, the wood engraver
 sketch that I have made for him.
 Did not get to studio until 11 —
 Rest of a.m. getting things in order
-+ reading Daisy Miller — Wrote a
+\+ reading Daisy Miller — Wrote a
 note to Avery in answer to his
 request that I would "shade" my
 bill. Miss Morrison, Miss + Mrs.

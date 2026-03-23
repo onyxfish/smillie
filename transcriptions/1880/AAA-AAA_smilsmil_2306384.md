@@ -55,5 +55,5 @@ about 9 went in to Coleman's
 where Emma, Anna, Fanny +
 Mr. Coleman played quartetts
 until after 10. Night — chilly
-+ threatening rain which
+\+ threatening rain which
 is much needed.

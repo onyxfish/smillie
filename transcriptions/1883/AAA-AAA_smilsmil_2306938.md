@@ -22,7 +22,7 @@ Brilliant + charming spring day —
 got to studio at 9.45 + had lots
 of little things to do — also mounted
 3 ph. of Cedars by Moonlight, old cedars
-+ Lady of Cairo, visiting — about 1.40
+\+ Lady of Cairo, visiting — about 1.40
 Rose down to Scribner's — saw Mr.
 Marvin + gave him ph. ph. of Basque
 Ox cart + Grand Rue, Fontarabie — The
@@ -49,7 +49,7 @@ Trip this m[orning]. Eve[nin]g doing nothing —
 ### April, Sunday 15, 1883.
 
 Wind from the east, overcast m[ornin]g,
-+ eve[nin]g — clear during the middle
+\+ eve[nin]g — clear during the middle
 of the day. Bkf[as]t after 9 — I stayed
 in until about 12.45 — Annie went
 to hear Mr. Calthorpe at All Souls church.

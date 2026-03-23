@@ -28,7 +28,7 @@ paper that I had failed in mounting on stretches — got
 to Studio at 2.30 + made [illegible] + Remounted the paper —
 Fan M. came in + sat at 5.11 —
 I went off with her — To tea at 6.30 — at 8 — went to Stuart Ho.
-+ took her up to call on Miss Aitken, 31 W. 52d St. — there
+\+ took her up to call on Miss Aitken, 31 W. 52d St. — there
 until 10.15 — then to hotel —
 got to 41st St. at 11.30 + to bed.
 
@@ -46,7 +46,7 @@ work. To lunch at 1.30 — back
 at 2.15 + worked as long as
 I could see — 4.15 — At 5
 walked down to Sauthier's
-+ Leavitt's — no sales of my
+\+ Leavitt's — no sales of my
 pictures — To tea at 7 —
 then to Rennie's shop —
 at 9.30 to N.A. of D — and

@@ -61,4 +61,4 @@ Tea lunch at 6.30 — Got to foot of
 Chris. S. at 8 — left 7. + E. at 6th ave + [illegible]
 S — we got home at 8.40 + to bed about
 10.30. The day in N.Y. mild, muggy
-+ rather wet.
+\+ rather wet.

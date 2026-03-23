@@ -23,7 +23,7 @@ the P.M. Swerf, brilliant
 moonlight + very cold and
 windy. Got to Studio at 9.30
 Kindled fire — freshened up
-+ set a charcoal drawing by
+\+ set a charcoal drawing by
 Saml. Colman — Finished block
 "Fallen Sequoia" + traced and
 Transferred "View from Cloud's
@@ -64,4 +64,4 @@ until 4 — then to 10[?]S; — Saw Beard,
 Perry, Bradford + J.G. Brown — back
 to studio + home at 6.15 — Swerf
 wrote a letter to Saml. Colman
-+ got to bed at 10.30
+\+ got to bed at 10.30

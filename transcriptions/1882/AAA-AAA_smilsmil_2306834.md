@@ -54,7 +54,7 @@ b? office + buying tickets to N.Y. for W?
 eve ?. Took 11.40 Train to Newport —
 Mr. Nevins went back way with us.
 Got to N. at 2.30 — met Louis Tiffany
-+ wife at depot, on their way to Boston
+\+ wife at depot, on their way to Boston
 — they directed us to go at once to
 Colman's, which we did, taking
 their hack. Very cordially Rec'd.

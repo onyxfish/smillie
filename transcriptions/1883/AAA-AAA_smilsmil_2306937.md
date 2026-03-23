@@ -28,7 +28,7 @@ the darkness. Improved [illegible] very much + at last got the picture
 pretty well together. Home at
 1 — Annie at a lunch party at the
 Kimball's, given to the Tuesdays, Belle
-+ many — I was invited but declined
+\+ many — I was invited but declined
 because of my anxiety to finish my
 W.C.s for Mr. Philpot — Back to
 studio at 3 — Worked until near
@@ -47,9 +47,9 @@ To studio before 10 + spent a good
 part of the m'g in packing up the
 two W.C. drawings that Philpot is
 to take to England + writing receipts
-+ letters for him. Home to dinner
+\+ letters for him. Home to dinner
 at 1 — At 2, with Annie to Steinway's
-+ hear a grand Wagner concert, or
+\+ hear a grand Wagner concert, or
 rather, rehearsal by Thomas's Chorus
 Society — After that, went with A. to
 Schubert's + bought tickets for Miss
@@ -59,7 +59,7 @@ went to studio — Charl. came in — I
 finished letter to "The Studio" on tests
 of direct sunlight upon Water Color
 pigments. Home to tea at 7 — Annie
-+ I alone. Mother C. at Edwards. At 8
+\+ I alone. Mother C. at Edwards. At 8
 I went to Annual Meeting of N.Y.
 Etching Club — only 7 members there
 — no quorum but we went through

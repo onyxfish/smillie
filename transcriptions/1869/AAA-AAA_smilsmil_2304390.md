@@ -24,7 +24,7 @@ Home to lunch at 1 oclk. Had my hair cut and at
 2.45 back to studio. Lost light at 4 when it commenced to rain, but kept at it until near 5 — Wenzler
 called + stayed until near 6 oclk. Home to tea at 6.
 At 8.15 with Father went down to Mary's in 34th St —
-+ spent the eveg with Jim + Tom Shearman + their
+\+ spent the eveg with Jim + Tom Shearman + their
 wives — there until 11 oclk — home + to bed at 11.30.
 
 ## Right Page
@@ -32,7 +32,7 @@ wives — there until 11 oclk — home + to bed at 11.30.
 ### October, Friday 22, 1869
 
 Delicious day, cloudless, mild
-+ seasonable. Got to studio at 9.30 + at work on drawing
+\+ seasonable. Got to studio at 9.30 + at work on drawing
 (4½ days). Jim Shearman, his wife + Tom's wife came along
 about 9.30 — Sister Mary followed after — they stayed until near
 noon. Mary came again soon after noon + we left together, found our own different homes + lunch.

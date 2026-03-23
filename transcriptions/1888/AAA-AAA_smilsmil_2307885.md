@@ -37,7 +37,7 @@ McKeeve's shop + gave further directions
 about repairing old rug — back to the
 house at 3.30 — got bag + things + then to
 G. C. depot + took 4 o'clk. Boston Exp.
-+ got to Ridgefield at 6 — meeting
+\+ got to Ridgefield at 6 — meeting
 Annie, Jim + Dr Adams at the depot.
 Tea at 6.30 — Eve'g. chatting
 until 10 — then to bed.
@@ -48,7 +48,7 @@ until 10 — then to bed.
 
 A very pleasant day — fine out of
 sorts — wakened very early, coughing
-+ complaining — Baby at 7.45 — out with
+\+ complaining — Baby at 7.45 — out with
 Ralph in a borrowed baby carriage —
 After 11 I got to be so uncontrollably
 sleepy that I took a good long nap —

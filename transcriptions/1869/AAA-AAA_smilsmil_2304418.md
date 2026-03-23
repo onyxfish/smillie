@@ -61,7 +61,7 @@ news very good naturedly and
 at once put things under way
 for a new plate + Ruling — on my
 way up, stopped at Brooks Bros.
-+ bought a suit of clothes — then at
+\+ bought a suit of clothes — then at
 studio + home at 6.30 — Evening
 feeling out of sorts went to Bryant's
 Home at 10 + to bed at 11.15

@@ -53,7 +53,7 @@ bed about 11.
 
 Delicious day, bracing cool +
 bright — About 9.30 went down town
-+ spent the m'f Running about — to
+\+ spent the m'f Running about — to
 Mace's, Houston's; for Refrigerator, to Keogh's
 Canal S. for Ash Doors - to Charls - not in —
 to D.L.+W. R.R. Freight office - Exchange

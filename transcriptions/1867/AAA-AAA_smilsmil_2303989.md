@@ -36,7 +36,7 @@ Clouded over — but worked without
 sunlight until 6.30 — Almost dark —
 very much tired when I got home.
 Every Jel. + I went to the Mansarge
-+ spent an hour with Tiffany, then
+\+ spent an hour with Tiffany, then
 home — Leila Martin called on Mrs.
 Hall — Sweedish dance + games —
 Rec'd letters from Mary + Throop —

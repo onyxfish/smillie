@@ -26,8 +26,8 @@ traps for him. He complains of
 dyspepsia. Much interested in
 watching water forms & color. Ret'd
 to the house, got pencils & pafs &
-+ went to cliff overlooking the fall
-+ worked until near 4 o'clk, trying
+\+ went to cliff overlooking the fall
+\+ worked until near 4 o'clk, trying
 to get an idea of the tumbling water —
 Found it cold dreary work. At din'r
 had some exquisite broiled partrid[ge]
@@ -36,7 +36,7 @@ sit around or lie on the bed — Just
 chilly + unpleasant from after [noon]
 this a.m. — Well better. Read until
 near 9 o'clk — then worked on pen
-+ ink study until near 11 — To b[ed]
+\+ ink study until near 11 — To b[ed]
 soon after —
 
 ## Right Page
@@ -44,7 +44,7 @@ soon after —
 ### October Thursday, 6 1870
 
 Another miserable day — clouds, mist
-+ mizzle down to the very ground during
+\+ mizzle down to the very ground during
 the m'g. Towards noon it began to lift
 and by 10 P.M. it was struggling moonlight.
 After bkfst. (more Partridge) I went to the saw

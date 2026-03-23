@@ -21,7 +21,7 @@ pages:
 A good winter day, cold
 and breezy — Spent the
 m'g. Rubbing, Scrubbing
-+ bathing — With Father +
+\+ bathing — With Father +
 Geo took dinner at Mr.
 Tracy Harris' 46 W. 46 St.
 Had a very pleasant time.
@@ -45,7 +45,7 @@ Dunning,
 
 Splendid day — Miss Dunning
 came to draw in the morning
-+ took lunch with us. Am
+\+ took lunch with us. Am
 in distress over my Academy
 pic. Spent my 16th day over it —
 The sky is so chalky and I
@@ -55,7 +55,7 @@ out sky, Scrape it + rub it —
 I have determined, if I feel
 equal to it to-morrow — to
 repaint it — Eveg, Jas.
-+ I spent with Miss Parson
+\+ I spent with Miss Parson
 Miss Mollie Biddle, Mrs. Lillie
 Gillman very pleasantly —
 Left a little after 10 o'clk.

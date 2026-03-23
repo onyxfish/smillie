@@ -49,15 +49,15 @@ Dull, overcast day — After b'f't.
 went to N.A. of D. Was invited to
 go into the Galleries — Spent the
 morning looking at the Watercolors
-+ the Etchings — the [illegible] is very
+\+ the Etchings — the [illegible] is very
 interesting + the decorations in the
 way of hangings &c is a trac un-
 usually rich & harmonious. — I
 went to Studio for a few minutes
-+ then home to dinner at 1.30 —
+\+ then home to dinner at 1.30 —
 Again to Studio about 3 — as
 it was almost too dark to work
-+ as I felt much under the
+\+ as I felt much under the
 weather I did not accomplish
 anything but the writing of a
 letter or two. Home to tea at

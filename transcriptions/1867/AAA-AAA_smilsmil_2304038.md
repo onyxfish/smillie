@@ -21,7 +21,7 @@ pages:
 Rather a dismal day — Sun still overhead and plenty mud
 foot — Did not get to Studio until near 10 o'clk. Worked over the sketch
 of drawing with very thin opaque color adding, I think atmosphere
-+ tenderness — Just before noon
+\+ tenderness — Just before noon
 mounted in on my Strainer —
 Forming Bell came about 1 o'clk
 and I did not get off to lunch

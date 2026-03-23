@@ -56,7 +56,7 @@ m'g for $5.00 a lesson — he sat right
 down + took his first lesson — I worked
 upon outlining 16×22 "Hudson River"
 finishing it before 3 o'clk when George
-+ I went to 1st Phil. Ph. of 2d concert —
+\+ I went to 1st Phil. Ph. of 2d concert —
 I listened to Beethoven's 4th Symphony
 but neuralgic jerks took me in the face
 so that I could not remain to hear the

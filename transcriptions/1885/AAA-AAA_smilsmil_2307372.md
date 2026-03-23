@@ -44,7 +44,7 @@ Bright breezy + cool — Father
 had another very bad night +
 seems to be surely failing — In
 the mty — before 11 — Uncle W.
-+ Aunt A — Kate, Miss A — Annie
+\+ Aunt A — Kate, Miss A — Annie
 the boy + I went out for a ride
 — back at 12.30 — Dinner at
 1.30 — With Herrick for a
@@ -58,6 +58,6 @@ once to see Father who seemed
 to brighten up somewhat — Then
 home to tea after 7 — Later
 we again went to see Father
-+ then proposed to start
+\+ then proposed to start
 for N.Y. to-morrow — Dr. Y. thinks
 it possible — To bed at 11.

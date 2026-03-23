@@ -28,7 +28,7 @@ Ponds — Blkp — at 7 + at 8 we got away
 Mr + mrs. Colman, Eastman Johnson
 Nellie + marie Jacobs, Bella Tweedy,
 Miss Coskine, Geo + S — with Brown
-+ Montay as guides — got to lower
+\+ Montay as guides — got to lower
 lake at 10.30 + without delay to the
 camp — just as we were making the
 landing across a very swift current
@@ -37,7 +37,7 @@ his heavy boat could not get up the
 stream between the two troubles we
 were delayed about 3/4 of an hour —
 at the landing met Miss Van Sturwood
-+ party — over the camp at 1.30, more
+\+ party — over the camp at 1.30, more
 delay from high water, at Upper
 Pond met Monroe Holt + a party —
 on the shore of the moment we decided
@@ -47,7 +47,7 @@ tin dishes — we gave him a note of
 what we wanted from Beede's +
 he promised to return at once + send
 some one in his place with blankets
-+ provisions — Montay left us also to
+\+ provisions — Montay left us also to
 return + we went on to camp — after
 all sorts of delays we finally got our
 dinner a little before 4 — much enjoyed —
@@ -92,7 +92,7 @@ at 12 + at 1 got away on home stretch —
 glorious effects that made us all very
 unwilling to leave — After getting to the
 lower end of the lower lake, Mr. Inuse
-+ Geo went on while the rest of us went
+\+ Geo went on while the rest of us went
 to foot of Rainbow fall — Johnston very
 much pleased — About 4 o'clk we got
 upon our way making slow progress

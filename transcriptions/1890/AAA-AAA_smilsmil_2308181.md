@@ -26,7 +26,7 @@ through the day — It was 11 before I
 got to the Studio — then to Kurty's
 back at 12 — soon an agent for Dunbar
 & — Providence, R.I., art dealers came
-+ spent some time looking over my
+\+ spent some time looking over my
 paintings — then Chat. Parsons came
 in about N.C. Cat. Ill. for Harper's Weekly.
 It was 2 o'clk when I got home to
@@ -66,7 +66,7 @@ Com. was responsible only to the Soc'y which
 was promptly admitted + no interference
 will be attempted — Home at a little
 before 6 — dinner — Eve'g. Annie
-+ I went to S°. Phil. Concert — It was
+\+ I went to S°. Phil. Concert — It was
 also Annual Century meeting, but
 after getting home at 10.30 I went
 to bed.

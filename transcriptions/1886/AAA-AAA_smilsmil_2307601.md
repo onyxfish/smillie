@@ -30,7 +30,7 @@ washes of color upon it — Home
 at 1 — Matthew + Kate returned
 to Po'k. on 3.30 train, Charl seeing
 them off — I got to studio at 2.45
-+ worked on my drawing until
+\+ worked on my drawing until
 after 4, getting it all washed in —
 Then Jewell came in + stayed for
 some time — wrote note to Mr. Pinch[illegible]

@@ -35,7 +35,7 @@ into a very much better
 frame of mind — quite hopeful.
 Tea at 7.30 — at 8 went to
 152 M+4 — Tom Tessenders
-+ spent the evn't until 10 o'cl
+\+ spent the evn't until 10 o'cl
 with S.C.T — then home and
 to bed at 11.
 

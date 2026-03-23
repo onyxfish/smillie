@@ -20,7 +20,7 @@ pages:
 
 Up before 6 — sky overcast and day warm — Spent most of the time before bkfst. catching Bumble bees for Mr.
 Beers — She is painting apple blossoms
-+ wants some bees for models. Up
+\+ wants some bees for models. Up
 at 7.45 — At 8.30, Geo. + I took stage and
 I got to studio at 9.40 — Set to work
 etching on Ottawa die (4th day) At
@@ -51,7 +51,7 @@ at 1 — back at 2 — too hot to walk.
 Got through with my biting about
 6 o'clk — Everything apparently
 very successful — good line
-+ judicious stopping out —
+\+ judicious stopping out —
 Home to Tea before 7 — At 8 o'clk
 Geo. + I went up to Mr. Harris Pardee's
 on 47th St., somewhat to see if he

@@ -44,7 +44,7 @@ miserable dark rainy day —
 got to studio at 10. Finished
 tracings of separate horses +
 transferred them to the canvas
-+ then painted in all the
+\+ then painted in all the
 legs, extremities, corrected
 lines + a good part of the
 ground. At 1 o'clk, prepared
@@ -54,7 +54,7 @@ after chatting with Johnston
 of the "Mail" — Nicoll + J.A. Smith
 about 7.45 went to Mary's and
 saw Mother — thence to studio
-+ wrote until near 11 — thence
+\+ wrote until near 11 — thence
 to 41 "S." + at midnight to
 bed.
 [illegible — entire passage]

@@ -60,14 +60,14 @@ my ceiling — have come to the conclusion
 that I don't know much about it. At
 3.30 again went to Studio. Addie
 Dunning made us a call, between 4
-+ 5 o'clk. Home to tea at 6. Matt +
+\+ 5 o'clk. Home to tea at 6. Matt +
 Kate, gone to Uncle Aaron's. Eveff,
 with Joe went to Mr. Diven's, No.
 W 52d St. Amanda out at a concert
 with her bro. Her Father, Mother,
 sister May + friend Miss [illegible] — J.
 Elmira introduced themselves to his
-+ we had quite a chatty evening
+\+ we had quite a chatty evening
 until 9.30 o'clk — home + found
 Dr. Throop — went to bed at 10.30 and
 left him still visiting.

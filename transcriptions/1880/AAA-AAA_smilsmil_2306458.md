@@ -51,7 +51,7 @@ Father + we had a walk for
 an hour — then a rest and
 dinner soon after 1 — after
 that I read for some time
-+ at about 4 Father + I went
+\+ at about 4 Father + I went
 to call upon Mr. Sherwood, the
 Baptist minister — not in —
 then we took another walk

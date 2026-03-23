@@ -55,7 +55,7 @@ drawing — then set to work again
 upon Water Color drawing "White
 [illegible] from Randolph Hill" — washed
 out of my blue, some cloud forms
-+ put in clouds of a brownish color
+\+ put in clouds of a brownish color
 much to the general advantage
 of the drawing, I think — home to lunch
 at 1.30 — To my mortification, heard that

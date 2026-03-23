@@ -43,10 +43,10 @@ at 11.
 Dismal day — left at 9.30 — then
 read paper + after 11 got to writing
 some letters. About 1 went out
-+ walked up to 5th Ave. + 57th St —
+\+ walked up to 5th Ave. + 57th St —
 then back home to dinner at 2.
 After that, did some more writing
-+ about 5 went down to studio —
+\+ about 5 went down to studio —
 there wrote a note — then walked
 up to Dr. Yale's — saw him + Mrs.
 Y — Home about 7 — feeling much

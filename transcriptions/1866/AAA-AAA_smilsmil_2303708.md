@@ -19,7 +19,7 @@ pages:
 ### Thursday, February 15, 1866.
 
 The artists last night, after Punch,
-+ sandwiches + appointing a Committee
+\+ sandwiches + appointing a Committee
 (Church, Edwin White & Cropsey) to tell
 them what they came together for,
 adjourned until next Wed. eveg.

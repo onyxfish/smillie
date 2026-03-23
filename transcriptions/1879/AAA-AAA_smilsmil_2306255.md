@@ -37,7 +37,7 @@ Train — got to New Milford at 7.37.
 no stage, had to hunt around for
 team — away at 8.20 + got to [illegible]
 at about 10.20 — chatted awhile
-+ to bed at 11.
+\+ to bed at 11.
 Glorious moonlight night.
 Rain before morning.
 

@@ -26,7 +26,7 @@ sky (2°. times). To dinner at
 1 o'clk — Several very old
 ladies to dinner — Hurried
 back to my work. Fan M.
-+ then Gee came soon after 3.
+\+ then Gee came soon after 3.
 I painted until about 5
 when I cleared up + went
 out + took a walk with

@@ -49,11 +49,11 @@ Shaffer — back to E's before
 was preparing to take a proof.
 Dinner at 6 — Char[illegible] came —
 after dinner on the [illegible]. Mr.
-+ Mrs. Hall called + Col. Balch
-+ wife — at 9 W. + Mrs. E. + I
+\+ Mrs. Hall called + Col. Balch
+\+ wife — at 9 W. + Mrs. E. + I
 went to U.S. There until 11.
 I went in to the Hotel — met
 lots of people that I knew
-+ had quite a gay time.
+\+ had quite a gay time.
 Home soon after 11 + right
 to bed.

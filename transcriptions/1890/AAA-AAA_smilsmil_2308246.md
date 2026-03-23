@@ -51,7 +51,7 @@ got away from me after as nearly ditching
 me by a saw mill — Before we got to the old
 mills on the beach we found one in active
 operation, more inland, so we stopped there
-+ after nearly two hours I got a sort of a
+\+ after nearly two hours I got a sort of a
 water color sketch of it — the miller was
 a very nice old man + we climbed into
 the mill with him. Back to hotel by way

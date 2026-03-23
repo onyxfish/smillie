@@ -25,7 +25,7 @@ from Great Bend (Erie) I determined to wait over to-day + take that — so
 I telegraphed to Mother Cook + to Mary — Home at about 11 — layed in
 hammock with blankets + getting into it lay until dinner at 1.30 —
 Afternoon. I worked on A.B.N. drawing until 5 — then feeling used up went out
-+ strolled about for an hour — Down town after 6 — Tea at 7 — about 8 Parke
+\+ strolled about for an hour — Down town after 6 — Tea at 7 — about 8 Parke
 came in + made a visit — Read newspapers — To bed at usual time.
 
 ## Right Page
@@ -40,11 +40,11 @@ the place + making some few final arrangements for my departure. Dinner
 at a little before 1. At 1.30 Herrick came
 with horse + buggy + at 1.40 we started
 for Great Bend. Took almost an hour
-+ a half to drive to New Milford — from there
+\+ a half to drive to New Milford — from there
 to 4.6 — I urged the horse, getting in at
 about 3.45. Train due at 3.57 — but to my
 great disgust found that it was 3 hours
-+ 20 m. late. I had very hard work
+\+ 20 m. late. I had very hard work
 to kill the time — I sauntered by the
 River — tried to read my newspapers +
 chatted with people about the station

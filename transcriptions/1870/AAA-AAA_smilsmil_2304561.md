@@ -21,12 +21,12 @@ pages:
 Still another good day, clear, warm + delightful for work out of doors —
 got to my place in Smith Beede's
 potato patch at 9.15 — set palette
-+ found that I had not white enough
+\+ found that I had not white enough
 so I had to Return to the house for
 it — 10 o'clk before I got to work — Then
 Repainted Sky + went over everything —
 of course I could get none of the delicious
-+ wonderful variety of color — it changed
+\+ wonderful variety of color — it changed
 too quick — there has been a great
 change since day before yesterday
 when I painted this in — Went to
@@ -45,7 +45,7 @@ dinner — to bed about 10.30
 Mild, laden gray mtf, threatening
 to rain at any moment — a little
 before 9 o'clk — went out with pencils
-+ paper + got sketches of maple
+\+ paper + got sketches of maple
 trees, near the Sugar House + out on
 Smith Beede's potato field. I
 worked until near 12 o'clk — when

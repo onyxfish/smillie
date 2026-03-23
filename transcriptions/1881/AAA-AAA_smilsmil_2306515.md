@@ -40,7 +40,7 @@ Out to dinner at 2 — then a walk in the square — and
 at 3 to studio — what little there was of daylight left
 was spent with callers and in "picking up" — At 5.30 went
 to 37! S; dressed + at 6.30 to Annie's — dinner + then Gel
-+ Fanny — Annie + I went to
+\+ Fanny — Annie + I went to
 Mr. T. Johnstons — leaving the girls
 we went to The Berkeley — met
 Charl. + left cards for the Ehningers

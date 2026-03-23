@@ -25,7 +25,7 @@ Ready to go in to the Ausable Lakes.
 About 9 o'clk the Colman party came
 along + in half an hour we were all on
 the Road — C's wife & sister — Tiffany, [illegible]
-+ I with Smith + Almon Reede as [illegible]
+\+ I with Smith + Almon Reede as [illegible]
 the 4 miles through the woods being bad
 walking + warm. got to lower lake at
 a little after 12 — built a fire + lunched
@@ -62,7 +62,7 @@ the Durands Rowed me over
 to my own Camp — There I
 commenced another sketch of
 same size of mts to the west
-+ worked as tight as I cd drive
+\+ worked as tight as I cd drive
 as long as I could see — about
 6.30 — The D's made us a short
 visit — Before tea I took a Row

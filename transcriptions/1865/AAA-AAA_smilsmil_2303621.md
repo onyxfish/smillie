@@ -37,10 +37,10 @@ Again at work upon "From Under
 Sunset Rock" (5th day). These hot
 days now but little work is done.
 My Physical energy is all gone
-+ my moral courage is nearly
+\+ my moral courage is nearly
 used up — Did but little —
 dragging about on middle distance
-+ foreground — Spent the Evng.
+\+ foreground — Spent the Evng.
 at Martens (111 W. 21st) + at Annie
 Ballard's where Sister Mary is
 now stopping.

@@ -37,7 +37,7 @@ amused myself, Rather than worked.
 I call the picture finished, and
 tis a great Relief to me. I think
 it the best that I have done so far
-+ feel that it shows as much advance
+\+ feel that it shows as much advance
 as I could Reasonably effect —
 Every, Aunt H. at the house. I spent
 the even. looking over my English papers.

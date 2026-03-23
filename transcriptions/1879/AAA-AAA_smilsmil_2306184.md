@@ -49,12 +49,12 @@ at 9.30 + to work finishing the
 preparation of my small water
 color sketches for the Union League —
 Mrs. Wm. Dart + her niece called —
-+ I made a small W.C. Sketch
+\+ I made a small W.C. Sketch
 to show them the process, which
 resulted in one of the best things
 I have done. Gifford came in —
 At 2 I went out to lunch + back
-+ spent the p.m. finishing the
+\+ spent the p.m. finishing the
 7×11 Sketch "Long Lake". Tea
 at 4 — at 8 called at Colman's
 — out — then went to Moore's the

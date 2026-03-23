@@ -67,7 +67,7 @@ we did not take any — The Lake disappointed me. There are
 some beautiful stretches of water + distant Mts. but it is
 altogether tamer than I had expected. Reached
 Centre Harbor near 1 o'clk — Rushed for Centre House
-+ got dinner — After dinner great squabble for outside
+\+ got dinner — After dinner great squabble for outside
 seats on the Coaches to North Conway — at last settled —
 Geo. on one Coach — I on another — Off at 2.30 — glorious
 breeze — old Chocorua peak my pet as I rode

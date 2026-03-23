@@ -28,11 +28,11 @@ To dinner at 12.30 — back at
 down to Appleton's — saw
 Bunce + Gle + Willie A. —
 back to studio at 5.15
-+ tea at 6.30 — at 8, went
+\+ tea at 6.30 — at 8, went
 up to Will's with Geo —
 Charl soon followed us.
 Walked down together
-+ got to bed at 11.20
+\+ got to bed at 11.20
 
 ## Right Page
 

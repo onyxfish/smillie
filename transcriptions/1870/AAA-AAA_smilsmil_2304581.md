@@ -54,7 +54,7 @@ At 2.45 — went up to Uncle G's
 to dinner with Charl — late —
 Miss Porter there — After dinner
 walked about with Miss P. — Junie
-+ Charl — until sunset — at
+\+ Charl — until sunset — at
 about 5 started for home, getting
 in at 6.15 — Ev'g, went with
 the family to Madison Ave.
@@ -67,5 +67,5 @@ To bed about 11 —
 Have made a stupid
 mistake in turning the
 leaves + so written Sat.
-+ Sunday on the wrong
+\+ Sunday on the wrong
 pages —

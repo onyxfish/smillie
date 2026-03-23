@@ -39,7 +39,7 @@ Hall — she stopped them — good girl —
 but she could nt keep down hysterics
 — Excitement — home again — our strange
 Mr + Mrs French — Messrs Crocker, Reed
-+ Binney — Every Miss Granps ner
+\+ Binney — Every Miss Granps ner
 Played up on the piano for us
 Beethoven — Chopin + Bach —
 To bed at 10.30.

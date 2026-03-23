@@ -29,7 +29,7 @@ into ill. A Pinyant's "Song Sparrow"
 for Miss Leggett. At 6.30 to K's
 to tea + at [illegible] took Fanny + Emma
 to their club. Then to U.A. [illegible] D.
-+ at 9.20 to studio — then for
+\+ at 9.20 to studio — then for
 an hour + to 41 S. at 11 +
 to bed at once.
 
@@ -51,7 +51,7 @@ the weather — To tea at 6.45
 at K at Thomas's Symphony
 concert — Steinway Hall — last
 of the season — very nervous
-+ uncomfortable — the 2°
+\+ uncomfortable — the 2°
 Beethoven Symph. — delicious —
 Largo by Handel very large —
 Faust by Liszt too much

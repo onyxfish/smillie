@@ -27,7 +27,7 @@ that Avery sent up — Falconer + others called — after 5 I went
 to Avery's — + at 6 to the K's in 22nd S'. at the table one
 of the stomach spasms that I have been favored with lately
 came on — I was obliged to give my Phil. ticket to [illegible]
-+ I went to 34th S'. in great [pain]
+\+ I went to 34th S'. in great [pain]
 The girls filled my rubber bottle
 with scalding water + I went
 to bed with it — in half an
@@ -42,7 +42,7 @@ Very pleasant day, altho' a little breezy + dusty at times.
 Did not have help. until 10 — then to Dr. Hastings's + heard
 him preach from Acts 1. ch. 25 v.
 After service walked to studio
-+ at 2 had dinner — at 3.30
+\+ at 2 had dinner — at 3.30
 walked up to Dr. Fale's — there
 until 5.30 — then to A.N.V's +
 had tea — at 8 walked down

@@ -28,7 +28,7 @@ dare to go into a cold church —
 walked along the Androscoggin
 on the Berlin Road a mile or more
 — Scenery Rather bleak — Back
-+ took dinner at 12.30 — Squalls
+\+ took dinner at 12.30 — Squalls
 passing over Randolph Mts. all day —
 drizzling over us at about 3 P.M. —
 After Reading + writing some, wrote

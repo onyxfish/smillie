@@ -20,7 +20,7 @@ pages:
 
 Heavy fog in the m'g. Sunlight in
 the afternoon + Rain about 5 o'clk
-+ later. Ace the m'g. Superintend
+\+ later. Ace the m'g. Superintend
 ploughing + grading — Dinner
 soon after 1 o'clk. Just before
 2 I started with horses + light
@@ -42,7 +42,7 @@ Rest in studio — to bed at
 Heavy, foggy m'g. Unsettled
 weather — some sunshine in
 the afternoon — with Petrus
-+ Payne, superintending plow-
+\+ Payne, superintending plow-
 ing + grading — down town at
 10.30 to P.O. Mr. A.B. Clark
 was buried from H'f. Turrell's.
@@ -57,6 +57,6 @@ about 6.30 — then to P.O. Met
 H'f. Turrell + learned that Aunt
 H. + Uncle A. are in Town. On
 my way home stopped there
-+ made a call — the Rest of
+\+ made a call — the Rest of
 evg in studio until about
 10.30 — then to bed.

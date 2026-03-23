@@ -49,7 +49,7 @@ worked faithfully on it all
 day. to dinner at 12.30 — back
 at 1.30 — Painted until 4.30
 then Mr. Walter Brown came in
-+ we talked water color business
+\+ we talked water color business
 for awhile — to tea at 6.30 —
 loafed until after 8 — then
 dressed & went to 4.59 N. 34th

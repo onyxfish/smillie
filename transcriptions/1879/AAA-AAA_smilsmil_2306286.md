@@ -23,7 +23,7 @@ Did not get to breakfast until after 10 — to Dr. Hastings'
 at 11 + heard him preach
 from Matt. 11th ch., 2°, 3, 4, 5 & 6 v.
 After services went to Charles
-+ found him just getting up.
+\+ found him just getting up.
 At 1.30 to Studio + at 2 went
 to dinner at the Ashland —
 After that again to studio —
@@ -34,7 +34,7 @@ music. Met Bunce there + had
 a little confab on "biz" within the
 sacred confines — then to St.
 Thomas' + heard more music —
-+ at 6 back to studio. Tea
+\+ at 6 back to studio. Tea
 at 9 + at 8 went to Anna
 C's — there until after 10 —
 then to 37 St. + to bed.
@@ -53,7 +53,7 @@ some time — then to Charles' — then
 again to A.B.N. Co. — got printing
 blankets + etching rollers — then
 to 14th St. to get Diary — then to Sharp's
-+ got two copper plates — then to two
+\+ got two copper plates — then to two
 places in Beekman St. to get glazed
 boards — could not find what I wished
 — then to Mayers in Barclay St. + bought
@@ -63,7 +63,7 @@ again called on Bunce, about
 5 o'clk — saw Willie A — they agreed
 conditionally to take my etching of
 "Cedars by Moonlight" — then to studio
-+ church there — tea about 9 —
+\+ church there — tea about 9 —
 Really very tired. Dodging about
 studios until after 10 — then to 37th
 St. + to bed.

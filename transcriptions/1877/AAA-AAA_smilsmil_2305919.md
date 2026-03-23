@@ -27,9 +27,9 @@ not find nelo match my
 attns of past years — abt 9
 got to Studio + finished touching "Ausable" ptg. for Anna
 Cook — Abt 2 went down town
-+ got the diary that I have been
+\+ got the diary that I have been
 seeking. I walked down town
-+ got back to studio before 2 —
+\+ got back to studio before 2 —
 [illegible] around until 3.30
 when I started for Grand Cen
 Depot. Had an inelegant
@@ -41,7 +41,7 @@ little before 7 + had tea at once
 Matt there. About 8.30 went
 up town with Matt, Kate and
 Clare — went into some toy shops
-+ got back home about 10 and
+\+ got back home about 10 and
 to bed abt 11.
 
 ## Right Page
@@ -60,14 +60,14 @@ laying grounds etc — at 1.30
 had dinner — after that made
 a little pencil sketch of [illegible]
 near Salt Lake city, Traced it
-+ transferred it to small plate
+\+ transferred it to small plate
 feeling very sketchy, about
 4.30 took a nap — at 5.30 up
-+ dressed + then went to
+\+ dressed + then went to
 Mary's where we all, with
 Matt, Ed, Aunt Jessie + Anna
 took tea. Spent the evening
 there until 10 oclk — then home
-+ to bed without delay. Emma
+\+ to bed without delay. Emma
 came down with us + spent
 the night with Kate.

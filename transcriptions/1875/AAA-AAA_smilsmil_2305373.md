@@ -47,7 +47,7 @@ Eaton — I wrote after bkfst until
 near 10 o'clk — then to studios, then
 to N.A. met there Nicoll, Smith
 Walter Brown, Bellows, Hubbard
-+ Silva — arranged to dralse the
+\+ Silva — arranged to dralse the
 pictures by Burling + Eaton. Back
 to studios at 11 — at 1.45 a man
 came from Miss Sawtite + I went

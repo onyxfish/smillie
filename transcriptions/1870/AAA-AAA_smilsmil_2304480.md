@@ -19,7 +19,7 @@ pages:
 ### April, Thursday, 14, 1870.
 
 Very hot wilting day — with Matt
-+ Geo. at 8.30 went to Sloan's, to
+\+ Geo. at 8.30 went to Sloan's, to
 look at a parlor carpet, selected
 yesterday — walked back, stopping
 at Snedicor's + got to Studio at
@@ -57,12 +57,12 @@ Brook", about 10×14. (1st day) at
 when I get about half or my
 picture painted in — and in
 a manner, considering the weather
-+ my feelings, tolerably satisfactory.
+\+ my feelings, tolerably satisfactory.
 Home to tea at 7 — at 8 went
 to Miss Tiffany's + worked on
 wood pincushions, making little
 water color sketches until 11 o'clk.
 Sons had some young fellows
 to play billiards with him
-+ a little supper — Home
+\+ a little supper — Home
 about 11.15 — to bed about 11.45.

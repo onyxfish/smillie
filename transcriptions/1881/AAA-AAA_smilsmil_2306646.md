@@ -30,7 +30,7 @@ visitors (Yorktown Centennial) at
 Knoedle's, Hunter's — then home
 to dinner at 1.30 — Mr. Gibbons
 there to dinner — later, Emma
-+ Mary J — after dinner, to
+\+ Mary J — after dinner, to
 P.O. station — 3rd ave. + 28th — at
 5 o'clk Coupé came — Rode
 to foot of Canal St. + soon

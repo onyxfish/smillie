@@ -20,7 +20,7 @@ pages:
 
 Beautiful day — Spent
 the mrf in wandering about
-+ in Maud's room — Did a
+\+ in Maud's room — Did a
 little writing, a little
 gathering of my things
 together and some walk-
@@ -50,7 +50,7 @@ to church. To bed about
 Overcast, windy mrf. Up
 about 8 — wrote note to Charl,
 did some packing, visiting
-+ walking — Mr. Eugene spent
+\+ walking — Mr. Eugene spent
 most of the mrf with us —
 Dinner at 1.30 — Rain and
 wind made a dark after-

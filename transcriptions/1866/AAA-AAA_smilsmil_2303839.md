@@ -22,9 +22,9 @@ Fine day — Cool and fresh —
 Mr., mounted Locomotive
 drawing & pottered a little
 over it — Then set palette &
-+ fixed + worked over "October"
+\+ fixed + worked over "October"
 making 5½ days for painting
-+ about 2½ for drawing.
+\+ about 2½ for drawing.
 
 Mother came in town during the
 day, Father returned with her
@@ -58,7 +58,7 @@ close of the Beethoven Concerto for piano
 we left + went to the Studio where Gel
 joined us — had a pleasant visit
 until 1.30 — P.m. finished Locomotive
-+ Sheep's Head drawings. Mr. Greaton
+\+ Sheep's Head drawings. Mr. Greaton
 brought in Miss Wheeler + 2 other ym's ladies.
 Evef. with Geo, Mary, Matt + Kate, went
 to Phil Concert. Liked the 3rd movement

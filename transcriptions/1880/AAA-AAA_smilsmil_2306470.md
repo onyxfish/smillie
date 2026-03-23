@@ -27,7 +27,7 @@ then to A.N.Y.'s — about 2 had
 dinner — at near 4 went out
 to the Park — walked up to Art
 museum, then out to Boulevard
-+ 93rd St + saw the obelisks on its
+\+ 93rd St + saw the obelisks on its
 journey to the Park — then to Studio
 at 6 went in to Coleman's — had
 tea + there until 8. Then to

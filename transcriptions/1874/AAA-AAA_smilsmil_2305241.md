@@ -61,4 +61,4 @@ after 6 — Home to tea at 7.30
 Eve'g wrote to Gifford, Magrath
 finished long letter to Sam
 Colman. Washed brushes
-+ bed at 11.15
+\+ bed at 11.15

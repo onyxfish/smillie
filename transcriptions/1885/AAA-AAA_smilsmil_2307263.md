@@ -37,7 +37,7 @@ etchings by Fortuny + Ulcher — then dressed — At
 6.30 Mr Yale + wife — Prof. Morse + wife + Mr. Haven
 Putnam + wife came + we had dinner —
 about 9 — Chas. Collins + Eliz. Howe, Walter
-+ his wife — Emma + Mary J. Geo. Cook + Jno.
+\+ his wife — Emma + Mary J. Geo. Cook + Jno.
 Valentine came — things seemed to go
 very pleasantly — all left about 11 —
 nearly 12 when I got to bed.

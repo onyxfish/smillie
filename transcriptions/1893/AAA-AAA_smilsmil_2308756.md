@@ -42,7 +42,7 @@ stop over night at Genoa + we picked up our
 bags + walked over to the Hotel de Londri -
 a 3rd class hotel - much worn + dirty but, after
 all, fairly comfortable - we had a nice tea
-+ coffee + then went out + rode for a couple
+\+ coffee + then went out + rode for a couple
 of hours enjoying very much a renewal
 of the ints of our visit eight months ago - we
 went pretty thoroughly over the town + got
@@ -53,7 +53,7 @@ then we all dined together, à la carte,
 in a small room - A plain, simple dinner
 early + met in the salon where we met
 some fellow travelers, Americans, English
-+ Scotch - To bed early.
+\+ Scotch - To bed early.
 
 ## Right Page
 

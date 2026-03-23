@@ -19,7 +19,7 @@ pages:
 ### October, Thursday 22, 1868
 
 The worst day yet, blowing col[d]
-+ drizzly until about 2 P.M. whe[n]
+\+ drizzly until about 2 P.M. whe[n]
 it commenced snowing + kep[t]
 it up quite briskly + steadily the
 rest of the day. At 9 a.m. went
@@ -64,7 +64,7 @@ Shell, Jel + I went to Mr. H + [?]
 Painters to call on the Misses
 Riddle, now staying there — Spent
 a pleasant evef with them (Hettie
-+ Mollie) Mr. D. + Mr. Mr Cooper —
+\+ Mollie) Mr. D. + Mr. Mr Cooper —
 home at 9 o'clk — Uncle [—]
 read awhile Nicholas Nickleby
 — at about 11, I got to bed, very sleepy

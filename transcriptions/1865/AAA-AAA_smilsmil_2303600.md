@@ -30,7 +30,7 @@ Bldg to Private view of Whittredge's
 Twilight among the Shawangunk Mts.
 Took Miss D. + Miss Emma Deland.
 W. J. S. + Aunt H. arrivd from Phil.
-+ Harrisburg —
+\+ Harrisburg —
 
 ### Wednesday 29.
 

@@ -26,7 +26,7 @@ on acct. of another engagement.
 Worked on drawing for A.B.N.Co.
 (2d day) until 12.30 when I
 went over to N.A. of D. — with Coleman
-+ Burling worked at hanging
+\+ Burling worked at hanging
 drawings for an hour. Then
 home to lunch + back to Studio
 at 2.20. + Worked the Rest of
@@ -47,7 +47,7 @@ Birthday. Clear + cold. Got
 to Studio at 9.5 + worked on
 drawing for A.B.N.Co. (3d day)
 until 1.15 then home to lunch
-+ back at 2.15 and at it
+\+ back at 2.15 and at it
 until about 5 o'clk. — When
 I finished the drawing. —
 Home about 5.30 very tired.
@@ -60,5 +60,5 @@ drawings. There until
 106 W 42d St. — a jolly and
 little musical party. — home
 at 10.30. — mounted drawing
-+ got to bed soon after 11 —
+\+ got to bed soon after 11 —
 very nearly "played out".

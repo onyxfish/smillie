@@ -21,11 +21,11 @@ pages:
 Wet + overcast until about 9 —
 after that, gradual clearing, until
 at times the weather was sunny
-+ almost warm — Raw + overcast
+\+ almost warm — Raw + overcast
 again before night. To studio at
 9.30 — Soon went over to N.A. Saw
 there J.F. Brown — Eaton — Symington
-+ others — They were not favorably
+\+ others — They were not favorably
 impressed by the [illegible] fills for cat.
 Hitchcock of Tribune came in + I
 spent some time going through
@@ -43,7 +43,7 @@ where I saw Walter [illegible] for the first time
 since their engagement, his fiancee, Mrs.
 Dalcy, to whom I gave my blessing —
 then home — Geo. [illegible] nicely came in
-+ spent the eve'g with us — Robed
+\+ spent the eve'g with us — Robed
 before 11.
 
 ## Right Page
@@ -61,6 +61,6 @@ come.
 Eve'g. Private View — (Stag
 Party) Water-Color Exhib'n — on my
 way stopped in 25th St. Saw W.
-+ Mrs. Colman — C. went with
+\+ Mrs. Colman — C. went with
 me to the N.A. — a very jolly
 time — Home + to bed after 12.

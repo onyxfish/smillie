@@ -25,7 +25,7 @@ Bros. + saw Mr. Schell, hoping to find
 an opening for our Studio's hall boy
 Willie — but there is no longer a working
 Art Dept. in the Harper Establishment —
-+ so, no chance for Willie there. Then
+\+ so, no chance for Willie there. Then
 to Bank of Commonwealth in Nassau St —
 got May Int. on Mil. + S. + W. Mc. Bonds
 then to A.B.N. Co + got some die [illegible] from
@@ -58,7 +58,7 @@ one good proof. Back at 2.30 + again
 printed until 5.30 with hardly any
 better result. I got but one really
 good proof — Home at 6.30 very tired
-+ very much disgusted — Dinner at
+\+ very much disgusted — Dinner at
 6.30 — I rested until nearly — then
 took Annie to Edwin's + Walter's — All
 out — brought A— home + then went to

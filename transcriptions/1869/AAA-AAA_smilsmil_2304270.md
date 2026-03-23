@@ -25,16 +25,16 @@ set to work on "Lower Ausable Lake"
 Right hand side, the water under-
 neath + a bit up on the L.H. side.
 Gonug Bell came in the mng.
-+ took a lesson in water-color
+\+ took a lesson in water-color
 drawing. I took lunch at the
 Studio — Coleman speaks very
 encouragingly of my work.
 About 6 o'clk. I went down
 to Knoedler's + bought some col-
-+ to Schans' + bought some
+\+ to Schans' + bought some
 brushes for Bell — Home at
 7.15 — Everg cleared off, cold
-+ windy — Mounted my
+\+ windy — Mounted my
 charcoal drawing, ill. toned
 from Bryant's "Among the Trees" —
 Got to bed about 10.45
@@ -44,13 +44,13 @@ Got to bed about 10.45
 ### February Wednesday, 24 1869.
 
 a clear day at last — bright, brisk
-+ windy — Got to Studio at 9.10 +
+\+ windy — Got to Studio at 9.10 +
 at work (8⅓ days) on "Lower Ausable"
 finishing the "laying in" about
 4 o'clk. P.M. — I think it one of
 the most promising works that I
 have yet done, altho' it is very crude
-+ rough — I have painted it with
+\+ rough — I have painted it with
 great solidity + intend to try to
 overcome my practice of glazing.
 Home to lunch at 1 — back at 2 —

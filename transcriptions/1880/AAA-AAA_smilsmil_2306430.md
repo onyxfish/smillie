@@ -38,7 +38,7 @@ Addie, Miss B + the boy in the
 other boat. Much wind + some
 Rain — Heard Miss Spence +
 another lady read — Returned
-+ to bed at 10.30
+\+ to bed at 10.30
 
 ## Right Page
 
@@ -60,7 +60,7 @@ then along pull home — with
 many wonderfully beautiful
 effects of sunlight + cloud shadow.
 After dinner went to Harbor Island
-+ completed painting in upright
+\+ completed painting in upright
 pine trees — Spattering Rain — Tea
 abt near 4 — Mrs. Weiner + Jewel
 am— Evett spent on Piazza —

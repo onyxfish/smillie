@@ -27,7 +27,7 @@ this afternoon — To lunch
 at 2. Then to Kneedler's —
 made some purchases —
 back + found Price Jessup
-+ Miss Watson at the studio.
+\+ Miss Watson at the studio.
 Hurried up my packing
 with Geo., took 4 o'clk train
 to Po'k — where we arv'd at 6.30 —
@@ -45,7 +45,7 @@ Filmy overhead + promising
 a change, but very pleasant.
 Bkfs. at 8.30 — At 10.30 went
 to the Baptist Ch. with Father
-+ heard Alonzo Parker preach
+\+ heard Alonzo Parker preach
 from text. Acts X ch. 1. 2. v. — a very
 good discourse. After service
 saw Uncle Willie + his family,
@@ -53,7 +53,7 @@ then went to Mary's + at 1,
 home + had dinner — After
 that, out + sauntered about
 until between 3 + 4, then in
-+ read a little — Tea
+\+ read a little — Tea
 between 6 + 7 — Matt + Ed. came
 Evef. Read aloud a sermon
 by Sanders — To bed at 10.

@@ -21,7 +21,7 @@ pages:
 Still overcast + quite cool.
 Came to city on 7.30 boat —
 went to studio at 10 o'clk.
-+ met Mr. Richardson — gave
+\+ met Mr. Richardson — gave
 me a Yellowstone drawing
 on wood to make. Home about
 11.30 — Lunch at 1.15 — Worked
@@ -45,6 +45,6 @@ About noon Belle Tweedy
 called — on her way to Mont-
 clair. Lunch at 1.30 — Tea
 at 7. — Evef, made paste
-+ mounted drawing and
+\+ mounted drawing and
 some little photos. —
 To bed at 10.45

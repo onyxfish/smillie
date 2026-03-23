@@ -37,7 +37,7 @@ Mat Mills for a little — got Rece.
 cards — Eve'g spent getting them
 stamped with initial S. — then
 directing envelopes to friends
-+ writing a few notes — among
+\+ writing a few notes — among
 others, to E.J. Woolery, esq. — Mr.
 Main stayed with us all night.
 I did not get to bed until
@@ -65,7 +65,7 @@ Home to lunch at 1.30 — Afternoon
 spent trying to get a tracing of Photo.
 of Boston — to make a drawing for
 A.B.N. Co. — Before 5 o'clk left Studio
-+ on way home distributed more tickets —
+\+ on way home distributed more tickets —
 The same on way down to meeting of
 Water Color Soc'ty at Dr. Haas's Room —
 a pretty full + spirited meeting —

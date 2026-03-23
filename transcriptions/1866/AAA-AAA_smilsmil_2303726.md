@@ -23,14 +23,14 @@ Worked all day (28th day) on Acad.
 pic, painting over middle distance
 trees + meadows — am painting
 the brown of positive green out
-+ getting what I consider a
+\+ getting what I consider a
 more harmonious + atmospheric
 grey — Evng, after sketching
 paper for Guano drawing for
 A.B.N. Co, at 9 o'clk went
 to (W. Despards in 32d St.
 to take my part (Malcolm
-+ 1st Murderer) in Reading
+\+ 1st Murderer) in Reading
 Macbeth. Misses Van Doren —
 Dunning + Parker were there —
 Mr. Despard, Greatorner +

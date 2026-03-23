@@ -51,7 +51,7 @@ stayed home + went to bed early.
 Clouds and sunshine + very high wind.
 Rather cool to sit quiet out of doors, but
 delightful for light exercise. Took pencils
-+ worked under the Elms, drawing some
+\+ worked under the Elms, drawing some
 of the White Pine tops in the wood beyond.
 Very much inconvenienced by the wind.
 At 11 o'clk. D. D. Addie, Miss Dana + Mr. + Mrs.
@@ -59,7 +59,7 @@ Trimble came along. went with them into
 the wood — Addie worked up on her pencil
 study of old Hemlocks. Afternoon, as
 the wind was still high, went into the woods
-+ started a new pencil study of the bottoms
+\+ started a new pencil study of the bottoms
 of the old Hemlocks. Worked until near
 5 o'clk P.M. — then by invitation went
 to D. D.'s to have a game of Croquet —
@@ -69,7 +69,7 @@ asleep. — played with Mr. T. — near
 to tea — Stayed after more than enough
 hesitation — After tea Croquet — Geo.
 Hawes, Miss Dana + Mr. T. against Addie
-+ me (two balls) — played until it was
+\+ me (two balls) — played until it was
 quite dark, but our side beat — The
 rest of the even'g after a little singing, we
 all told ghost stories. D. D. went

@@ -42,10 +42,10 @@ see me about selling some English W.C.
 paintings — then Neeley came + took up all
 the rest of the mtf. in fixing Panel
 stretcher + restretching "Evef. Shadows"
-+ some other jobs — Home to lunch + back
+\+ some other jobs — Home to lunch + back
 as usual. Fine — Afternoon, worked as
 long as I could see — over sky, distance
-+ sea of big W.C. Home at 6 — dinner
+\+ sea of big W.C. Home at 6 — dinner
 Evef. with Annie in dining room
 Reading + commenting on Mr. Barrington's
 Prefaces to Met. Museum Cat. of Watts'

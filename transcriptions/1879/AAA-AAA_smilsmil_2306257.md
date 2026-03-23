@@ -46,7 +46,7 @@ Ther. 85°.
 
 Still very pleasant weather.
 After breakfast I had a walk
-+ spent a little time on my hill
+\+ spent a little time on my hill
 then got out Bruce's work and
 commenced a large sketch
 of Mirror Lake — Stanza VIII — could
@@ -62,7 +62,7 @@ got him saddled + bridled + went
 out for a ride — perfect failure —
 he is as high as a church, as hard
 as a mill gate, stubborn as a mule
-+ slower than time — besides all this
+\+ slower than time — besides all this
 he is a bad stumbler — soon got back.
 Tea after 6. Twelf, again went to Court-
 wrights + again failed to get in — then to

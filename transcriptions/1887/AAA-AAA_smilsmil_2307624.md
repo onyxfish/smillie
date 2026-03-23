@@ -55,7 +55,7 @@ Radically changed everything —
 color + composition — + I think
 got a very fresh + creditable bit
 of work — To bank — then to Hunter's
-+ home at 1.45 — back before 3 and
+\+ home at 1.45 — back before 3 and
 spent what remained of daylight
 in finishing up little sketch — Made
 paste + mounted it — at 5 went to
@@ -65,5 +65,5 @@ bill suit, after being paid — Home at
 to bed — Alt his better his evident
 that he is not yet well — Eve even'g
 being short; after reading, Annie
-+ I had a game of cards + to bed
+\+ I had a game of cards + to bed
 soon after 10.

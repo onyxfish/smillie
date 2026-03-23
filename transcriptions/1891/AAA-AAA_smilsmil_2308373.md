@@ -58,7 +58,7 @@ Annie almost immediately followed me.
 Rode to Christopher St — ferry + took 5.45
 train for "Mountain Station" getting there
 about 6.30 — Very warmly rec'd. by Mr.
-+ Mrs. White + Mrs. Parker — Sat down
+\+ Mrs. White + Mrs. Parker — Sat down
 to dinner at about 7 — we had a good
 time — all hands being jolly until
 1.30 — took 9.37 train in to N.Y. + got

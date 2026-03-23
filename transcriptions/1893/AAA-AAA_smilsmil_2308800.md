@@ -25,7 +25,7 @@ few drops of rain in the afternoon — It was
 about 9.30 when A. E. + J started out. Drove
 to Church + monastery of S. Marco — in the latter
 we gave ourselves up to the spirit of the past
-+ dreamed away a good part of the morning with
+\+ dreamed away a good part of the morning with
 Fra Angelico + his bro. Piero + were deeply
 stirred by the memorials of Savonarola — We
 also paid deference to S. Antonius + to old Cos-

@@ -32,6 +32,6 @@ home and to bed at 11.30.
 Mild, raw, and rather threatening. — Mrs[?], went to Dr. Hastings' + heard him preach from 2nd
 Thess. 3rd ch. 10th v. "He that will not work, neither shall he eat" —
 a capital discourse. After service walked down to studio
-+ fixed fires. Home to dinner at 1 — a nap after — at 5
+\+ fixed fires. Home to dinner at 1 — a nap after — at 5
 went out to walk — took tea at Uncle Ais — Home at 8.30
 wrote a little — talk — and to bed at 11.45

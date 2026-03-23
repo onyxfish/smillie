@@ -26,15 +26,15 @@ Back to studio at about 1, +
 to lunch at 2. After that,
 still clearing house — at
 5 left studio — at 5.30 at Annie's
-+ at near 6, A. + J called on
+\+ at near 6, A. + J called on
 Father + Mother at 106 Mad. Ave.
 At 6.30 at Fannie's + had tea +
 at 8 at Mr. T. Johnston's — then
 to Averip's — there for a few minutes, then to "Victoria" (5 Ave. + 27's)
-+ called upon Gen. Frank Jessend's
+\+ called upon Gen. Frank Jessend's
 wife — At 10.30 again at Mr.
 J. J's — walked home with a —
-+ to 37' S. + to bed at 11.45.
+\+ to 37' S. + to bed at 11.45.
 
 ## Right Page
 
@@ -56,7 +56,7 @@ have gone to Mr. Vielland's
 reception, but on acct. of storm
 gave it up. At 9 J went to
 Press View of Water Color Socy
-+ had a very pleasant time
+\+ had a very pleasant time
 until after 11 — then to 37' S.
-+ to bed at 12.15.
+\+ to bed at 12.15.
 Snowing freely then.

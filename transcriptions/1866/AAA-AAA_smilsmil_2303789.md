@@ -25,7 +25,7 @@ faithfully all the m[?] on the
 Hemlock Study of yesterday. Made
 good progress, getting it nearly
 finished — Afternoon overcast
-+ cloudy, at times looking very like
+\+ cloudy, at times looking very like
 Rain. Worked again with the
 pencil, for about an hour on the
 Hemlocks + then until 5 o'clk.
@@ -51,7 +51,7 @@ of the other evening — very imperfect
 ones I found, when I came to try
 to paint from them. The result
 of this painting is strong but very hard
-+ cold + black looking. The time
+\+ cold + black looking. The time
 I have tried to Represent is after
 the sun had been down about half
 an hour. I penciled a/s, in Addis'

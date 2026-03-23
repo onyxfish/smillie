@@ -19,19 +19,19 @@ pages:
 ### July, Wednesday 13, 1870
 
 Clear, breezy + hot — a long
-+ pleasant letter from Geo.
+\+ pleasant letter from Geo.
 About 9 o'clk A.M., got + started
 on my peregrinations for the
 day — went to Studio Schmitts +
 Sillecks, then to A.B.H. Co. Sajutable
 Rimy Smith, Dorman — Hyde Bros.
-+ at about 2 brought up at Rudolphs
+\+ at about 2 brought up at Rudolphs
 at lunch — then to Dry S. + Norris
 then foot of Canal S. + bought
 tickets for Westport then to
 Snedecors, again to Sillecks
 to Schmitts + to Pachennis
-+ then at 6 o'clk. home, very
+\+ then at 6 o'clk. home, very
 tired — Swore bet. 9 + 10 o'clk
 did a little arranging of
 things + to bed soon after
@@ -49,7 +49,7 @@ Rimy Smith, then went abit again
 attending to little messages —
 Spent the mf at Studio in
 fixing things there to leave
-+ picking up odds + ends
+\+ picking up odds + ends
 about at different places;
 getting home to lunch at
 2 o'clk. Rested until near

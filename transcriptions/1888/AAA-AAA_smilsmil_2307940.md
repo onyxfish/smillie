@@ -47,7 +47,7 @@ dinner at 1.45 After that again
 tried some photographing of the
 children — Soon after 3 commenced
 to harness the horses — Henrick came
-+ finished it + we got away at 3.45
+\+ finished it + we got away at 3.45
 driving to the Colpe place + around
 by Elk Lake, getting in at 6.45 —
 tea — Evelf until 9.30. attending

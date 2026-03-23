@@ -24,7 +24,7 @@ Appleton's. Home to lunch
 at 1.45 — back at 2.30 — Found
 man with note from Josie
 Jessup— At 3.30 Rode up there
-+ about 4.30 we got away on
+\+ about 4.30 we got away on
 horseback. Had a delightful
 ride + back to the house at
 6.15— Had a wash + brush
@@ -58,4 +58,4 @@ guests. C. + I. went to the
 Collegiate Ch. After service,
 caught in a shower — Stopped
 at Dr. Chapin's — home ab't 9.30
-+ to bed at 10.30
+\+ to bed at 10.30

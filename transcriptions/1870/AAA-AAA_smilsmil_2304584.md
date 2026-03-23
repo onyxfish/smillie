@@ -35,7 +35,7 @@ I know not the man" — Can't say
 that I was exceedingly pleased
 — the music was fine — Home
 at 9.30 — Read newspapers
-+ got to bed at 11.30
+\+ got to bed at 11.30
 
 ## Right Page
 

@@ -20,7 +20,7 @@ pages:
 
 mild & cloudy, with interval sunshine — Did not wake
 until near 9 — Late bkfs — at 11 a. + I went to Brick Church
-+ heard young Van Dyke preach his first sermon as Pastor from
+\+ heard young Van Dyke preach his first sermon as Pastor from
 Acts. 10th ch. 29. + 34 v. — on parts of them — a pleasant performance —
 good, without brilliancy of thought or manner. After service A. + I
 walked up the Avenue to 52nd St.

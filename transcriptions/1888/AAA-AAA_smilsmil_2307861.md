@@ -30,7 +30,7 @@ Dinner at 2. — after that gave up to
 my headache + went to bed where
 I stayed until after 6 — then
 up — Gretta's evef. out, so Annie
-+ I were nurses — In spite of head-
+\+ I were nurses — In spite of head-
 ache I wrote to Mary + to Wm. Parke —
 after 10 went out + mailed letters —
 To bed after 11 + passed an un-

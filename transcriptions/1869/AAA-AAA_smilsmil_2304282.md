@@ -45,7 +45,7 @@ Got to Studio at 8.35 — set to work on 24×40 (18th day) painting
 over foliage on R.H. upper side making it all grayer + lighter.
 Home to lunch abt. — Back
 at 2 — afternoon, finished up foliage + worked on trunk
-+ stems of big Tree — Home
+\+ stems of big Tree — Home
 to Tea at 5 — Read until
 [illegible] interested in new books +
 newspapers — gave my [torn]

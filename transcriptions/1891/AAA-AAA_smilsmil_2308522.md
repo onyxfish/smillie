@@ -48,7 +48,7 @@ o'clk. before I got to studio & then
 to work varnishing San Luis Rey
 plate + getting ready for biting -
 From 10.30 to 11.30 at 2nd Nat. Bk.
-+ safe deposit attending to Annie's
+\+ safe deposit attending to Annie's
 business - Home to lunch at - had
 alone - A. + boys at Mary's - abt. 45
 went to Mary's to get a check from A. -

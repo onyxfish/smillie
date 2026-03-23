@@ -35,7 +35,7 @@ to be no way of driving them away — they
 are such a nuisance as to make any going
 about really a trial. Went to a Pharmacy
 & got Dr. Scotti's prescription of Caffiene
-+ [illegible] Soda powders. It was near 6
+\+ [illegible] Soda powders. It was near 6
 when we got back to hotel. — Found letters
 from Charl., Kate & Jno. Durand for me, & a
 little note from Sumia [?] — for Annie. — I had

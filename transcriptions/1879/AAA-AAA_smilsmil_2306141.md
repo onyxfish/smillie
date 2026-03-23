@@ -20,7 +20,7 @@ pages:
 
 Very pleasant weather — after-
 noon to Rennie's — met Miss Abbott
-+ worried about frames — Got to
+\+ worried about frames — Got to
 studio at 10. Then to work on the
 outlet of Lake George from top of Roger's
 Rock. — Stuck to it — to lunch
@@ -54,7 +54,7 @@ studio — Commenced Lake Geo —
 Sabbath day Point — At 12 Miss
 only came + I drew from her until
 near 2 — then out to lunch — back
-+ finished sketch — Miss Lizzie
+\+ finished sketch — Miss Lizzie
 Bullard & her father called —
 About 6.30 I went to the Nicholls —
 had tea + then to Philharmonic

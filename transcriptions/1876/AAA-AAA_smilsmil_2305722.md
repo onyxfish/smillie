@@ -28,10 +28,10 @@ at 2.30 + worked until
 6 as I lighted up my new
 gas fixtures — To tea at
 6.45 — then in to Renner's
-+ about 9 got to F.H.S's —
+\+ about 9 got to F.H.S's —
 there until 10.30 looking
 over his studies in color
-+ charcoal. To bed befor
+\+ charcoal. To bed befor
 11 —
 
 [illegible — entire passage]
@@ -43,7 +43,7 @@ over his studies in color
 Fine day — Bkfst. about 10 —
 Venison steak — my cold
 making me feel stupid
-+ generally miserable.
+\+ generally miserable.
 To church — Thos Hastings —
 heard him preach from
 "The fulness of time" —

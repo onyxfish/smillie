@@ -32,7 +32,7 @@ Unitarian + would-be success-
 or of Boston Theodore Parker —
 but he did not preach — then
 went to Bdway Tabernacle
-+ heard an excellent discourse
+\+ heard an excellent discourse
 by Prof. Shedds on self-seeing
 or Subestigation — After
 services finished writing

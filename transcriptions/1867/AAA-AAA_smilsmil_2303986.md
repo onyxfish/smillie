@@ -65,11 +65,11 @@ sky + mts. At noon, 2 new boarders came —
 middle aged ladies — don't know their names.
 Afternoon, painted in sketch on board
 afternoon effect over Mt. Mt. ledge
-+ meadows — from piazza — worked in
+\+ meadows — from piazza — worked in
 great distress, could n't see for glare
-+ reflected light — but got it done by
+\+ reflected light — but got it done by
 6 o'clt — after a fashion — Eve'g Geo
-+ I walked to the upper Whittaker's +
+\+ I walked to the upper Whittaker's +
 called on Misses Waring + Dr Horne.
 Night clouded over and dark — sat
 up for the mail + Rec'd a letter

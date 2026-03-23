@@ -22,7 +22,7 @@ Quite a snow storm — Got to
 studio about 9.30 + most of the
 mng was spent on Goldung [illegible]
 then on some general sketching
-+ fussing until 1 o'clk. Prep and
+\+ fussing until 1 o'clk. Prep and
 lunch + at 2 went to Phil's
 Rehearsal — Walked up with
 Fanny — back to studio at about

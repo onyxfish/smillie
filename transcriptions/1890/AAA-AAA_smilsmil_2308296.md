@@ -50,7 +50,7 @@ it nearly all drawn in — Then
 we went out riding — called for
 Mr. Garst — she went with us —
 back at 6.30 — Tea — Evefg. Annie
-+ I went down to Judge Jessup's
+\+ I went down to Judge Jessup's
 where we saw the Judge — Mrs.
 J— Louise + May. A little before
 9 we went to Wm. Mueford's and

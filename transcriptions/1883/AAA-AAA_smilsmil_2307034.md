@@ -30,7 +30,7 @@ went down town — Rain beginning
 to fall — Annie in bed — Tea at
 7 — Eveth. E's played cards
 by themselves — I with Annie
-+ news paper — at 10. A. took
+\+ news paper — at 10. A. took
 something to eat. By 11 we
 got to bed —
 

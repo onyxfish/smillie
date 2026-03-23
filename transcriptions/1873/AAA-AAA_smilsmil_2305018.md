@@ -52,7 +52,7 @@ Enoch Lewis and W.T. Richards.
 Before they left, Miss Bound, one
 of George's pupils came in, at
 2.30 went over to the Albemarle
-+ lunched with the Whitney party.
+\+ lunched with the Whitney party.
 Back to studio at 4 o'clk. and
 labored with Miss B. and young
 Slade until nearly — Rec'd a

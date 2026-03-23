@@ -40,6 +40,6 @@ making a very great difference in the plate — I
 bit in the bit of flesh on
 my Ausable plate — Doe
 having taken out the first me — Wm ruled the second
-+ Father brought up the plate last night — not able to
+\+ Father brought up the plate last night — not able to
 work myself, every body seems more than willing
 to help me — Another night like last night —

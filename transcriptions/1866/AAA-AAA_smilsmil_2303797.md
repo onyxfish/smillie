@@ -21,7 +21,7 @@ pages:
 Cold, blue, blustering day,
 mf, walking chopping wind + stfst.
 until 9 o'clk — Too cold, cloudy, wet
-+ windy to work out of doors, so set to
+\+ windy to work out of doors, so set to
 work + painted a new sky on oat
 field study. Am not pleased — it
 is not delicate enough in form & color.
@@ -40,7 +40,7 @@ Ellen Tappan — got colt + Rode from
 5.15 until nearly 6. After tea, by invitation
 we went to Mr. Packermans to hear
 music — The Misses Loop + the Dummys
-+ their guests there — Very informal — Music
+\+ their guests there — Very informal — Music
 violin + piano — Two of Mozarts Sonatas +
 some Chopins + Schuberts — very good —
 jolly walk home — glorious moonlight — bid 12. m[?]
@@ -60,7 +60,7 @@ Mr. Ireland, Georgy S. + Geo. Hawes made us a
 visit — Geo. was at work near me under the Hemlocks —
 we had a very pleasant visit of half an hour.
 Afternoon cold + cloudy again. Took pencils
-+ paper + went over to Higginson's hill on Mt
+\+ paper + went over to Higginson's hill on Mt
 Stockbridge Road + made outline sketch
 of Lake Mahkeenac from the North. Suffered
 from wind + cold. Eve[?], as it promised

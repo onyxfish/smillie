@@ -21,7 +21,7 @@ pages:
 ### July, Sunday 30, 1865
 
 Delightful day. Father, Ge[o]
-+ I walked in to town to hear
+\+ I walked in to town to hear
 H[enry] W. Beecher, at the Congregation[al]
 Ch. — Crowded to its utmost. — Hy.
 Mark 8 — 34. Took dinner + tea with
@@ -52,7 +52,7 @@ Pleasant day — Mf., finished
 Butternut tree Trunk. — In my
 anxiety to have it literal, I
 have made it hard in Color
-+ manipulation — P.M. as there
+\+ manipulation — P.M. as there
 was no sun, outlined Study No.
 6. "Among the Hemlocks", and
 painted over Sky etc. on Study

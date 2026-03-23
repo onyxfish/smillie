@@ -51,5 +51,5 @@ out for a short walk after 6.
 Tea at 7 — About 9 went to
 W.C. Salon + met several friends
 walked [illegible] fifth ave. with Mr.
-+ Mrs [illegible] (Delia Black)
+\+ Mrs [illegible] (Delia Black)
 to 37! S. + to bed before 11.

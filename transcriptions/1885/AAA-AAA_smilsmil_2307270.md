@@ -34,12 +34,12 @@ To bed about 11.
 
 A brilliant day + very cold — To studio at 10 + to work worrying
 over the hill side in Meadow Pond. — Fussed all the morning
-+ could not get what I wanted. — home to lunch at 1 — back at
+\+ could not get what I wanted. — home to lunch at 1 — back at
 2.30 + found Miss Spring waiting for me. after a visit of medium
 duration she purchased a [illegible] of my neighbor's Hurl and for $9.00
 McKeever called — I think that there is trouble brewing between
 him + Gradey — I worked as long as I could see. — then home — dinner
-+ at 8 o'clc at Fifth Ave Theatre +
+\+ at 8 o'clc at Fifth Ave Theatre +
 saw Booth in Hamlet — B. is growing old + made a sad impression on
 me — wrecking the beautiful image in my memory of him as Hamlet
 twenty years ago. His Elocution is still very fine. — superior to Irving's

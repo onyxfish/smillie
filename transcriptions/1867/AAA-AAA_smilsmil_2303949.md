@@ -29,7 +29,7 @@ Roosevelt. Then home + again
 at work on Rosalie G² 6×[illegible]. Putting
 Daisies + Red Clover on the front of it.
 Afternoon, got a double Nasturtian
-+ added that, finishing 3rd day &
+\+ added that, finishing 3rd day &
 out, for the present. At 3 o'clk.
 Rec'd. letters from Charl. Ge² and
 Fan Mulford. After tea, at about

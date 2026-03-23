@@ -36,7 +36,7 @@ Kindled fire + spent most
 of the erly in lounge. Brewer
 made a long call. Took
 a lunch of Graham crackers
-+ tea in studio. At 2. Misses
+\+ tea in studio. At 2. Misses
 Bond + Sterling + yf Slade
 came — I went through the
 forms of giving them their

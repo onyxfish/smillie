@@ -27,7 +27,7 @@ rship in W. C. Soct'y — then to work
 on Sea — Cliffs of Normandy — Miss
 Hallowell + Mr. Larned (?) one
 of the Chicago Efp. Art Com. called
-+ we had a pleasant chat. Home
+\+ we had a pleasant chat. Home
 to lunch + back as usual and
 worked as long as I could see —
 then washed up + had a nap
@@ -51,7 +51,7 @@ Read until near noon — then with
 Annie walked down to the Century.
 Home again soon after 1 — About
 2, Jenny Downs + her son Jack am-
-+ dined with us — the left bet-
+\+ dined with us — the left bet-
 ween 3 + 4 — I took a nap in a
 chair — Between 6 + 7 wrote
 letter to Father — Tea at 7 — at

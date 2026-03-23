@@ -23,7 +23,7 @@ cold as yesterday — Before 10 o'clk I
 started in town + got to the Museum
 at about 11.30 — entrance by back
 door — found S. R. K. in his dep't —
-+ until after 1 o'clk. we looked
+\+ until after 1 o'clk. we looked
 over old prints — especially aqua-
 tints by dePrince & others — Then
 we went out to a restaurant +
@@ -49,7 +49,7 @@ To bed before 11.
 Another dull mt. — B'kfst: at 7.30 — At
 8.30 Annie + I started for the city and
 reached the Providence Station at 9.30
-+ had to wait until 10 for our train — Before
+\+ had to wait until 10 for our train — Before
 noon snow + sleet began to fall — high
 wind — the parlor car draughty and
 uncomfortable — about 1 had a light

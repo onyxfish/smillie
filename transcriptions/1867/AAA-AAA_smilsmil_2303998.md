@@ -59,7 +59,7 @@ dinner, went back to Kiarsarge
 House to work on Moat Mt. study —
 fought with the wind about an
 hour then gave it up — took pencils
-+ paper + got camera-lucida
+\+ paper + got camera-lucida
 outline of bend in River below
 Artists brook — on my way home
 met Champney + had a long chat

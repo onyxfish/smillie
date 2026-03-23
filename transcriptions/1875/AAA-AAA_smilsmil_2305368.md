@@ -19,11 +19,11 @@ pages:
 ### January, Thursday 28. 1875.
 
 Dull day terminating in a horrible storm of sleet
-+ Rain. Got to studio at 9.15 & set to work clearing
+\+ Rain. Got to studio at 9.15 & set to work clearing
 away the accumulation of water color mocks. At 10
 Miss Abbatt came & until 11 I devoted myself to her.
 Then to N.A. of D. Saw Richards
-+ Helpburn & arranged about burner. Bellows at galleries
+\+ Helpburn & arranged about burner. Bellows at galleries
 at 12, back at studio — half an hour with Miss A — Then
 to dinner — back at 1.30
 Painted on 10×14" "Near Bredin's"

@@ -32,7 +32,7 @@ had the man go to the woods in
 the m'f + get a big load of leaf
 mould. This was mixed with
 screened earth + taken to the holes
-+ sifted about the roots of the plants.
+\+ sifted about the roots of the plants.
 By working until 6, I got 30 plants
 set out- Logier working with me.
 Eve'g, some newspaper + some
@@ -55,7 +55,7 @@ decayed — all day was devoted to
 completing a French + drain, improving
 the ground about the roots of some of the
 trees, setting out nearly all the Weigela,
-+ clearing up the terrible confusion
+\+ clearing up the terrible confusion
 as much as possible. At noon I went
 to my etching room + laid a rebiting
 ground upon portions of soft-ground etching.

@@ -50,7 +50,7 @@ passengers — got to Scranton at
 depot at 3.30 — Started in Stage
 a little before 4 + reached Uncle
 Wm's about 5.45 — found all well
-+ was amiably Rec'd — Tea about
+\+ was amiably Rec'd — Tea about
 6.30 — Every Mr. Clark and
 daughter + Mr. Bard called —
 Got to bed at 10.30 —

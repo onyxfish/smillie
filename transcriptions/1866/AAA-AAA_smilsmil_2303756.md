@@ -36,7 +36,7 @@ Josie Bentley + Fanny Mulford
 ### Monday, June 4, 1866
 
 Some Rain in the morning
-+ so Chilly in the Studio that
+\+ so Chilly in the Studio that
 I kindled a small fire —
 By noon however, the weather
 had much modified. Worked
@@ -48,7 +48,7 @@ and on a Sketch by Warren,
 (giving the Sky) that belongs
 to Mrs Greathex. Between
 1 & 2 o'clk. Dr Throop called
-+ I went with him to see an
+\+ I went with him to see an
 operation (dental) performed
 by Dr White, using Nitrous
 Oxide Gas — but the patient

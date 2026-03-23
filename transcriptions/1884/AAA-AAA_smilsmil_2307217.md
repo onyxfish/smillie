@@ -50,5 +50,5 @@ out for a walk — went up to 80° S. +
 5° ave — lovely evely. Rode home —
 in at 6 — Tea soon after 7 — Read
 awhile — then wrote a note to father
-+ one to Wm. Boyd at Montrose —
+\+ one to Wm. Boyd at Montrose —
 To bed before 11.

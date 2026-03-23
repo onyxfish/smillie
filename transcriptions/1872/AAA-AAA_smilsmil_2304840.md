@@ -41,7 +41,7 @@ at 11.45
 ### March Friday, 29 1872.
 
 Partially overcast, but mild
-+ pleasant, got to studio at
+\+ pleasant, got to studio at
 9.15 + to work on drawing of
 Walter Carrier. At 11.30 Mr. De
 Bartlett + Dunham called on

@@ -45,7 +45,7 @@ from 3 to 4.30. Then we went out to see the other
 part of the show — numerous buildings and a
 bewildering lot of all sorts of stuff. All this is
 called a Horticultural Exhibit — many pictures
-+ pieces of statuary, among the other things —
+\+ pieces of statuary, among the other things —
 are soon tired of it + returned as we came
 by underground R.R. getting home at about
 6 o'elk. Kindled a fine — had tea and

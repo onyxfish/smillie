@@ -31,7 +31,7 @@ fooling around + fixing
 mill boards + preparing
 to painting Colgate picture.
 To tea at 7.15 — Meaney
-+ where I got to Dan. Solway
+\+ where I got to Dan. Solway
 — a pleasant call until
 10.15 — thru to 41. 18 +
 to bed about 11.
@@ -42,7 +42,7 @@ to bed about 11.
 
 Beautiful day — Got to studio
 at 9.30 + got to work tracing
-+ outlining Colgate pictures
+\+ outlining Colgate pictures
 (10½ × 19.) Interrupted by
 callers very much + quite
 out of sorts for work owing to

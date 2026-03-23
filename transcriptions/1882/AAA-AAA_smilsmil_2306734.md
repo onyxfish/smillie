@@ -55,7 +55,7 @@ to studio at 2.30 — at about 3 went
 with W.K. to N.A. & there worked
 in the galleries making sketches
 after Eastman Johnson — Bridgman
-+ Dolph. After 6 to studio & Home
+\+ Dolph. After 6 to studio & Home
 at 6.30 — Tea about 7 — Eve'g
 spent quietly & Restfully —
 Got to bed at 10.30 —

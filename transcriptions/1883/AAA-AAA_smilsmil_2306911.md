@@ -34,7 +34,7 @@ took Coupe to foot of Liberty St. +
 then 4 o'clk. Train to Wayne Junction
 — met at station by coachman — got
 to house soon after 6. Jas. Wright
-+ Edith came — dinner about 7 — E.
+\+ Edith came — dinner about 7 — E.
 left early to go to the Hobby Club —
 Jas. W. stayed until near 10 and
 we got to bed about 10.30. Heavy
@@ -57,7 +57,7 @@ The weather cleared in the after-
 noon + there were a number of
 callers — among others, Fanny Wright
 Davis, her husband + baby — also Edith
-+ Marion W. I took an airing on
+\+ Marion W. I took an airing on
 piazza — Tea at 7 — Evening,
 chatting + looking over photos
-+ reading — To bed at 10.30.
+\+ reading — To bed at 10.30.

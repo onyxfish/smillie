@@ -45,7 +45,7 @@ of summer clothes — Home at 6.30 —
 Dinner — wrote a letter to Herrick.
 Nearly went with Annie to Ed'd Cook's
 where P. Fale + wife — Mr. Johnston —
-+ Walter had dined — we chatted
+\+ Walter had dined — we chatted
 until about 10.30 — then home and
 to bed.
 
@@ -60,7 +60,7 @@ drawings of plans for Herrick +
 then began the work of hauling
 things down for the summer — Home
 soon after — lunch — back at 2.30
-+ continued the work of putting
+\+ continued the work of putting
 things away + packing until 4 —
 Then to Keppel's with my last Dry-
 point bls. — then to Bridgeman's +

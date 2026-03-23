@@ -29,7 +29,7 @@ Notch, home. Nothing can describe
 our wonder and pleasure. The col-
 was marvelous — the greys of the
 cliffs — the Russets of the foliage
-+ over all that fine October atmos-
+\+ over all that fine October atmos-
 phere — Gel + I could not find
 vent for our happiness — I took a
 couple of sketches in the Notch +

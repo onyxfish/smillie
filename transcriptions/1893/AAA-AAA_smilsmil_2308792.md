@@ -25,7 +25,7 @@ pages:
 Rain + wind in the early m'f., but fine weath
 er when I got up soon after 6. Bklp. alone at
 7 - then I went to Piazza + made two sketches
-+ got back to Hotel before A + the boys had finished
+\+ got back to Hotel before A + the boys had finished
 their bklpt. Settled accts. + stopped at Albeyo
 Pagano to see the paintings by different visiting
 artists - Then to Piazza before 9 o'elk - + rode down
@@ -46,7 +46,7 @@ to the N. side of the island into smooth water
 Ralph recovered promptly. We made another
 visit to the Blue Grotto + saw more than we
 did yesterday. Then completed our journey
-+ got to the Marina at 12.30 - after a hard tug
+\+ got to the Marina at 12.30 - after a hard tug
 for the boatmen + a very interesting trip for
 us. Got our lunch at a subcaroale of [illegible]
 Suissana - at 1.30 we drove up to Anacapri,
@@ -74,7 +74,7 @@ our room + rested for an hour before dinner.
 
 Fine day - clouds hanging on the mt. Tofas + at
 times spreading extensively - I got up early
-+ before bklp. wrote part of a letter to Kate -
+\+ before bklp. wrote part of a letter to Kate -
 after bklp. finished it - then out + wandered
 about - pleased at some parts just outside the
 old city walls - looked over some photos + but
@@ -85,7 +85,7 @@ but at about 2.10 started in laudan for Pompeii
 horses breaking - Great festa - road thronged
 with people - on foot + in vag[?]s covered with
 green boughs, white sheets + wild flowers - men
-+ women - old + young, decked out in their best,
+\+ women - old + young, decked out in their best,
 many of them promenading in harmonious and
 singing lustily. At one place, in front of a
 wine shop, dancing was going on with great
@@ -97,7 +97,7 @@ is full of very picturesque material but on a
 hazy, sirocco day, after a dry spell of fourteen
 weeks the conditions for seeing it were not favor-
 able. The approach to Castellamare, through
-+ on to Pompeii, is uninteresting - altho' under
+\+ on to Pompeii, is uninteresting - altho' under
 some lights the mts. to the SE might be fine - we
 got to Pompeii at about 4.45 + stopped at the
 Pension Suisse, a mean, prowsy, dirty little place

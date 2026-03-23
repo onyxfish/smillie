@@ -25,7 +25,7 @@ Study No. 9. Painted over left
 hand middle distance — am
 quite pleased with my work.
 P.M. on No. 7. Repainted distance
-+ water + painted out all of the
+\+ water + painted out all of the
 middle-distance trees, preparing
 along to Repainting again.
 Mother Returned from her
@@ -48,7 +48,7 @@ the woods by the River —
 Cold, heavy Rain — Ther.
 this mng. 18° lower than last
 night. Worked over water
-+ scraped down + glazed over
+\+ scraped down + glazed over
 foreground trees on Study No. 7.
 Aunts Mary + Jessie Rill. to
 N.Y. by 9 o'clk train — Chas.

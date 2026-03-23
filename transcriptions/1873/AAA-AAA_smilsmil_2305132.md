@@ -37,7 +37,7 @@ at 10.45.
 
 [A]ttle pleasant weather. Up at 6.30
 Matt am — from Po'keepsie about 7.30
-+ [illegible] from Syracuse, soon after.
+\+ [illegible] from Syracuse, soon after.
 I worked all the m[or]n on drawing
 for Appleton's "Yosemite" and took
 a walk at about 11 — Lunch at

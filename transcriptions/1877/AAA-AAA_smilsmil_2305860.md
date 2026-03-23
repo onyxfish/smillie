@@ -27,7 +27,7 @@ made my painting look very sick. To dinner at 1 — again
 at studio at 2.30. Off the hooks, could do nothing, so
 at 4 o'clk. went to the foundry door, + around Town until Tea at
 6.30 — In eff. Read [illegible] until 8.30 — washed brushes
-+ to bed before 10.
+\+ to bed before 10.
 
 ## Right Page
 
@@ -41,5 +41,5 @@ for a few minutes — George painted beside me — I
 worked until 6 o'clk — Tea at 6.30 — Wetf. called on
 my Coolser's — no one at home, so left our cards sticking in the
 door, then to Alice Stroud's where we found Miss Shemard
-+ Lillie Jessup — left at 10 o'clk
-+ right to bed.
+\+ Lillie Jessup — left at 10 o'clk
+\+ right to bed.

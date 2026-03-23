@@ -40,7 +40,7 @@ Cloudy m'g. but soon cleared to be a brilliant, quiet day — I got to work
 on the biting of aqua-tint "An old dam"
 but was much interrupted — just by the finishing of the mirror corner
 over basin in studio — I oiled the wood
-+ rubbed it down — At 11 I took
+\+ rubbed it down — At 11 I took
 Selim to Barney's + got a saddle,
 saddle-cloth + bridle + then rode
 him home — In the afternoon I

@@ -48,7 +48,7 @@ point + worked until noon.
 Then prepared paper + got
 ready for printing — Dinner
 at 12.45 — Storm cleared away
-+ gave us a wonderfully clear
+\+ gave us a wonderfully clear
 afternoon + night. Most of the
 P.M. spent taking proofs
 Then cleared up my mind.

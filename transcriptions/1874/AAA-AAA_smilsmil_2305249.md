@@ -51,7 +51,7 @@ Worked until near 8 o'clk
 packing his boxes — then
 home — got through my tea
 just before 9 o'clk — Made paste
-+ mounting drawings until
+\+ mounting drawings until
 11 o'clk — Father + Mother
 took dinner at Willis's —
 To bed at 11.20

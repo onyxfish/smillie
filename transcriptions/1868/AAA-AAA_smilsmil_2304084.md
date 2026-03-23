@@ -51,7 +51,7 @@ Painting the middle-distance
 mt. as it comes to the foreground.
 Home to lunch at 1 - back at 2.15
 Painted until 3.30 when Geo.
-+ I went to Brevoort's Room +
+\+ I went to Brevoort's Room +
 took our French lesson. Back
 at 4.45 + continued work until
 5.30 when I could see no longer.

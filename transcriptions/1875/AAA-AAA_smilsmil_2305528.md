@@ -52,7 +52,7 @@ Put in some small figures on the
 extreme left of my big drawing —
 At 2.15 started for down-town.
 Got my lunch + then went to T.
-+ Smith's — with him to Seamen's
+\+ Smith's — with him to Seamen's
 Savings Bank + transferred W.C.
 fund to him as Treas. Then in to
 Charl's — then to Will's — attended
@@ -65,4 +65,4 @@ in — at 6 walked up with him —
 Tea at 6.30 — at 8 went [illegible]
 to Mary's — Will + Minn there.
 Left at 9.30 — To bed at 10.30
-+ had a fair night's Rest.
+\+ had a fair night's Rest.

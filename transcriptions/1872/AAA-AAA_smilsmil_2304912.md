@@ -27,7 +27,7 @@ soon after noon — Dinner
 at 1.30 — all sat under the
 shade trees until about 4
 then Will left — Sunie, Charl
-+ I sauntered out for an hour
+\+ I sauntered out for an hour
 or so — young Baker joined us
 and stayed to tea — 6 o'clk —
 sat on piazza until 9 o'clk

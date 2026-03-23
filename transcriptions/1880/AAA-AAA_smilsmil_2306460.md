@@ -26,7 +26,7 @@ business — Tea soon after 6. Eve'f. called on Bessie
 Riley — the Biddles + Mr.
 Wm Coolper. At 10, J's soon
 after 9 — packed my trunk
-+ got to bed at about 10.30.
+\+ got to bed at about 10.30.
 
 ## Right Page
 

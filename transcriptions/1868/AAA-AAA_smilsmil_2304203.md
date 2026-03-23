@@ -20,7 +20,7 @@ pages:
 
 Dismal day. Spent the m[orning]
 packing + Receiving calls. Elis[on]
-+ Sylvains Mulford + Jas. Carmell
+\+ Sylvains Mulford + Jas. Carmell
 called to see our work — Just
 after dinner I went down town
 to hurry up my new Trunk, which
@@ -40,7 +40,7 @@ hour or more, then in again + waited
 patiently until near 11 when the Erie
 Train came along — Got at once into
 a Sleeping Car, Secured a double berth
-+ passed the night as comfortably
+\+ passed the night as comfortably
 as could be expected —
 
 ## Right Page
@@ -62,7 +62,7 @@ consultation, three [illegible] for
 Took lunch down town and got
 home between 3 + 4 o'clk P. m. —
 Spent the Rest of the afternoon
-+ evg. unpacking trunks +
+\+ evg. unpacking trunks +
 getting things put away — Cef-
 Bradley made a short call
 during the evg. — Got to

@@ -28,14 +28,14 @@ of hours work on block — Home
 to lunch at 1.45 — back at 2 —
 found Mary Willard waiting —
 before she left Dr. Percy came
-+ before he left Ferguson
+\+ before he left Ferguson
 came in — At 6 went to
 Emma D's — Preston D's mother
-+ sister to dinner, — also Miss
+\+ sister to dinner, — also Miss
 "Lil" Howe. — A pleasant and
 chatty evening followed —
 Left at 10.45 — Home at 11
-+ right to bed.
+\+ right to bed.
 
 ## Right Page
 
@@ -57,7 +57,7 @@ wharf. — Lost light early —
 Home to tea at 6 — At 8
 went with Charl up to
 Wills — left Charl there
-+ home at 10.10 — To bed
+\+ home at 10.10 — To bed
 at 10.45 —
 
 old Mrs. Fessenden died

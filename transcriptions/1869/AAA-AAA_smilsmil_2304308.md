@@ -37,7 +37,7 @@ last concert + Schumann's
 "Manfred" with Edwin Booth —
 Immense jam — but I do not
 like the piece — The declamation
-+ orchestra are inharmonious —
+\+ orchestra are inharmonious —
 the audience did not seem to
 think so — Ge. + I walked home
 with the Tweedy girls — Home at
@@ -60,7 +60,7 @@ by the voices was able organist.
 Home + at 12.30 started for Uncle
 [illegible] where I am — Shortly before 2
 wandered about with Uncles W m
-+ [illegible] + Tuney until tea time at 6 —
+\+ [illegible] + Tuney until tea time at 6 —
 After tea a discussion on
 Spirit manifestations which
 detained me until 7.20. Home

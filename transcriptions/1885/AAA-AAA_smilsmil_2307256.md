@@ -77,7 +77,7 @@ Milliliter = .001 = 1 c. centimeter = 0.061 cubic in = 0.27 fluid dr.
 ### January, Thursday 1, 1885
 
 Overcast + weather growing much colder. Got to studio at its usual time
-+ to work on drawing "Outside of a Farm
+\+ to work on drawing "Outside of a Farm
 Yard near Etretat" which I shall
 rechristen "the coming shower — a
 Normandy landscape". I am quite
@@ -95,4 +95,4 @@ St — met there Thos. Dewing + wife (Maria Oakey)
 Mr. + Mrs. Ed[w]d Cook + Miss Williams — we
 had a very pleasant dinner + spent the
 eve[nin]g until near 11 o'clk. Then home
-+ right to bed.
+\+ right to bed.

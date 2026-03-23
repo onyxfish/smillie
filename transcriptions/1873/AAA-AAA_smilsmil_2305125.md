@@ -45,7 +45,7 @@ to Stem's mill, beyond the
 D.S.+W. Montrose depot, two
 miles, and select 1000 feet of
 red oak. Got started at 9.30
-+ took Cotrell with me. Owing
+\+ took Cotrell with me. Owing
 to bad Roads + poor horse, It was
 near 12 when we got over there.
 Stem not there, so Cotrell, another
@@ -55,7 +55,7 @@ out 100 ft. + left it, offering $30.
 for it. The weather had cleared
 charmingly. Set out for home.
 Stopped at depot + bought crackers
-+ cheese. Home about 5.15. Tea
+\+ cheese. Home about 5.15. Tea
 at 6. Every went to P.O. at 8.
 men in to Fan's. Elisha there.
 Home at 10 + to bed at 10.30.

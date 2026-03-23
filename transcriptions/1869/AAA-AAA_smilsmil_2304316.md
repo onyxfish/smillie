@@ -23,7 +23,7 @@ studio. Got there at 9 o'clk and
 set to work on Patis 9×12 — Ausable
 Lake (5th day) Scumbling + thin-
 painting over the sky + distances
-+ repainting down over the fore-
+\+ repainting down over the fore-
 ground — It is now more as I want
 it in light + shade but I cannot
 do what I wish in color. — At
@@ -39,7 +39,7 @@ sat at my window until 6. Then put
 her in an omnibus — Home at 7.15
 at 8, with Charl + Miles Palmer
 went up to Central Park [illegible]
-+ heard Thomas? Orchestra —
+\+ heard Thomas? Orchestra —
 Home at 10.30 + to bed at
 11.45
 

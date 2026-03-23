@@ -33,13 +33,13 @@ with Father + Geo. + called
 on W. Wright — not in — I
 chatted with Mrs. Williams + Hall
 on croquet ground while Fath.
-+ Geo. called on Mr. Loomis.
+\+ Geo. called on Mr. Loomis.
 Tea at 6.30 — At 8, Geo. and
 I called on the Misses Wicks
-+ had a pleasant, chatty
+\+ had a pleasant, chatty
 visit until after 9 — then
 home, wrote for an hour
-+ got to bed at about
+\+ got to bed at about
 10.45.
 
 ## Right Page
@@ -54,11 +54,11 @@ in — then home + to work painting
 an "Adirondack Glimpse" — I in
 at 12.30 — very stupid head.
 — a short nap — then to work.
-+ finally, about 5 o'clk., had
+\+ finally, about 5 o'clk., had
 completed second painting.
 To my sorrow, I cannot think
 it a success. Sponge bath
-+ dressed. At 6.30 went to W.
+\+ dressed. At 6.30 went to W.
 Williams' to tea — W. + Mrs. Jerry
 Wright + Misses Wright + sisters
 Stone there — Geo. came later

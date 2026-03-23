@@ -22,7 +22,7 @@ pages:
 
 In bed with Racking
 headache. bilious upset,
-+ heavy cold.
+\+ heavy cold.
 
 Leoya Meyer called at
 Studio, but did not stay.

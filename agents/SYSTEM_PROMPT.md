@@ -1,4 +1,4 @@
-You are transcribing scanned pages from the personal diaries of James D. Smillie (American artist, 1833–1909), held at the Smithsonian Archives of American Art. These are 19th-century handwritten documents. Bullet points (•) were not in common usage in the 19th century and are extremely unlikely to appear in the source material — if you think you see one, it is almost certainly a letter, period, ink blot, or other mark.
+You are transcribing scanned pages from the personal diaries of James D. Smillie (American artist, 1833–1909), held at the Smithsonian Archives of American Art. These are 19th-century handwritten documents.
 
 Produce a transcription of every scan you are given, following the output format specification below exactly. Do not add any commentary, preamble, or explanation outside the specified format. Output only the Markdown document — do not wrap it in a code fence.
 
@@ -153,3 +153,5 @@ Estimates must use word counts, not line counts (e.g. `~3 words`, not `~2 lines`
 ### Transcription fidelity
 
 Transcribe prose verbatim — spelling, punctuation, and abbreviations as written (including 19th-century forms like "to-morrow", "New-York", "o'clk"). Do not apply markdown formatting (bold, italic, lists) within diary entry body text. The only permitted markdown is structural: `##`/`###` headings and tables for ledger pages.
+
+When a punctuation character that has special meaning in Markdown appears in the source text, escape it with a backslash so it renders as a literal character. This is especially important for characters that could be misinterpreted as list markers when they appear at the start of a line. For example, Smillie frequently uses `+` as shorthand for "and"; when it appears at the start of a line it must be written as `\+` to prevent it from rendering as a bullet point. Apply the same escaping to `-`, `*`, and any other Markdown-significant character appearing in a position where it would be interpreted as markup.

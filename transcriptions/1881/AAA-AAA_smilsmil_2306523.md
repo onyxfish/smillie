@@ -35,7 +35,7 @@ St. + to bed before 11.
 ### January, Saturday 29, 1881
 
 Clear pleasant day — not so cold. Got to Studio at 9.30
-+ began to prepare to paint one picture 1" Approach to the
+\+ began to prepare to paint one picture 1" Approach to the
 Huddle. Lake George". but so many callers came that I did
 not get a chance to begin to paint until after 12 . Mr. Condct
 came + commissioned me to buy a Bridgeman "Lady of Cairo visiting"

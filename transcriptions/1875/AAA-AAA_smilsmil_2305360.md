@@ -53,7 +53,7 @@ Got to work on "Idle Hours"
 and fussed in a weak and
 dribbling way — perfectly
 disgusting. Afraid of color
-+ too ignorant to know what
+\+ too ignorant to know what
 is wanted. To dinner at 1 —
 back at 2 + worked as long
 as I could see — To tea

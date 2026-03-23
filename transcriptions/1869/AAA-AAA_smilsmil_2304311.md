@@ -39,6 +39,6 @@ together oil sketching traps and
 [illegible] + 8th ave. R.R. — Got there at 0 —
 no one at home but the servants — after getting such branches with apple blossoms as I wanted — fixed for work in the Billiard Room — Painted until 12.30 — Then took lunch and at 1 oclk, as I could not work to suit me, started for home with my apple blossoms — Got well met before I got to the 8th ave cars, by a thunder storm —
 reached studio at 2.30 — Started water color sketch of my blossoms by working until 7, finished the sketch of same — Mary, Belle
-+ my Smedy called about 5. P.M. —
+\+ my Smedy called about 5. P.M. —
 did Ned Dunning — + Father —
 Home to tea at 7.30 — Spent the evef with Ill. London News + got to bed shortly before 11 oclk —

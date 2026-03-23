@@ -49,11 +49,11 @@ new viet. (upright) to National
 Currency V's. Home to lunch
 at 1.30 — back at 2.30. Dr. Percy
 called. Jessie Hayland came
-+ I drew from her from 4.30
+\+ I drew from her from 4.30
 until 6 o'clk — Home to tea
 at 7.30. At 8.45. at Mrs.
 Chas. Smith's (Cornice Columns)
 in [illegible]. Helped hang pictures
-+ had a pleasant visit until
+\+ had a pleasant visit until
 11 o'clk — Mew home and
 to bed at midnight.

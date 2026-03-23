@@ -61,7 +61,7 @@ good dinner, thanks to having
 bought one of the waiters — a rest
 after dinner + at 4.30 started out
 with a very fine team of horses
-+ a top buggy — went to Fairmount
+\+ a top buggy — went to Fairmount
 Park + drove along the River side
 to the Nissahicon + along it, beyond
 the old Red Bridge — to 7 miles beyond

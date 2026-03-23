@@ -45,7 +45,7 @@ to bed before 11.
 Delightful day — growing warmer —
 The usual routine of int. of door
 morning work — then to etching room
-+ finished the biting of "Old house" —
+\+ finished the biting of "Old house" —
 Dinner at 1 — after that, cleaned
 my plates + soon after 3 o'clk. Mary,
 Miss Williams Annie Ralph + I

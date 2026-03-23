@@ -84,5 +84,5 @@ a Scimitate of Schumann's Op. 44 was the
 concluding piece — Mrs. Roper + Messrs
 Danuseuther — Miele — Schill + Hartdegen —
 After the music there were light refreshments
-+ a little chatting. We left before 11 — home
-+ to bed at 12.
+\+ a little chatting. We left before 11 — home
+\+ to bed at 12.

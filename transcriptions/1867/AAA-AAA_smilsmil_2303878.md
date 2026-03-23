@@ -67,4 +67,4 @@ a lively time — Matt had a
 call from a Mr. Williams — and
 Hy Foster called, also Dick
 Dorman — he was very jolly
-+ weighs 178 lbs.
+\+ weighs 178 lbs.

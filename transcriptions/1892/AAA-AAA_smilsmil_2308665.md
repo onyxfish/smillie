@@ -26,7 +26,7 @@ train for Carisford where we arr. soon after 10 -
 we left our traps at the station + walked at once to
 the castle. I was very agreeably disappointed in
 finding the castle a more extensive picturesque
-+ interesting ruin from than I had expected it.
+\+ interesting ruin from than I had expected it.
 It is so nearly hidden by trees + overgrown by ver-
 dure of one kind + another that his deadly in-
 taken for a mound overgrown with vines + trees
@@ -44,7 +44,7 @@ ride through hedged lanes + over breezy open
 country was simply delightful - the day was
 glorious + exhilarating - we got to Shanklin
 at 4.25 - left the wagon at the head of the Chine
-+ went down through it - it did not strike me as
+\+ went down through it - it did not strike me as
 a very impressive or lovable hole - View out
 on the sands - tide out - very mursy - then up
 on the cliff - glorious, far-stretching view over the

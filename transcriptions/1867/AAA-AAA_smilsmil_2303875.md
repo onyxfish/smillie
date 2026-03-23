@@ -63,7 +63,7 @@ one went to N.A. of D. Reception.
 Dr. Dunning called at Studio — I
 of course at home — Clafes
 called with p/p of Marshall's
-+ Carpenter's heads of Lincoln.
+\+ Carpenter's heads of Lincoln.
 Wants a puff for Marshall —
 no doubt he would like it at
 the expense of Carpenter —

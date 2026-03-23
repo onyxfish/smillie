@@ -27,7 +27,7 @@ came to the Studio. We got
 up a very informal lunch.
 Then Geo. went with Fanny to the
 St. N. Mrs Miss Hurd went home
-+ Josie, Salome + I went off looking for pictures. Reached St.
+\+ Josie, Salome + I went off looking for pictures. Reached St.
 N. about 3.30 P.M. Just in time
 to bid Fan. + Miss Diven good bye —
 off for Phil. Washington — then
@@ -36,7 +36,7 @@ to the Opera "L'Africaine" — Dan
 Sayre — Joe Williams. Kate Searle
 Salome W. + Mrs Hurd formed
 the party — After Opera Dan
-+ Mr. N. went home — Dr. Lighthill
+\+ Mr. N. went home — Dr. Lighthill
 joined our party one went
 to Delmonico's — I got
 home shortly after 1 o'clk
@@ -52,7 +52,7 @@ storm — Did not get up until abt.
 breakfast at about 12 — Afternoon
 worked on Stay of Acad. pic. (2nd
 day). The fever of fear — short time
-+ much to do, is beginning to set
+\+ much to do, is beginning to set
 in — Evng. Uncle Willies
 took tea at the Studio with Father.
 He is going to Ottawa City on

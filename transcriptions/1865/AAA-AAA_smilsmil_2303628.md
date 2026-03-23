@@ -24,7 +24,7 @@ warm, breezy + clear. Drove auto town
 this mrf with Father + got valise from
 R.R. Station, etc etc. Saw Mary Mat—
 at their boarding house — drove down to
-+ about Springside. About Sunset
+\+ about Springside. About Sunset
 saddled horse + rode up to near the
 top of "Elle's Hill" — fastened horse + clambered
 up the Rest. Sunset was charming, over

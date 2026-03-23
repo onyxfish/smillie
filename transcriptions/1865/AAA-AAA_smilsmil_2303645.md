@@ -38,7 +38,7 @@ Sport — Crossed the River — water
 rough — Rain falling — all that I
 could do to keep my balance —
 A bath — dry clothes, then dinner
-+ an afternoon flute acc't.
+\+ an afternoon flute acc't.
 Cleared off bright.
 
 ## Right Page

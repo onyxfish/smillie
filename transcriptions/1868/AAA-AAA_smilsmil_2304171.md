@@ -35,7 +35,7 @@ the m'f, observing the forms & color
 about me. — Enjoyed exceedingly the
 delicious air, color + all about me —
 happy, just to sit + absorb the beauty
-+ fulness. — I feel at times, unworthy
+\+ fulness. — I feel at times, unworthy
 the glorious privilege of living + enjoying.
 Evef, among other things, amused ourselves
 with Planchette — in answer to the question

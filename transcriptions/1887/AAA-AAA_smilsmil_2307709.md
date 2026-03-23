@@ -44,7 +44,7 @@ had a very good dinner in a Dining Room
 car attached to train. Dining meeting at
 the depot + was with us while the body was
 being transferred — we crossed E. 23d S. Ferry
-+ got to Greenwood Entrance at 3.40 — there
+\+ got to Greenwood Entrance at 3.40 — there
 we met Dr. Elder who went to the grave
 with us — nearly 4 when we got there — a
 short invocation — then the burial — we
@@ -65,7 +65,7 @@ Every went to Dr. Yale's — not in — To bed at 10.
 
 After a restful night up at 7.30. Bkfs.
 at a little before 8 with Edw. Geo., Walter
-+ Valentine — left the house at 8.10 and
+\+ Valentine — left the house at 8.10 and
 stopped at O'Neill's for a pair of Rubbers
 got away comfortably on No. 3 — 9 A.M.
 Train — and dined at Scranton — the
@@ -73,9 +73,9 @@ latter part of the ride rather hot +
 dirty + my head threatening to ache.
 Got to M. depot on time — Livery Stable
 buggy waiting for me — Had a quick
-+ delightfully refreshing ride home
+\+ delightfully refreshing ride home
 where I am. at 4.15 finding Annie
-+ Jim all right. I spent what
+\+ Jim all right. I spent what
 remained of the afternoon loafing
 about — delightful moonlight evg
 was spent upon piazza until 10 o'clk

@@ -37,7 +37,7 @@ the bank of the lake — The 2 E. had
 on Round Pond, was to me very fine
 walking through the woods we ate
 lots of berries, Moose, Goose, black
-+ blue — got to Scotts + at work on
+\+ blue — got to Scotts + at work on
 the view looking to Indian Pass
 by 3.30 P.M. C. G. E. + J — I endeavored
 to work with ole Color + pegged away
@@ -58,11 +58,11 @@ to bed about 10° —
 
 another superb day — Up at 6.
 adopted, got outline sketch of Miss
-+ at 8 off for this place. 5 miles. with
+\+ at 8 off for this place. 5 miles. with
 a cart wagon, the party walking and
 riding by turns until we got to John
 Brown's — I made a sketch of house
-+ surroundings but did not go to the
+\+ surroundings but did not go to the
 grave. C. + wife Florence S. G.E. + J.
 rode on, the Rest of the party went
 up to the house + grave — We got to

@@ -31,9 +31,9 @@ Packed up drawing + left it to
 be called for then home abt. 4.0
 to dinner — after that a short
 rest, then packed our bags
-+ soon after 3 Annie + I went to
+\+ soon after 3 Annie + I went to
 G.C. Depot, great rush of people
-+ by 3.45 train started for Richfield — reached there shortly
+\+ by 3.45 train started for Richfield — reached there shortly
 before 6 — rode right up to the
 house. Dr. A. still in N.Y. Soon
 had tea — then sauntered in
@@ -56,7 +56,7 @@ out on the road for nearly an hour,
 then back + at 10.30 went with
 Annie to the Episcopal Ch. Heard
 Rev. Mr. Henry preach on the command to love — met Alden Weir
-+ a younger bro. at the ch. — They
+\+ a younger bro. at the ch. — They
 walked to Dr. A.'s with us — Alden
 told Annie that he was engaged
 to be married — Near 3 before

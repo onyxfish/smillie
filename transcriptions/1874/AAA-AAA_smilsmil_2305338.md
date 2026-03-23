@@ -23,7 +23,7 @@ Got to Studio at 9 o'clk. + to
 work on "Meadow near Beede's"
 (5th day.) Worked until 12.30
 then to dinner — back at 1.30
-+ worked until about 4.15
+\+ worked until about 4.15
 when I got over it all — S2.
 came in for a few minutes.
 At 4.30 I went down to Inds
@@ -46,7 +46,7 @@ a 10×14 "on the Housatonic River" —
 Rubbed it in regardless — went
 to dinner at 12.30 — Back at
 1.45 — worked for an hour or so
-+ got painting all in — then washed
+\+ got painting all in — then washed
 up + at 3.30 geo. + I started for
 foot of Liberty St — took 4.30
 train to Plainfield + got to the

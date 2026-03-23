@@ -50,7 +50,7 @@ Spent all of the day Charcoaling
 and outlining subjects — most
 of the day upon 14×20 in. up-
 right canvas "Old Spruce Trees
-+ Storm among the Mountains".
+\+ Storm among the Mountains".
 The trees are almost literal
 transfers from a pencil study
 that I made on the Hudson

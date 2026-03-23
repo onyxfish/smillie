@@ -26,8 +26,8 @@ until after 11 — Then wrote a
 note to Father. Went down the
 hill — at 12 — bid Priscilla Porre
 good bye — then went to Catrell's
-+ paid him $50 — then to Jahn
-+ bid Mary, Jut Reed good bye —
+\+ paid him $50 — then to Jahn
+\+ bid Mary, Jut Reed good bye —
 Then up to dinner at 1.30 —
 Worked on drawing until near
 5 o'clk — Then to stable + gave
@@ -38,7 +38,7 @@ to foot — dressed — at 7.15 at
 Mr Jessup's — tea party —
 There until near 11 — had a
 moonlight walk with Fau
-+ Miss Walbridge — to bed
+\+ Miss Walbridge — to bed
 at 11.30 —
 
 ## Right Page
@@ -50,7 +50,7 @@ to work shortly after 9 and
 stuck to it fairly until 10 clk
 thru dinner — Again at
 work on S.A. Reader drawing
-+ got it done about 4 o'clk —
+\+ got it done about 4 o'clk —
 Then Fau + Miss Walbridge
 Salling called — At 5 o'clk
 I went out on Tom with G.P. —
@@ -60,7 +60,7 @@ at 6.45 at Fau M's to tea.
 After tea, got my drawing
 packed + in the Exp. Office.
 Josie Buttly + Henry came in
-+ we had cards until after
+\+ we had cards until after
 10 — then all out + walked up
 on the hill + went into my
 studio — Glorious moonlight

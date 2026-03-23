@@ -54,7 +54,7 @@ Spent the afternoon working
 in Water Colors. Finished
 a sketch for Miss Place.
 At 4 went to Riding School
-+ rode Charlie's new horse
+\+ rode Charlie's new horse
 — Servant — at to. to 37' S'. + at
 6.45 to 38' S'. Annie having
 a very bad cold did not go

@@ -27,7 +27,7 @@ came home he brought up Geo's plate all Ruled —
 I varnished it — worked until after 7 — Geo. went up to
 Colgates — Riverdale — to stay over night — some rain
 about 6 — Every tired and did but little — figuring columns
-+ accts — got to bed at 10 [illegible — ~3 words] and had some [illegible] new [illegible] and [illegible] and [illegible — ~3 words] and [illegible — ~3 words] — [illegible — ~2 words] and [illegible — ~3 words]
+\+ accts — got to bed at 10 [illegible — ~3 words] and had some [illegible] new [illegible] and [illegible] and [illegible — ~3 words] and [illegible — ~3 words] — [illegible — ~2 words] and [illegible — ~3 words]
 
 ## Right Page
 

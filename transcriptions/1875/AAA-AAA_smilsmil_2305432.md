@@ -24,7 +24,7 @@ Father — In before 9 — My head
 still very uncomfortable — I
 spent a good part of the
 m[orning] reading newspapers
-+ did a little writing on the
+\+ did a little writing on the
 correspondence that has now
 got away ahead of me. —
 Dinner at 12.30 — After

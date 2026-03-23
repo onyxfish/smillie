@@ -26,13 +26,13 @@ came + in half an hour Father was much
 cheered. Mother was slightly out of sorts.
 After 11 when I got to studio — no spirit
 for work. Rec'd a second letter from Fred.
-+ wrote a reply to it. Home to lunch
+\+ wrote a reply to it. Home to lunch
 at 1.15 + did not get back to studio until
 3.15 — no work accomplished in the
 afternoon — I feel so springy that I can
 hardly move. Home to dinner at
 6.30 — Evef. Charl. Geo. + Nellie came
-+ later Dr. Y. with his pump, hoping to
+\+ later Dr. Y. with his pump, hoping to
 tap Father but he (?) was too timid + it
 was deferred until the mtg. To bed
 before 10.
@@ -55,10 +55,10 @@ Studio, stopping at P.O. Station + getting money
 order to pay taxes on Adirondack Property #3.50 —
 Home again at 1.30 — lunch — then waited
 until 3 — carriage — went with Father, Mother
-+ Kate to the Station — met Kate there — El. Father
+\+ Kate to the Station — met Kate there — El. Father
 went up with Father + Mother, who got off without
 fatigue or excitement — at 3.30 — then Rec'd home
-+ wrote to Chas. H. Hart, Estes + Lauriat + others. To
+\+ wrote to Chas. H. Hart, Estes + Lauriat + others. To
 studio at 5 — went to Ranger's Room + met him
 — his wife + Walker, his Room mate — Home at
 6.30 — lonesome — dinner — Charl came in

@@ -53,10 +53,10 @@ Mr. H. + Miss Parker came in —
 about 2 Ret. to studio — then
 again to N.A. Made sketch of
 Placid painting — Ret. to studio
-+ finished it with pen + ink for
+\+ finished it with pen + ink for
 "The Graphic" — Dielmant Wallen
 called — Tea at 7 — went to Kunio's
-+ got some money — then to Sturt.
+\+ got some money — then to Sturt.
 H. + spent rest of evening with
 Jan — Dr. Ben. + Ge. — to
 41 S. + to bed about 11.

@@ -46,7 +46,7 @@ with us — To bed at 10.30
 Very pleasant day — At 10.35
 Uncle A. + I took trains + at
 11.5 got to Rhinebeck — Ferry —
-+ at 11.40 horse car from Rondout
+\+ at 11.40 horse car from Rondout
 to Kingston — got there at 12
 15 + called on Mr. Schoonmaker,
 then a short walk + back to
@@ -55,7 +55,7 @@ the old Pardee House, now the
 very good dinner. At 2 o'clk.
 we called on Mrs. Hardenberg
 (Elizabeth Holmes) + spent an hour
-+ a half there — then cars to Rondout
+\+ a half there — then cars to Rondout
 Uncle A. went to Andersons, I called
 on Jervis Mr. Rutee + had a very pleasant
 chat with Mrs. M. E. + then walked

@@ -64,7 +64,7 @@ dance gone through with to the
 great delight of Willie, Katie and
 other larger children. Tea at 7 —
 at 7.30 W.H. Toomis + lady called
-+ chatted pleasantly for half an
+\+ chatted pleasantly for half an
 hour or more — Uncle W.'s family
 left at 9.30 — ab't o Charl + I went
 out + had a long moonlight tramp —

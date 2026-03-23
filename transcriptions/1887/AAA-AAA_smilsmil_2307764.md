@@ -23,7 +23,7 @@ went down to 25° last night and
 was still below freezing when I
 got up. My dark room water pipe
 burst over the etching room windows
-+ flooded out + in. The day was so
+\+ flooded out + in. The day was so
 fine that I spent most of the time
 out of doors, climbing trees to see about
 cutting out dead wood etc. etc. The

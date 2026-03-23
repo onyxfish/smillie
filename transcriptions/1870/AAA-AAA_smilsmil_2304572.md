@@ -20,7 +20,7 @@ pages:
 
 mixed, sunny + thick — and so [illegible]
 my head — At 9 o'clk, went down town
-+ saw Will about a little drawing on
+\+ saw Will about a little drawing on
 wood that the A.B.N. Co. wish me to do.
 Then up to Sauthier's. Schaus'. [illegible]
 Kelly's + Brooks Bros where I ordered

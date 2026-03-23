@@ -19,7 +19,7 @@ pages:
 ### Sept. Sunday, 20 1868
 
 Up about 7.30 — driving wind
-+ rain — to all appearance
+\+ rain — to all appearance
 the equinoctial — Soon started
 a fire + by its pleasant warmth
 leisurely dressed + then wrote

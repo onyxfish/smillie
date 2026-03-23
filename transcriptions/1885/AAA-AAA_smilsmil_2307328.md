@@ -62,4 +62,4 @@ Ingrahm + letter to Father — Tea at 7 —
 Evef. wrote a note of sympathy to Wm
 Bassett on the death of his wife. Went to
 depot with letters at 10.30 — then home
-+ to bed soon after 11.
+\+ to bed soon after 11.

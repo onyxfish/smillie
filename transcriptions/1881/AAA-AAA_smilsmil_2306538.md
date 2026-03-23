@@ -27,7 +27,7 @@ the story of Christ's visit to the
 house of Lazarus as a lesson —
 Then again to studio + mat.
 until near 2, then to auntie's
-+ had dinner — at 4.30 we
+\+ had dinner — at 4.30 we
 went to 106 Mad. Ave. + called
 on Father + Mother — Found Ed.
 Parker there. — Home to tea at
@@ -41,7 +41,7 @@ Rain.
 ### February, Monday 28, 1881
 
 Dark, Rainy + foggy with thunder
-+ lightning in the afternoon and
+\+ lightning in the afternoon and
 snow at night. — Got to studio
 at 9.30 + in spite of the darkness
 commenced a repainting on
@@ -52,7 +52,7 @@ improving it — Lunch at 2 —
 at 4.30 went to 56' S. + rode
 horseback — after it had
 my usual scrub + to studio
-+ had tea at 7.30 — Spent
+\+ had tea at 7.30 — Spent
 the rest of the evng there
 writing — To 37' S. + to bed
 at 11.30.

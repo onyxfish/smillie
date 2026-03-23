@@ -60,4 +60,4 @@ go to Europee on Mrs. [illegible]. Then
 to 116 E. 39. St. (Hunt's) — out — then
 to 597 5th Ave. (Charle's) — out — out got
 my ½ doz. of port — then to 37. St.
-+ to bed soon after 10.
+\+ to bed soon after 10.

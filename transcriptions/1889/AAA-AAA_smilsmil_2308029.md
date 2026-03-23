@@ -58,5 +58,5 @@ then went to Jno. Waring's in 16th St. — got
 check from him $19.82 for some etching
 p[l]s. It was 6.30 when I got home
 to dinner. Evey wrote to Herrick
-+ read "Uncle Remus" — To bed
+\+ read "Uncle Remus" — To bed
 soon after 10.

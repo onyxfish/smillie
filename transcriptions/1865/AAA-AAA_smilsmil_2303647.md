@@ -66,7 +66,7 @@ G. & Mary — Fanny Mulford + Mrs.
 Salome Watrous spent a couple
 of hours on fair ground in the
 afternoon — Mrs. W. took tea
-+ spent the eve'g with us —
+\+ spent the eve'g with us —
 Eve'g Illumination + Band at
 fair ground — Did not go —
 Dan. S. + Jos. M. called + took

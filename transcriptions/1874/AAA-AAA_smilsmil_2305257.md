@@ -26,9 +26,9 @@ heard the Regular minister
 preach a Regular sermon.
 After service wandered
 around — caught in a shower
-+ went into Jan's — Dinner
+\+ went into Jan's — Dinner
 at Mr. L's after 1 o'clk, Sat
-+ chatted with Mr. Mercer
+\+ chatted with Mr. Mercer
 — saw Uncle Al, V. + Gus + I
 went off + had a walk with
 him — wrote a letter home

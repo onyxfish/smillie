@@ -28,11 +28,11 @@ Will — then to H.N.V.'s + had
 dinner — at 3.30 to Annie's
 — there until after tea — then
 at 8.30, we went to the Berkley
-+ called upon Mr. + Mrs. Shuminger
-+ Mrs. Wayland — after a call
+\+ called upon Mr. + Mrs. Shuminger
+\+ Mrs. Wayland — after a call
 of an hour or more returned
 to 37th S. — left there at 10.30
-+ to bed at 11.
+\+ to bed at 11.
 
 ## Right Page
 

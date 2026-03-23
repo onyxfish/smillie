@@ -56,7 +56,7 @@ of life + times of his father. - I left him at
 12 o'clk? to our lodging - after that, a nap.
 Then A - the boys + I went to Miss Joshay's
 lodgings + with her we went to the Arc d'Triole
-+ climbed to the top of it from whence we had
+\+ climbed to the top of it from whence we had
 an admirable view - saw Mrs. Carnot and his
 escort of Cavalry return from the Review and
 then if we did not see any considerable mili-
@@ -90,7 +90,7 @@ wandered among the crowd for some time -
 then took it again + drove thro' the Boulevards
 back to the Place de la Concorde - + up the Champs
 Elysees - every where great crowds of people
-+ cabs - the seats + tables of the cafes encroach-
+\+ cabs - the seats + tables of the cafes encroach-
 ing upon the roadways - bands playing at
 certain places + now + then dancing, which
 became more general later - we got home

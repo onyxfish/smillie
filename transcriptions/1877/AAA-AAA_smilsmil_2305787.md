@@ -50,9 +50,9 @@ ant day — Soon after 9 when
 I got to studio — worked
 all the mrng enlarging the
 boundaries of Colgate pictures
-+ at 1 to lunch — back at
+\+ at 1 to lunch — back at
 2 — Miss Boyd Ret'd — very study
-+ Mr. Colgate (14) + Hail (8)
+\+ Mr. Colgate (14) + Hail (8)
 came for a Regular lesson —
 worked with them until
 after 6 — after 7 when I got

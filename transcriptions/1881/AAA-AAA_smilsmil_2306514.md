@@ -51,7 +51,7 @@ at 5 out for a walk — called
 on Mr. Parker, 106 Madison Ave,
 to studio — Tea at about 7 —
 at work mounting sketch
-+ fixing frames until 9
+\+ fixing frames until 9
 then to Annie's — there
 until 10.30 — then to
 37t S. + to bed.

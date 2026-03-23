@@ -46,7 +46,7 @@ the studio spent in putting away
 things + clearing up preparatory
 to a new line of work — getting the
 Water Color impedimenta out of the way
-+ preparing for a few days of oil paint-
+\+ preparing for a few days of oil paint-
 ing before resuming my etching work.
 Home to lunch as usual + back.
 In the afternoon I worked over some

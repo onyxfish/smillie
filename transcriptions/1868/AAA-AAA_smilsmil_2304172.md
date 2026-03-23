@@ -19,7 +19,7 @@ pages:
 ### August Sunday, 23 1868
 
 Another warm day — cloudless
-+ somewhat hazy — Up early, but
+\+ somewhat hazy — Up early, but
 did not get off [illegible] until 9 o'clk —
 Went to Church with the Misses
 Sneedy [Presbt.] + heard a sermon

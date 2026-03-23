@@ -27,7 +27,7 @@ At 1.30 home. Matt + Kate here to lunch. Joe also. The girls came
 from P'k this mtg + return this P.M. To studio's at 3.15 + made
 sketch for 3° Osgood. Sketching ill. Emerson's Apology. — To
 tea at 7 — Rest a quiet, steady rain. Will + Joe called
-+ spent the evng. To bed at 10.30.
+\+ spent the evng. To bed at 10.30.
 
 ## Right Page
 

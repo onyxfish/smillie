@@ -27,7 +27,7 @@ in parts + re-biting in others —
 also a rebiting ground on a
 part of No. 25 — Dinner at
 afternoon, did some etching
-+ biting but was so out of sorts
+\+ biting but was so out of sorts
 that I could not finish it —
 Soon after 5 Rode down to Park's
 where Annie was + we rode
@@ -55,7 +55,7 @@ after 5.30 before we got started
 on our ride — Then over Dules
 around the lake + home in less
 than an hour — I rode down town
-+ got a little kerosene stove to
+\+ got a little kerosene stove to
 use while printing — Tea
 about 7.30 — fixed [illegible] paper for
 printing to-morrow — Then sat

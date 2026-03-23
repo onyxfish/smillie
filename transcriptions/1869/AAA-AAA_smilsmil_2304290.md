@@ -30,7 +30,7 @@ drawing of subject that I am
 to engr. for Mr. Pate — The Upper
 Ausable lake from a slide of
 the Mt. — At 1.30 home to lunch
-+ at 2.15 Rode down to [illegible]
+\+ at 2.15 Rode down to [illegible]
 Rehearsal — back to studio
 at 5 + worked on charcoal
 drawing until 6.15 — Home

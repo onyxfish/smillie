@@ -28,7 +28,7 @@ A.B.N.Co — made a call on Mr.
 Lloyd + on father + got back to
 the Studio at 12. Home to lunch
 at 1, back at 2.15 Bit in sky
-+ worked with graver + burnisher
+\+ worked with graver + burnisher
 during Rest of p.m. Home
 to tea at 7. The girls all off
 during the eveg to see Nellie

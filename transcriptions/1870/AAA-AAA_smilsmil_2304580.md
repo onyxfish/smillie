@@ -59,9 +59,9 @@ excellent — out at 4 o'clk —
 Up to Studio with Mary, Belle,
 Florence TMV? Tom Tweedy and
 are at 5 — walked over to 14th &
-+ 2d ave, with Belle — then to
+\+ 2d ave, with Belle — then to
 Waverly R — with Mary + Florence —
 then to Brooks Bros. — then home
 to tea at 6.30 — Went to Burgraff
-+ Reading Paper — Will + Jac
+\+ Reading Paper — Will + Jac
 called — To bed at 10.45

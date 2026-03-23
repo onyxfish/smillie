@@ -32,7 +32,7 @@ ings, etc — fixing Miss Albatt's [illegible]
 into its frame — etc — etc — Dinner
 about 6.45 — Quite surprised
 by calls from W. + Mrs. Ehninger
-+ Mr. + Mrs. Saml. Coleman, who
+\+ Mr. + Mrs. Saml. Coleman, who
 stayed until near 10 o'clk — so
 I did not go to Private View or
 Century — but to bed at 11 —

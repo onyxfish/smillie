@@ -22,7 +22,7 @@ Rain in the mng but cleared about 10 — growing colder +
 windier all day — to studio at 10, then to N.A. at a general
 work but especially making pen
 outlines for catalogue — Ed. Megon
-+ others called — I did not get
+\+ others called — I did not get
 to studio to lunch until 2 o'c
 Back to N.A. after 3 — there as
 long as I could see — then to
@@ -44,7 +44,7 @@ Pleasant, but cold — to studio
 about 9.30 — to N.A. at 10 + found
 that Church + Magrath had put
 up much of the work in the Black
-+ White Room altho' I asked
+\+ White Room altho' I asked
 them to leave that until I was
 present. I feel it to be an intentional insult to me. I insisted
 upon some changes — but the
@@ -63,6 +63,6 @@ at 6.40 — at 8 — 9 o'c + I took
 [illegible] C + Fanny K. to then Club.
 I went to N.A. meeting for a
 little while to anatomical lects
-+ Mr. Wood went to my studio
+\+ Mr. Wood went to my studio
 with me at 9.30 — at 10.30 I
 went to 41 St. + to bed.

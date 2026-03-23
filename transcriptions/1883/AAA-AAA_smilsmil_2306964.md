@@ -21,7 +21,7 @@ pages:
 A sweltering, hot day — got to
 studio before 10 + to work on "Home
 corner" — had it in the acid twice
-+ cleaned off the ground at 12.30.
+\+ cleaned off the ground at 12.30.
 Home soon after 1 + had dinner —
 at 2.30 went to Barber's at Park
 Ave Hotel + spent an hour under
@@ -35,13 +35,13 @@ which I intend to send to Mr.
 Fred Condit — did not finish
 the mounting — Home at 7 +
 had tea — Westf., lounging
-+ trying to keep quiet + cool —
+\+ trying to keep quiet + cool —
 wrote a short note to Miss
 Abbatt — To bed before 11. —
 This I wrote + prepared to go to bed
 but at Annie's request I went for
 Dr. Husk — I found him at Dr. Janvier's
-+ brought him to the house — he pronounced
+\+ brought him to the house — he pronounced
 labor half over — Annie had had pains
 from 8 o'clk. but had not told me of
 
@@ -73,6 +73,6 @@ before 10 A.M. — Dinner about 1.30 — intensely hot
 weather — Tried to get some sleep — a
 heavy thunderstorm between 4 + 5 p.m. —
 Before I went to Bank — to Putnam's — to Dunlap's
-+ to go's in 28th St. + saw Nellie — Evtf.
+\+ to go's in 28th St. + saw Nellie — Evtf.
 wrote a lot of notes + got to bed at
 about 11.

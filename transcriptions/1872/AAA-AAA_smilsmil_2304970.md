@@ -50,7 +50,7 @@ at 2.30 went to Knoedler's
 got brushes etc — etc. back
 about 3. Traced 4 0-8-
 [illegible] — wrote to Mr Hirch Lewis
-+ note to Jas Sutton — at
+\+ note to Jas Sutton — at
 5.30 went over to Y.M.C.A.
 home at 6. Matt, Mary,
 Willie and from Po'keepsie

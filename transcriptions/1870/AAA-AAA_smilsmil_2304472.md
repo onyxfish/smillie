@@ -27,13 +27,13 @@ hour or so enjoying my clean
 Room. Home to lunch at
 1.30 — back at 2.15 — All the
 afternoon, Tracing, Transferring
-+ painting in Water Color, the
+\+ painting in Water Color, the
 title "Dark against day's
 golden death" on the inner
 flat of my frame, where I
 think it looks well — Col
-+ Mrs. Jas. Fairman visited me
-+ praised the work — At 6.45 for
+\+ Mrs. Jas. Fairman visited me
+\+ praised the work — At 6.45 for
 a moment called on Muma S. —
 then home to Tea at 7.15 —
 Eve'g, Reading + helping father
@@ -49,10 +49,10 @@ Overcast day — Up early and
 at 8.30 went to Gauthier's with
 father's die [illegible] — arranged for
 passe-partout. Then to Snedecor's
-+ at 9.30 to Studio — washed [illegible]
-+ over it with Siccatif de Harlem and
+\+ at 9.30 to Studio — washed [illegible]
+\+ over it with Siccatif de Harlem and
 oil — tinkering with slight glazings
-+ scumblings — Hardly fair to charge
+\+ scumblings — Hardly fair to charge
 another day to it (25th day) as much of
 my time was given to callers — Mr. [illegible]
 gentleman + wife. Young Clinton + mother +
@@ -60,7 +60,7 @@ Miss Bascombe called during the
 m'f. Home to lunch at 1.30 back at
 2.20 — Misses Tiffany, Goddard, Kate
 Fessenden + Miss Fleming. Muma S.
-+ Fanny Kimball + Fairman's pupils
+\+ Fanny Kimball + Fairman's pupils
 called — Home to Tea at 7 —
 Eve'g Reading + copying
 letter for Muma — got to bed

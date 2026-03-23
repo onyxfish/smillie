@@ -21,7 +21,7 @@ pages:
 A march-like day, but very
 cold with flying rain + snow
 flurries — Bkft. after 9 — Annie
-+ I went to Dr. Vincent's. Cor.
+\+ I went to Dr. Vincent's. Cor.
 Park Ave. + 35th S. + heard a
 begging sermon — took Annie
 home, then by 3d Ave. Elevated

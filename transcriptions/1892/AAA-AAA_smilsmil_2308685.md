@@ -25,15 +25,15 @@ on Morgan plate in the m'f + got it
 ready for the printer. Then out + had
 a walk before dinner. In the after-
 noon, while A. has gone to Hampstead
-+ the children were in the Park I gave
+\+ the children were in the Park I gave
 way to my feelings + took a nap. Then
 a walk before tea. Clara came at 7.30
 to stay with the children + we went to
 the Criterion Theatre. A little Operetta —
 "Bon Miguonette" — 3 characters — mildly am-
 using — after that "Cup Dominos" — very clever
-+ very funny — a characteristic French plot
-+ construction + equally characteristic English
+\+ very funny — a characteristic French plot
+\+ construction + equally characteristic English
 setting — all the actors were clever. Joskins
 Tubbs, a toad under a harrow, his wife, was
 very funny (Alfred Maltby). Mr. Tubbs, Mrs
@@ -41,7 +41,7 @@ fanny Robertson, was wonderfully fitted
 by nature for her part. The last act was a
 bewildering maze of comic + rapidly shift-
 ing situations. Out at 11 — home at 11.30
-+ then took Clara around to her home and
+\+ then took Clara around to her home and
 got to bed at 12.
 
 *Morfan — 2. h.*

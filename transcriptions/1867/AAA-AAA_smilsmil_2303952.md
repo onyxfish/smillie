@@ -30,7 +30,7 @@ the dogma of original sin — Said
 that Christ had no water — merely a
 laying on of hands — Rite was not prac-
 ticed in the early history of the church —
-+ that it was a great mistake to consider
+\+ that it was a great mistake to consider
 it a legitimate successor to the Rite of
 circumcision — thought that it was a beautiful
 dedication — should be the spontaneous

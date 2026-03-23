@@ -35,7 +35,7 @@ a room papered a delicate blue.
 ### Tuesday 5.
 
 Cloudy, muggy m[orning]. P.M. Clear
-+ delightful — Still kept about
+\+ delightful — Still kept about
 the house by my foot.
 Painted on 10½ × 18. worked
 over the large groups of

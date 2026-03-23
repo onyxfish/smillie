@@ -29,7 +29,7 @@ Riding — back at 6 — dressed, +
 Annie + I went to Judge [illegible]
 Jessup's to tea where we met a
 number of elderly young people
-+ spent the evef. pleasantly until
+\+ spent the evef. pleasantly until
 after 10 — then home + to bed at 11.
 
 [illegible — entire passage]

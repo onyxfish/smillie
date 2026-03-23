@@ -22,7 +22,7 @@ pages:
 
 At home — Powerful weak — Pencilled on Summer Study, Old Birch
 (No. 2) Haines Ravine —
-+ finished pen sketch
+\+ finished pen sketch
 "On the Hill side —
 Dr. Bartlett vaccinated ½ doz
 of us — myself among the rest,

@@ -41,7 +41,7 @@ Camera-lucida from large one.
 
 Afternoon, finished up little
 Sketch 5½ × 7 in. for Miss Gordon
-+ worked awhile on M. Smith's
+\+ worked awhile on M. Smith's
 morning — Kate Drinker + Mr.
 Holt called.
 

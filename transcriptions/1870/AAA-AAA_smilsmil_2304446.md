@@ -26,21 +26,21 @@ about ½ an hour. I did nothing
 worth counting until 12 o'clk
 when I went to Y.M.C.A. Bldg. +
 called on T.W. Wood, my old, Tait
-+ Louis' [illegible]. I gave him my note
+\+ Louis' [illegible]. I gave him my note
 to his sister. While there she came
 in with Miss Goddard + another young
 lady. Home to lunch at 1.20. back
 at 2.15. Afternoon painted a little
 sketch about 3×6 in to fit a frame
 that I have. P.M. checked over lake
-+ mountains — trees + figures in
+\+ mountains — trees + figures in
 foreground. Maggie Girnum and
 two lady friends + a gentleman called.
 Home at 5.15. Went Phil Concert.
 Spohn's Die Meader Jone was given
 superbly. I think I never heard
 the orchestra play so well,
-+ altho' at times feeling quite sick
+\+ altho' at times feeling quite sick
 I enjoyed the concert immensely. — To bed
 about 2. —
 
