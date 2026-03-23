@@ -84,9 +84,15 @@ export async function runSearch(query) {
     return
   }
 
-  // Fetch result data and sort chronologically by YYYY/NNNN id
-  const data = (await Promise.all(results.map(r => r.data())))
-    .sort((a, b) => {
+  // Fetch result data in batches to avoid overwhelming CloudFront,
+  // then sort chronologically by YYYY/NNNN id
+  const BATCH_SIZE = 100
+  const data = []
+  for (let i = 0; i < results.length; i += BATCH_SIZE) {
+    const batch = await Promise.all(results.slice(i, i + BATCH_SIZE).map(r => r.data()))
+    data.push(...batch)
+  }
+  data.sort((a, b) => {
       const idA = (a.meta?.url || a.url).replace(/^[#\/]+/, '')
       const idB = (b.meta?.url || b.url).replace(/^[#\/]+/, '')
       return idA.localeCompare(idB)
