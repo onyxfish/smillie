@@ -86,7 +86,7 @@ export async function runSearch(query) {
 
   // Fetch result data in batches to avoid overwhelming CloudFront,
   // then sort chronologically by YYYY/NNNN id
-  const BATCH_SIZE = 100
+  const BATCH_SIZE = 20
   const data = []
   for (let i = 0; i < results.length; i += BATCH_SIZE) {
     const batch = await Promise.all(results.slice(i, i + BATCH_SIZE).map(r => r.data()))
