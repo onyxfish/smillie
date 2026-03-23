@@ -40,10 +40,14 @@ deploy: build
 	aws s3 sync dist/data/ s3://$(BUCKET)/data/ \
 	  --cache-control "public,max-age=2592000" \
 	  --size-only
-	# Search index: 30-day cache
+	# Search index entry point: no-cache (always revalidate)
+	aws s3 cp dist/pagefind/pagefind-entry.json s3://$(BUCKET)/pagefind/pagefind-entry.json \
+	  --cache-control "no-cache"
+	# Search index files: 30-day cache, delete stale hashed files
 	aws s3 sync dist/pagefind/ s3://$(BUCKET)/pagefind/ \
 	  --cache-control "public,max-age=2592000" \
-	  --size-only
+	  --size-only --delete \
+	  --exclude "pagefind-entry.json"
 	# Invalidate CloudFront cache (excludes images)
 	aws cloudfront create-invalidation --distribution-id $(CF_DIST) \
 	  --paths "/data/*" "/pagefind/*" \

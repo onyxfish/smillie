@@ -84,8 +84,8 @@ export async function runSearch(query) {
     return
   }
 
-  // Fetch result data (limit to 40) and sort chronologically by YYYY/NNNN id
-  const data = (await Promise.all(results.slice(0, 40).map(r => r.data())))
+  // Fetch result data and sort chronologically by YYYY/NNNN id
+  const data = (await Promise.all(results.map(r => r.data())))
     .sort((a, b) => {
       const idA = (a.meta?.url || a.url).replace(/^[#\/]+/, '')
       const idB = (b.meta?.url || b.url).replace(/^[#\/]+/, '')
