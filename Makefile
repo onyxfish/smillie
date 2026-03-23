@@ -1,4 +1,5 @@
 BUCKET    ?= smilliediaries.com
+CF_DIST   ?= E1PKKSHNMDSWX6
 
 .PHONY: dev build deploy upload-images clean install
 
@@ -37,10 +38,16 @@ deploy: build
 	  --cache-control "public,max-age=31536000,immutable"
 	# Data files: 30-day cache
 	aws s3 sync dist/data/ s3://$(BUCKET)/data/ \
-	  --cache-control "public,max-age=2592000"
+	  --cache-control "public,max-age=2592000" \
+	  --checksum-algorithm sha256
 	# Search index: 30-day cache
 	aws s3 sync dist/pagefind/ s3://$(BUCKET)/pagefind/ \
-	  --cache-control "public,max-age=2592000"
+	  --cache-control "public,max-age=2592000" \
+	  --checksum-algorithm sha256
+	# Invalidate CloudFront cache (excludes images)
+	aws cloudfront create-invalidation --distribution-id $(CF_DIST) \
+	  --paths "/*.html" "/css/*" "/js/*" "/assets/*" "/data/*" "/pagefind/*" \
+	  --no-cli-pager > /dev/null
 
 # Upload diary images to S3 (one-time, ~6.8 GB)
 upload-images:

@@ -38,6 +38,15 @@ def strip_artifact(content: str) -> str:
     return re.sub(r"^```\n.*?\n```\n\n", "", content, flags=re.DOTALL)
 
 
+def write_if_changed(path: Path, data) -> bool:
+    """Write JSON to path only if the content has changed. Returns True if written."""
+    new_content = json.dumps(data, ensure_ascii=False)
+    if path.exists() and path.read_text(encoding="utf-8") == new_content:
+        return False
+    path.write_text(new_content, encoding="utf-8")
+    return True
+
+
 def parse_frontmatter(content: str) -> tuple[dict, str]:
     """
     Parse YAML frontmatter using regex (no PyYAML dependency).
@@ -231,8 +240,7 @@ def process_year(
         }
 
         tx_out_path = out_tx_dir / f"{file_uri}.json"
-        with open(tx_out_path, "w") as f:
-            json.dump(tx_json, f, ensure_ascii=False)
+        write_if_changed(tx_out_path, tx_json)
 
         # Update date index (first occurrence wins)
         for date in fm.get("dates", []):
@@ -271,7 +279,8 @@ def process_year(
 </html>
 """
             pf_path = pf_year_dir / f"{file_uri}.html"
-            pf_path.write_text(pf_html)
+            if not pf_path.exists() or pf_path.read_text(encoding="utf-8") != pf_html:
+                pf_path.write_text(pf_html, encoding="utf-8")
 
     # Update year index
     year_index[year_str] = {
@@ -310,21 +319,24 @@ def build(years: list[int]):
 
     # Write manifest.json
     manifest_path = OUTPUT_DIR / "manifest.json"
-    with open(manifest_path, "w") as f:
-        json.dump(manifest, f, ensure_ascii=False)
-    print(f"\nWrote {manifest_path} ({len(manifest)} entries)")
+    if write_if_changed(manifest_path, manifest):
+        print(f"\nWrote {manifest_path} ({len(manifest)} entries)")
+    else:
+        print(f"\nUnchanged {manifest_path}")
 
     # Write year-index.json
     year_index_path = OUTPUT_DIR / "year-index.json"
-    with open(year_index_path, "w") as f:
-        json.dump(year_index, f, ensure_ascii=False)
-    print(f"Wrote {year_index_path} ({len(year_index)} years)")
+    if write_if_changed(year_index_path, year_index):
+        print(f"Wrote {year_index_path} ({len(year_index)} years)")
+    else:
+        print(f"Unchanged {year_index_path}")
 
     # Write date-index.json
     date_index_path = OUTPUT_DIR / "date-index.json"
-    with open(date_index_path, "w") as f:
-        json.dump(date_index, f, ensure_ascii=False)
-    print(f"Wrote {date_index_path} ({len(date_index)} dates)")
+    if write_if_changed(date_index_path, date_index):
+        print(f"Wrote {date_index_path} ({len(date_index)} dates)")
+    else:
+        print(f"Unchanged {date_index_path}")
 
     # Count Pagefind stubs
     pf_count = (
