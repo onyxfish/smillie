@@ -1,5 +1,7 @@
 # The Diaries of James David Smillie
 
+**Live site: [smilliediaries.com](https://smilliediaries.com/)**
+
 A web application for browsing AI-generated transcriptions of the personal diaries of American artist James David Smillie (1833–1909), spanning 1865–1909. The physical diaries are held in the [James D. Smillie and Smillie family papers](https://www.aaa.si.edu/collections/james-d-smillie-and-smillie-family-papers-13469/series-1) at the Archives of American Art, Smithsonian Institution.
 
 Transcriptions were created by feeding archive photographs to Anthropic's Claude Sonnet model. They have not been human-verified, but spot checks have found them to be highly accurate.
