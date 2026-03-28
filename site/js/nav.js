@@ -10,6 +10,10 @@ let nextBtn = null
 let prevBtnBottom = null
 let nextBtnBottom = null
 
+// Swipe detection state
+const SWIPE_THRESHOLD = 50   // minimum horizontal distance in px
+const SWIPE_MAX_ANGLE = 0.5  // max ratio of vertical/horizontal to count as horizontal swipe
+
 /**
  * Initialize navigation buttons and keyboard shortcuts
  */
@@ -38,6 +42,46 @@ export function initNav() {
       navigateByDelta(1)
     }
   })
+
+  // Touch swipe for mobile navigation
+  initSwipe()
+}
+
+/**
+ * Attach touch swipe listeners to the viewer page
+ */
+function initSwipe() {
+  const viewer = document.getElementById('viewer-page')
+  const lightbox = document.getElementById('lightbox')
+
+  let touchStartX = null
+  let touchStartY = null
+
+  viewer.addEventListener('touchstart', (e) => {
+    touchStartX = e.touches[0].clientX
+    touchStartY = e.touches[0].clientY
+  }, { passive: true })
+
+  viewer.addEventListener('touchend', (e) => {
+    // Skip if no valid touchstart was recorded or the lightbox is open
+    if (touchStartX === null || lightbox.classList.contains('active')) return
+
+    const dx = e.changedTouches[0].clientX - touchStartX
+    const dy = e.changedTouches[0].clientY - touchStartY
+
+    touchStartX = null
+    touchStartY = null
+
+    // Only treat as a horizontal swipe when the horizontal distance is
+    // large enough and the gesture isn't too diagonal (avoids division by zero).
+    if (Math.abs(dx) >= SWIPE_THRESHOLD && Math.abs(dy) <= Math.abs(dx) * SWIPE_MAX_ANGLE) {
+      if (dx < 0) {
+        navigateByDelta(1)   // swipe left → next page
+      } else {
+        navigateByDelta(-1)  // swipe right → previous page
+      }
+    }
+  }, { passive: true })
 }
 
 /**
