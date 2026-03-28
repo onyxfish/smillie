@@ -58,6 +58,9 @@ function initSwipe() {
   let touchStartY = null
 
   viewer.addEventListener('touchstart', (e) => {
+    // Don't initiate swipe if touch started inside the nav controls
+    // (e.g. the scrubber or date picker) so those controls remain usable.
+    if (e.target.closest('.nav-controls')) return
     touchStartX = e.touches[0].clientX
     touchStartY = e.touches[0].clientY
   }, { passive: true })
